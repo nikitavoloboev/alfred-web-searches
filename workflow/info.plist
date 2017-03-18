@@ -8,7 +8,7 @@
 	<string>web</string>
 	<key>connections</key>
 	<dict>
-		<key>478DD819-89D0-4478-A91A-827B41DBC3D0</key>
+		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -59,7 +59,7 @@
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>478DD819-89D0-4478-A91A-827B41DBC3D0</string>
+			<string>1551AD25-4D17-4E41-99B1-AA30B227FF64</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -112,16 +112,16 @@
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>360</integer>
+			<integer>520</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>230</integer>
 		</dict>
-		<key>478DD819-89D0-4478-A91A-827B41DBC3D0</key>
+		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
 		<dict>
 			<key>xpos</key>
-			<integer>140</integer>
+			<integer>340</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>230</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
