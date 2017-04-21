@@ -112,16 +112,16 @@
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>520</integer>
+			<integer>420</integer>
 			<key>ypos</key>
-			<integer>230</integer>
+			<integer>50</integer>
 		</dict>
 		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
 		<dict>
 			<key>xpos</key>
-			<integer>340</integer>
+			<integer>240</integer>
 			<key>ypos</key>
-			<integer>230</integer>
+			<integer>50</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
