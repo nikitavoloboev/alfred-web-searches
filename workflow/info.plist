@@ -5,7 +5,7 @@
 	<key>bundleid</key>
 	<string>nikivi.web.searches</string>
 	<key>category</key>
-	<string>web</string>
+	<string>mine</string>
 	<key>connections</key>
 	<dict>
 		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>a: web searches</string>
+	<string>web searches</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -112,16 +112,16 @@
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>420</integer>
+			<integer>240</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>60</integer>
 		</dict>
 		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
 		<dict>
 			<key>xpos</key>
-			<integer>240</integer>
+			<integer>60</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>60</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
