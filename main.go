@@ -37,7 +37,6 @@ const updateJobName = "checkForUpdate"
 const repo = "nikitavoloboev/alfred-web-searches"
 
 func run() {
-
 	// https://www.reddit.com/r/golang/search?q=test&restrict_sr=on&sort=relevance&t=all
 	aw.NewItem("r: golang")
 	aw.SendFeedback()

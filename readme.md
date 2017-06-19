@@ -1,4 +1,4 @@
-# Idea 💡
+<h1 align="center"> Idea 💡 </h1>
 
 In Alfred, you can create custom searches here : 
 
