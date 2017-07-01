@@ -8,11 +8,11 @@
 	<string>mine</string>
 	<key>connections</key>
 	<dict>
-		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
+		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</string>
+				<string>5A63648C-95CD-4A65-9FCA-E289BC1D0596</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -35,39 +35,31 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
+				<key>lastpathcomponent</key>
 				<false/>
-				<key>focusedappvariablename</key>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
 				<string></string>
-				<key>hotkey</key>
-				<integer>79</integer>
-				<key>hotmod</key>
-				<integer>8388608</integer>
-				<key>hotstring</key>
-				<string>F18</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
+				<key>title</key>
+				<string>{query}</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>1551AD25-4D17-4E41-99B1-AA30B227FF64</string>
+			<string>5A63648C-95CD-4A65-9FCA-E289BC1D0596</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>escaping</key>
@@ -112,16 +104,16 @@
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>240</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>60</integer>
+			<integer>40</integer>
 		</dict>
-		<key>1551AD25-4D17-4E41-99B1-AA30B227FF64</key>
+		<key>5A63648C-95CD-4A65-9FCA-E289BC1D0596</key>
 		<dict>
 			<key>xpos</key>
-			<integer>60</integer>
+			<integer>360</integer>
 			<key>ypos</key>
-			<integer>60</integer>
+			<integer>40</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
