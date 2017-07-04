@@ -20,3 +20,6 @@ However they are very limiting to my needs. I have over 300 + web searches and I
 I want to make a dedicated workflow that is incredibly easy to extend and edit that would essentially put all web searches on a single hotkey and would allow me to fuzzy search and make any web search I want to make in a second.
 
 
+<h1 align="center"> Thanks 🍀</h1>
+
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
