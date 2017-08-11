@@ -8,6 +8,19 @@
 	<string>mine</string>
 	<key>connections</key>
 	<dict>
+		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<array>
 			<dict>
@@ -74,19 +87,13 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>search {var:ARG} for {query}</string>
-				<key>withspace</key>
-				<true/>
+				<key>triggerid</key>
+				<string>web searches</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
+			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</string>
+			<string>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -137,6 +144,25 @@ echo -n ${URL/tester/$query}</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>search {var:ARG} for {query}</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>argumenttrimmode</key>
@@ -180,21 +206,46 @@ echo -n ${URL/tester/$query}</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>triggerid</key>
-				<string>web searches</string>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</string>
+			<string>12976163-3ECA-4242-AA2F-049100EE88ED</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
+		<dict>
+			<key>xpos</key>
+			<integer>50</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
@@ -228,7 +279,7 @@ echo -n ${URL/tester/$query}</string>
 			<key>xpos</key>
 			<integer>50</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
