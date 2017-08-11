@@ -9,15 +9,34 @@
 	</a>
 </div>
 
-<h1 align="center"> Idea 💡 </h1>
+<h1 align="center"> Description 📕</h1>
 
-In Alfred, you can create custom searches here : 
+This workflow is similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
-![](http://i.imgur.com/SDHCqHw.png)
+You simply search for the website you want to scope your search too, press enter and make your search.
 
-However they are very limiting to my needs. I have over 300 + web searches and I love to use prefixes to quickly scope the web search I want to make. 
 
-I want to make a dedicated workflow that is incredibly easy to extend and edit that would essentially put all web searches on a single hotkey and would allow me to fuzzy search and make any web search I want to make in a second.
+Each search has a prefix to signify the theme or scope of the search. For example results prefixed with `r: ` will search through subreddits. Here is the full list of prefixes and their descriptions.
+
+|  prefix |  description |
+|---|---|
+|  r: | search through various subreddits on [Reddit](https://www.reddit.com)  |
+|  d: | search through various documentation websites |
+|  g: | search through GitHub |
+|  s: | search through various stack exchange sites |
+| w:  | search ordinary websites (none of the above) |
+
+
+<h1 align="center"> Install 💎</h1>
+
+Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
+
+
+<h1 align="center"> Contributing 💛 </h1>
+
+If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
+
+It has a simple structure of argument, then comma, then what website is going to be searched for where the query you are searching for is replaced with `tester`.
 
 
 <h1 align="center"> Thanks 🍀</h1>
