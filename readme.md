@@ -20,10 +20,11 @@ Each search has a prefix to signify the theme or scope of the search. For exampl
 
 |  prefix |  description |
 |---|---|
-|  r: | search through various subreddits on [Reddit](https://www.reddit.com)  |
-|  d: | search through various documentation websites |
-|  g: | search through GitHub |
-|  s: | search through various stack exchange sites |
+|  r: | search subreddits on [Reddit](https://www.reddit.com)  |
+|  d: | search documentation websites |
+|  g: | search GitHub |
+|  s: | search stack exchange sites |
+| f:  | search forums |
 | w:  | search ordinary websites (none of the above) |
 
 
@@ -36,7 +37,7 @@ Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/a
 
 If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
 
-It has a simple structure of argument, then comma, then what website is going to be searched for where the query you are searching for is replaced with `tester`.
+It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
 
 
 <h1 align="center"> Thanks 🍀</h1>
