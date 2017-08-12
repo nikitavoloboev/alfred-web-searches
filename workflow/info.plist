@@ -8,6 +8,19 @@
 	<string>mine</string>
 	<key>connections</key>
 	<dict>
+		<key>0B629748-2068-4345-BA43-5772F37C3013</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>64553C43-17D7-47DB-9683-2EF6A128F514</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
 		<array>
 			<dict>
@@ -41,6 +54,16 @@
 				<string>C94BCEFA-1DEE-4E57-AADB-25226571390C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0B629748-2068-4345-BA43-5772F37C3013</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -100,14 +123,31 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>search {var:ARG} for {query}</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>query=$1
-
-echo -n ${URL/tester/$query}</string>
+				<string>echo -n ${URL/tester/$1}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -144,25 +184,6 @@ echo -n ${URL/tester/$query}</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>search {var:ARG} for {query}</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>argumenttrimmode</key>
@@ -182,7 +203,7 @@ echo -n ${URL/tester/$query}</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-web-searches websites</string>
+				<string>./alfred-web-searches websites -q "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -234,11 +255,60 @@ echo -n ${URL/tester/$query}</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string>com.google.Chrome</string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>64553C43-17D7-47DB-9683-2EF6A128F514</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n ${URL/tester/$1}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0B629748-2068-4345-BA43-5772F37C3013</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>0B629748-2068-4345-BA43-5772F37C3013</key>
+		<dict>
+			<key>xpos</key>
+			<integer>610</integer>
+			<key>ypos</key>
+			<integer>180</integer>
+		</dict>
 		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
 		<dict>
 			<key>xpos</key>
@@ -253,6 +323,13 @@ echo -n ${URL/tester/$query}</string>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
+		<key>64553C43-17D7-47DB-9683-2EF6A128F514</key>
+		<dict>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>180</integer>
+		</dict>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<dict>
 			<key>xpos</key>
@@ -263,14 +340,14 @@ echo -n ${URL/tester/$query}</string>
 		<key>A16C9145-6939-48CC-8054-EF9FD220B697</key>
 		<dict>
 			<key>xpos</key>
-			<integer>740</integer>
+			<integer>800</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
 		<key>C94BCEFA-1DEE-4E57-AADB-25226571390C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>570</integer>
+			<integer>610</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>

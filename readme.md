@@ -25,6 +25,7 @@ Each search has a prefix to signify the theme or scope of the search. For exampl
 |  g: | search GitHub |
 |  s: | search stack exchange sites |
 | f:  | search forums |
+| t:  | search Google Translate |
 | w:  | search ordinary websites (none of the above) |
 
 

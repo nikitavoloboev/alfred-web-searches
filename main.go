@@ -23,6 +23,7 @@ var (
 	// script options (populated by kingpin application)
 	searchURL  *url.URL
 	maxResults int
+	query      string
 
 	// workflow
 	wf *aw.Workflow
@@ -38,6 +39,10 @@ func init() {
 
 	filterWebsitesCmd = app.Command("websites", "filters websites").Alias("fl")
 
+	for _, cmd := range []*kingpin.CmdClause{filterWebsitesCmd} {
+		cmd.Flag("query", "search query").Short('q').StringVar(&query)
+	}
+
 	// list action commands
 	app.DefaultEnvars()
 }
@@ -50,10 +55,11 @@ func filterWebsites(links map[string]string) {
 	var re = regexp.MustCompile(`.: `)
 
 	for key, value := range links {
-		wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).SortKey(key)
+		wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``))
 		log.Println(key)
 		log.Println(value)
 	}
+	wf.Filter(query)
 	wf.SendFeedback()
 }
 
