@@ -4,7 +4,6 @@ import (
 	"encoding/csv"
 	"fmt"
 	"log"
-	"net/url"
 	"os"
 	"regexp"
 	// "strings"
@@ -21,9 +20,7 @@ var (
 	filterWebsitesCmd *kingpin.CmdClause
 
 	// script options (populated by kingpin application)
-	searchURL  *url.URL
-	maxResults int
-	query      string
+	query string
 
 	// workflow
 	wf *aw.Workflow
@@ -55,7 +52,7 @@ func filterWebsites(links map[string]string) {
 	var re = regexp.MustCompile(`.: `)
 
 	for key, value := range links {
-		wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``))
+		wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key)
 		log.Println(key)
 		log.Println(value)
 	}
@@ -92,8 +89,6 @@ func run() {
 	if err != nil {
 		wf.FatalError(err)
 	}
-
-	wf.MaxResults = maxResults
 
 	switch cmd {
 	case filterWebsitesCmd.FullCommand():

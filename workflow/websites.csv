@@ -203,7 +203,6 @@ w: google for past 24 hours, https://www.google.com/search?q=tester&tbs=qdr:d
 w: google for pdfs, https://www.google.com/#q=filetype:pdf+tester
 w: google groups, http://groups.google.com/groups?q=tester
 w: google scholar, https://scholar.google.com/scholar?hl=en&q=tester&btnG=&as_sdt=1%2C44&as_sdtp=
-w: google scholar past 2015, https://scholar.google.com/scholar?as_ylo=2015&q=tester&hl=en&as_sdt=0,44
 w: google verbatim, https://www.google.com/search?q=tester&tbs=li:1
 w: grouevee, https://www.grouvee.com/search/?q=tester
 w: habrahabr, http://habrahabr.ru/search/?q=tester
@@ -270,3 +269,4 @@ w: wikihow, http://www.wikihow.com/Special:LSearch?search=tester
 w: wolfram alpha derive, http://www.wolframalpha.com/input/?i=derive+tester
 w: wolfram alpha integrate, http://www.wolframalpha.com/input/?i=integrate+tester
 w: wolfram alpha solve, http://www.wolframalpha.com/input/?i=solve+tester
+w: goodreads, https://www.goodreads.com/search?q=tester

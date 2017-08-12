@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>64553C43-17D7-47DB-9683-2EF6A128F514</string>
+				<string>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -259,7 +259,7 @@
 			<key>config</key>
 			<dict>
 				<key>browser</key>
-				<string>com.google.Chrome</string>
+				<string></string>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
@@ -270,7 +270,7 @@
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>64553C43-17D7-47DB-9683-2EF6A128F514</string>
+			<string>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -282,7 +282,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$1}</string>
+				<string>echo -n ${URL/tester/$1/}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -323,10 +323,10 @@
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
-		<key>64553C43-17D7-47DB-9683-2EF6A128F514</key>
+		<key>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>780</integer>
+			<integer>810</integer>
 			<key>ypos</key>
 			<integer>180</integer>
 		</dict>
