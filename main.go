@@ -6,14 +6,18 @@ import (
 	"log"
 	"os"
 	"regexp"
-	// "strings"
+	"strings"
 
 	"gogs.deanishe.net/deanishe/awgo"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
+// name of background job that checks for updates
+const updateJobName = "checkForUpdate"
+const repo = "deanishe/alfred-ssh"
+
 var (
-	// kingpin and script options
+	// kingpin and script
 	app *kingpin.Application
 
 	// application commands
@@ -21,6 +25,14 @@ var (
 
 	// script options (populated by kingpin application)
 	query string
+
+	// icons
+	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
+	docIcon       = &aw.Icon{Value: "icons/doc.png"}
+	gitubIcon     = &aw.Icon{Value: "icons/github.png"}
+	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
+	translateIcon = &aw.Icon{Value: "icons/translate.png"}
+	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
 
 	// workflow
 	wf *aw.Workflow
@@ -52,9 +64,19 @@ func filterWebsites(links map[string]string) {
 	var re = regexp.MustCompile(`.: `)
 
 	for key, value := range links {
-		wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key)
-		log.Println(key)
-		log.Println(value)
+		if strings.Contains(key, "r: ") {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(redditIcon)
+		} else if strings.Contains(key, "d: ") {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(docIcon)
+		} else if strings.Contains(key, "g: ") {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(gitubIcon)
+		} else if strings.Contains(key, "s: ") {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(stackIcon)
+		} else if strings.Contains(key, "f: ") {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(forumsIcon)
+		} else {
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key)
+		}
 	}
 	wf.Filter(query)
 	wf.SendFeedback()
