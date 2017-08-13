@@ -28,6 +28,9 @@ Each search has a prefix to signify the theme or scope of the search. For exampl
 | t:  | search Google Translate |
 | w:  | search ordinary websites (none of the above) |
 
+Each prefix also has a corresponding icon for visual feedback of prefix meaning. 
+
+<p align="center"><img src="media/alfred.png" alt="img" width="600"></p>
 
 <h1 align="center"> Install 💎</h1>
 
