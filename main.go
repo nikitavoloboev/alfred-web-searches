@@ -14,7 +14,7 @@ import (
 
 // name of background job that checks for updates
 const updateJobName = "checkForUpdate"
-const repo = "deanishe/alfred-ssh"
+const repo = "nikitavoloboev/web-searches"
 
 var (
 	// kingpin and script
@@ -37,6 +37,10 @@ var (
 	// workflow
 	wf *aw.Workflow
 )
+
+type options struct {
+	checkForUpdate bool // download list of available releases
+}
 
 // sets up kingpin flags
 func init() {
@@ -80,6 +84,21 @@ func filterWebsites(links map[string]string) {
 	}
 	wf.Filter(query)
 	wf.SendFeedback()
+}
+
+// TODO: does not work I think
+func runUpdate(o *options) {
+	wf.TextErrors = true
+
+	if err := wf.CheckForUpdate(); err != nil {
+		wf.FatalError(err)
+	}
+
+	if wf.UpdateAvailable() {
+		log.Printf("[update] An update is available")
+	} else {
+		log.Printf("[update] Workflow is up to date")
+	}
 }
 
 func run() {
