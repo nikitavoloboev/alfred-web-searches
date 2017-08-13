@@ -268,7 +268,7 @@ w: wolfram alpha derive,http://www.wolframalpha.com/input/?i=derive+tester
 w: wolfram alpha integrate,http://www.wolframalpha.com/input/?i=integrate+tester
 w: wolfram alpha solve,http://www.wolframalpha.com/input/?i=solve+tester
 w: goodreads,https://www.goodreads.com/search?q=tester
-r: machine learning ,https://www.reddit.com/r/MachineLearning/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: machine learning,https://www.reddit.com/r/MachineLearning/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: soundcloud,https://soundcloud.com/search?q=tester
 w: gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic=tester
 w: bubblehunt,https://bubblehunt.com/?q=tester

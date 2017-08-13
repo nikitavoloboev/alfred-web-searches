@@ -46,6 +46,29 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0B629748-2068-4345-BA43-5772F37C3013</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<array>
@@ -59,11 +82,14 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+		</array>
+		<key>B7FC16DD-E9D4-42BD-BACA-959DDB472C21</key>
+		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0B629748-2068-4345-BA43-5772F37C3013</string>
+				<string>44998311-C8A5-4011-AAE6-6A13032F27CE</string>
 				<key>modifiers</key>
-				<integer>262144</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -110,13 +136,19 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>triggerid</key>
-				<string>web searches</string>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
+			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</string>
+			<string>A16C9145-6939-48CC-8054-EF9FD220B697</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -165,19 +197,13 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
+				<key>triggerid</key>
+				<string>web searches</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
+			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>A16C9145-6939-48CC-8054-EF9FD220B697</string>
+			<string>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -258,6 +284,25 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>search {var:ARG} recent for {query}</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -282,7 +327,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$1/}</string>
+				<string>echo -n ${RECENT/tester/$1}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -297,6 +342,46 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>edit web</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>edit web searches</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B7FC16DD-E9D4-42BD-BACA-959DDB472C21</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>44998311-C8A5-4011-AAE6-6A13032F27CE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -305,58 +390,79 @@
 		<key>0B629748-2068-4345-BA43-5772F37C3013</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>580</integer>
 			<key>ypos</key>
-			<integer>180</integer>
+			<integer>210</integer>
 		</dict>
 		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>140</integer>
+			<integer>190</integer>
 		</dict>
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>230</integer>
+			<integer>200</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>90</integer>
+		</dict>
+		<key>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</key>
+		<dict>
+			<key>xpos</key>
+			<integer>390</integer>
+			<key>ypos</key>
+			<integer>210</integer>
 		</dict>
 		<key>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>810</integer>
+			<integer>770</integer>
 			<key>ypos</key>
-			<integer>180</integer>
+			<integer>210</integer>
+		</dict>
+		<key>44998311-C8A5-4011-AAE6-6A13032F27CE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>270</integer>
+			<key>ypos</key>
+			<integer>400</integer>
 		</dict>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<dict>
 			<key>xpos</key>
 			<integer>400</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>30</integer>
 		</dict>
 		<key>A16C9145-6939-48CC-8054-EF9FD220B697</key>
 		<dict>
 			<key>xpos</key>
-			<integer>800</integer>
+			<integer>780</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>30</integer>
+		</dict>
+		<key>B7FC16DD-E9D4-42BD-BACA-959DDB472C21</key>
+		<dict>
+			<key>xpos</key>
+			<integer>90</integer>
+			<key>ypos</key>
+			<integer>400</integer>
 		</dict>
 		<key>C94BCEFA-1DEE-4E57-AADB-25226571390C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>580</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>30</integer>
 		</dict>
 		<key>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>60</integer>
 		</dict>
 	</dict>
 	<key>variables</key>

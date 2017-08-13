@@ -65,21 +65,22 @@ func init() {
 // fills Alfred with hash map values and shows keys
 func filterWebsites(links map[string]string) {
 
-	var re = regexp.MustCompile(`.: `)
+	var re1 = regexp.MustCompile(`.: `)
+	var re2 = regexp.MustCompile(`(all)`)
 
 	for key, value := range links {
 		if strings.Contains(key, "r: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(redditIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(redditIcon).Var("RECENT", re2.ReplaceAllString(value, `week`)).Subtitle("⌃ = search past week")
 		} else if strings.Contains(key, "d: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(docIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(docIcon)
 		} else if strings.Contains(key, "g: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(gitubIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(gitubIcon)
 		} else if strings.Contains(key, "s: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(stackIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(stackIcon)
 		} else if strings.Contains(key, "f: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key).Icon(forumsIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(forumsIcon)
 		} else {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re.ReplaceAllString(key, ``)).UID(key)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key)
 		}
 	}
 	wf.Filter(query)
@@ -103,6 +104,8 @@ func runUpdate(o *options) {
 
 func run() {
 	var err error
+
+	// runUpdate()
 
 	// load values from websites.csv to a hash map
 	f, err := os.Open("websites.csv")
