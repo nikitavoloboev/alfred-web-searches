@@ -1,5 +1,5 @@
-w: github,https://github.com/search?utf8=✓&q=tester&type=
-r: reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
+g: github,https://github.com/search?utf8=✓&q=tester&type=
+w: reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
 g: github most stars,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
 g: github recent,https://github.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
 r: advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q=tester&restrict_sr=on&sort=relevance&t=all
@@ -193,7 +193,6 @@ w: instagram tags,https://instagram.com/explore/tags/tester/
 w: open subreddit,https://www.reddit.com/r/tester
 w: twitter user,https://twitter.com/tester
 w: merriam webster dictionary,http://www.merriam-webster.com/dictionary/tester
-w: github,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults
 w: golang,https://golang.org/search?q=tester
 w: goodreads quotes,https://www.goodreads.com/quotes/search?utf8=✓&q=tester&commit=Search
 w: google drive,https://drive.google.com/drive/search?q=tester
@@ -230,11 +229,11 @@ w: proof wiki,https://proofwiki.org/w/index.php?title=Special%3ASearch&search=te
 w: proofwiki,https://proofwiki.org/w/index.php?search=tester&title=Special%3ASearch&go=Go
 w: psychonaut wiki,https://psychonautwiki.org/wiki/tester
 w: quizlet,https://quizlet.com/subject/tester/
-r: reddit for past month,https://www.reddit.com/search?q=tester&t=month
-r: reddit for past week,https://www.reddit.com/search?q=tester&t=week
-r: reddit for past year,https://www.reddit.com/search?q=tester&t=year
-r: reddit for the past day,https://www.reddit.com/search?q=tester&t=day
-r: reddit for the past hour,https://www.reddit.com/search?q=tester&t=hour
+w: reddit for past month,https://www.reddit.com/search?q=tester&t=month
+w: reddit for past week,https://www.reddit.com/search?q=tester&t=week
+w: reddit for past year,https://www.reddit.com/search?q=tester&t=year
+w: reddit for the past day,https://www.reddit.com/search?q=tester&t=day
+w: reddit for the past hour,https://www.reddit.com/search?q=tester&t=hour
 w: ruby gems,https://rubygems.org/search?utf8=%E2%9C%93&query=tester
 w: rutracker,http://rutracker.org/forum/tracker.php?nm=tester
 w: simple wikipedia,https://simple.wikipedia.org/w/index.php?search=tester&title=Special%3ASearch&go=Go
@@ -270,15 +269,15 @@ w: wolfram alpha solve,http://www.wolframalpha.com/input/?i=solve+tester
 w: goodreads,https://www.goodreads.com/search?q=tester
 r: machine learning,https://www.reddit.com/r/MachineLearning/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: soundcloud,https://soundcloud.com/search?q=tester
-w: gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic=tester
+d: gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic=tester
 w: bubblehunt,https://bubblehunt.com/?q=tester
 w: pinboard topics,https://pinboard.in/t:tester/
 w: find lectures,https://www.findlectures.com/?q=tester&p=1&
 w: kaggle,https://www.kaggle.com/discussion?sortBy=relevance&group=all&search=tester&page=1&category=all&kind=topics
 w: lobsters, https://lobste.rs/search?utf8=✓&q=tester&what=all&order=relevance
 w: aminer, http://aminer.org/search?t=b&q=tester
-w: gitlogs,http://www.gitlogs.com/most_popular?topic=tester
-w: gitlogs - last week,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
+d: gitlogs,http://www.gitlogs.com/most_popular?topic=tester
+d: gitlogs - last week,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
 d: pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
 f: alfred forum,http://www.alfredforum.com/search/?&q=tester
 f: alfred forum - newest,https://www.alfredforum.com/search/?q=tester&sortby=newest
@@ -295,9 +294,9 @@ w: quora - past month,https://www.quora.com/search?q=tester&time=month
 w: letterboxd,http://letterboxd.com/search/tester/
 w: letterboxd - tags,http://letterboxd.com/search/tags/tester/
 w: letterboxd - actors,http://letterboxd.com/search/actors/tester/
-w: stack overflow - newest,http://stackoverflow.com/search?tab=newest&q=tester
-w: stack overflow - most votes,http://stackoverflow.com/search?tab=votes&q=tester
-w: stack overflow - ative,http://stackoverflow.com/search?tab=active&q=tester
+s: stack overflow - newest,http://stackoverflow.com/search?tab=newest&q=tester
+s: stack overflow - most votes,http://stackoverflow.com/search?tab=votes&q=tester
+s: stack overflow - ative,http://stackoverflow.com/search?tab=active&q=tester
 w: medium,https://medium.com/search?q=tester
 w: medium - users,https://medium.com/search/users?q=tester
 w: medium - tags,https://medium.com/search/tags?q=tester
@@ -327,14 +326,14 @@ w: hacker news - stories all time,https://hn.algolia.com/?query=tester&sort=byPo
 w: hacker news - comments past month,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
 w: idope - top seed,http://www.idope.se/torrent/tester/
 w: idope - most recent,https://idope.se/torrent-list/tester/?&o=-3
-w: github - code,https://github.com/search?q=tester&ref=searchresults&type=Code&utf8=%E2%9C%93
-w: github - users,https://github.com/search?o=desc&q=tester&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
-w: github - most forks,https://github.com/search?o=desc&q=tester&ref=searchresults&s=forks&type=Repositories&utf8=✓
-w: github - most starred,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
-r: reddit - top this month,https://www.reddit.com/search?q=tester&sort=top&t=month
-r: reddit - new,https://www.reddit.com/search?q=tester&sort=new&t=all
-r: reddit - past year,https://www.reddit.com/search?q=tester&sort=relevance&t=year
-r: reddit - top all,https://www.reddit.com/search?q=tester&sort=top&t=all
+g: github - code,https://github.com/search?q=tester&ref=searchresults&type=Code&utf8=%E2%9C%93
+g: github - users,https://github.com/search?o=desc&q=tester&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
+g: github - most forks,https://github.com/search?o=desc&q=tester&ref=searchresults&s=forks&type=Repositories&utf8=✓
+g: github - most starred,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
+w: reddit - top this month,https://www.reddit.com/search?q=tester&sort=top&t=month
+w: reddit - new,https://www.reddit.com/search?q=tester&sort=new&t=all
+w: reddit - past year,https://www.reddit.com/search?q=tester&sort=relevance&t=year
+w: reddit - top all,https://www.reddit.com/search?q=tester&sort=top&t=all
 w: wolfram alpha,http://www.wolframalpha.com/input/?i=tester
 w: wiki search,http://wikisearch.surge.sh/tester
 w: scholarpedia,http://www.scholarpedia.org/w/index.php?search=tester&button=&title=Special%3ASearch
