@@ -316,7 +316,7 @@ g: github - issues,https://github.com/search?q=tester&ref=searchresults&type=Iss
 g: github - commits,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Commits&ref=searchresults
 g: github - wikis,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Wikis&ref=searchresults
 w: dribble,https://dribbble.com/search?q=tester
-w: drible - latest,https://dribbble.com/search?q=tester&s=latest
+w: dribble - latest,https://dribbble.com/search?q=tester&s=latest
 w: goodreads - lists,https://www.goodreads.com/search?q=tester&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
 w: goodreads - quotes,https://www.goodreads.com/search?utf8=✓&query=tester
 w: goodreads - people,https://www.goodreads.com/search?q=tester&search%5Bsource%5D=goodreads&search_type=people&tab=people
