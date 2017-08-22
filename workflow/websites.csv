@@ -354,46 +354,9 @@ d: git logs - go,http://www.gitlogs.com/most_popular?from=last-week&language=Go&
 w: google trends - 30 days,https://www.google.com/trends/explore?date=today%201-m&q=tester
 w: google trends - 1 day,https://www.google.com/trends/explore?date=now%201-d&q=tester
 w: google trends - 1 year,https://www.google.com/trends/explore?q=tester
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+g: github - shell,https://github.com/search?l=Shell&q=tester&type=Repositories&utf8=%E2%9C%93
+g: github - go - recent,https://github.com/search?o=desc&q=tester+language%3Ago&s=updated&type=Repositories
+w: vimeo,https://vimeo.com/search?q=tester
+w: twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q=tester&src=typd
+w: emojipedia,https://emojipedia.org/search/?q=tester
+w: keyboard maestro - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id=tester

@@ -8,13 +8,13 @@ import (
 	"regexp"
 	"strings"
 
-	"gogs.deanishe.net/deanishe/awgo"
+	"git.deanishe.net/deanishe/awgo"
+	"git.deanishe.net/deanishe/awgo/update"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
-// name of background job that checks for updates
+// name of the background job that checks for updates
 const updateJobName = "checkForUpdate"
-const repo = "nikitavoloboev/web-searches"
 
 var (
 	// kingpin and script
@@ -23,7 +23,7 @@ var (
 	// application commands
 	filterWebsitesCmd *kingpin.CmdClause
 
-	// script options (populated by kingpin application)
+	// script options
 	query string
 
 	// icons
@@ -33,18 +33,16 @@ var (
 	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
 	translateIcon = &aw.Icon{Value: "icons/translate.png"}
 	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
+	// iconAvailable = &aw.Icon{Value: "update-available.png"}
+
+	repo = "nikitavoloboev/alfred-web-searches"
 
 	// workflow
 	wf *aw.Workflow
 )
 
-type options struct {
-	checkForUpdate bool // download list of available releases
-}
-
-// sets up kingpin flags
 func init() {
-	wf = aw.NewWorkflow(nil)
+	wf = aw.New(update.GitHub(repo))
 
 	app = kingpin.New("web-searches", "Search through customised list of websites")
 	app.HelpFlag.Short('h')
@@ -61,7 +59,6 @@ func init() {
 }
 
 // _actions
-
 // fills Alfred with hash map values and shows keys
 func filterWebsites(links map[string]string) {
 
@@ -89,25 +86,9 @@ func filterWebsites(links map[string]string) {
 	wf.SendFeedback()
 }
 
-// TODO: does not work I think
-func runUpdate(o *options) {
-	wf.TextErrors = true
-
-	if err := wf.CheckForUpdate(); err != nil {
-		wf.FatalError(err)
-	}
-
-	if wf.UpdateAvailable() {
-		log.Printf("[update] An update is available")
-	} else {
-		log.Printf("[update] Workflow is up to date")
-	}
-}
-
+// :TODO: add auto update
 func run() {
 	var err error
-
-	// runUpdate()
 
 	// load values from websites.csv to a hash map
 	f, err := os.Open("websites.csv")
