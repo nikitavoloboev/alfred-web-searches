@@ -32,6 +32,13 @@ Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 
 <p align="center"><img src="media/alfred.png" alt="img" width="600"></p>
 
+And since the workflow allows for fuzzy searching, you can even make searches like that : 
+
+<p align="center"><img src="media/fuzzy.png" alt="img" width="600"></p>
+
+And they will match.
+
+
 You can also attach a hotkey that will take the selected text and then will let you search for that text on any of the websites.
 
 <h1 align="center"> Install 💎</h1>
