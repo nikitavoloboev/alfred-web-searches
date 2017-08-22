@@ -194,7 +194,7 @@ w: open subreddit,https://www.reddit.com/r/tester
 w: twitter user,https://twitter.com/tester
 w: merriam webster dictionary,http://www.merriam-webster.com/dictionary/tester
 w: golang,https://golang.org/search?q=tester
-w: goodreads quotes,https://www.goodreads.com/quotes/search?utf8=✓&q=tester&commit=Search
+w: goodreads - quotes,https://www.goodreads.com/quotes/search?utf8=✓&q=tester&commit=Search
 w: google drive,https://drive.google.com/drive/search?q=tester
 w: google for past 24 hours,https://www.google.com/search?q=tester&tbs=qdr:d
 w: google for pdfs,https://www.google.com/#q=filetype:pdf+tester
