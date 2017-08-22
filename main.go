@@ -48,7 +48,7 @@ func init() {
 	app.HelpFlag.Short('h')
 	app.Version(wf.Version())
 
-	filterWebsitesCmd = app.Command("websites", "filters websites").Alias("fl")
+	filterWebsitesCmd = app.Command("websites", "filters websites")
 
 	for _, cmd := range []*kingpin.CmdClause{filterWebsitesCmd} {
 		cmd.Flag("query", "search query").Short('q').StringVar(&query)
