@@ -362,3 +362,4 @@ w: emojipedia,https://emojipedia.org/search/?q=tester
 w: openstreatmap,http://www.openstreetmap.org/search?query=tester
 w: startpage,https://www.startpage.com/do/metasearch.pl?query=tester
 w: searx,https://searx.tk/?q=tester
+w: qwant,https://www.qwant.com/?q=tester&t=all
