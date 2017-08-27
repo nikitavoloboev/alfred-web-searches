@@ -364,3 +364,4 @@ w: startpage,https://www.startpage.com/do/metasearch.pl?query=tester
 w: searx,https://searx.tk/?q=tester
 w: qwant,https://www.qwant.com/?q=tester&t=all
 w: duckduckgo,https://duckduckgo.com/?q=tester
+d: vs code docs,https://code.visualstudio.com/Search?q=tester
