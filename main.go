@@ -33,7 +33,7 @@ var (
 	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
 	translateIcon = &aw.Icon{Value: "icons/translate.png"}
 	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
-	// iconAvailable = &aw.Icon{Value: "update-available.png"}
+	iconAvailable = &aw.Icon{Value: "icons/update-available.png"}
 
 	repo = "nikitavoloboev/alfred-web-searches"
 
