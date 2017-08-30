@@ -1,7 +1,7 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
 w: reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
 g: github most stars,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
-g: github recent,https://github.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
+g: github - recent,https://github.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
 r: advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: algorithms,https://www.reddit.com/r/algorithms/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: apple,https://www.reddit.com/r/apple/search?q=tester&restrict_sr=on&sort=relevance&t=all
