@@ -46,7 +46,7 @@ You can also attach a hotkey that will take the selected text and then will let 
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
 
 
-<h1 align="center"> Contributing 💛 </h1>
+<h1 align="center"> Contribute 💛 </h1>
 
 If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
 
