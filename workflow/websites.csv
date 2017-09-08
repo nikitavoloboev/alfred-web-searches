@@ -281,10 +281,10 @@ d: pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
 f: alfred forum,http://www.alfredforum.com/search/?&q=tester
 f: alfred forum - newest,https://www.alfredforum.com/search/?q=tester&sortby=newest
 f: alfred forum - members,https://www.alfredforum.com/search/?&q=tester&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
-f: keyboard maestro,https://forum.keyboardmaestro.com/search?q=tester
-f: keyboard maestro - latest post,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alatest
-f: keyboard maestro - most liked,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alikes
-f: keyboard maestro - most viewed,https://forum.keyboardmaestro.com/search?q=tester%20order%3Aviews
+f: km,https://forum.keyboardmaestro.com/search?q=tester
+f: km - latest post,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alatest
+f: km - most liked,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alikes
+f: km - most viewed,https://forum.keyboardmaestro.com/search?q=tester%20order%3Aviews
 w: quora,https://www.quora.com/search?q=tester
 w: quora - profiles,https://www.quora.com/search?q=tester&type=profile
 w: quora - topics,https://www.quora.com/search?q=tester&type=topic
