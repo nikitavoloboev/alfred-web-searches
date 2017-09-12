@@ -190,7 +190,6 @@ w: go search,http://go-search.org/search?q=tester
 w: google search for past month,https://www.google.com/search?q=tester&tbs=qdr:m
 w: google search for past week,https://www.google.com/search?q=tester&tbs=qdr:w
 w: instagram tags,https://instagram.com/explore/tags/tester/
-w: open subreddit,https://www.reddit.com/r/tester
 w: twitter user,https://twitter.com/tester
 w: merriam webster dictionary,http://www.merriam-webster.com/dictionary/tester
 w: golang,https://golang.org/search?q=tester
