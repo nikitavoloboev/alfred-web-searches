@@ -189,7 +189,7 @@ w: facebook messages,https://www.facebook.com/messages/search?action=search-snip
 w: go search,http://go-search.org/search?q=tester
 w: google search for past month,https://www.google.com/search?q=tester&tbs=qdr:m
 w: google search for past week,https://www.google.com/search?q=tester&tbs=qdr:w
-w: stack overflow jobs,https://stackoverflow.com/jobs?sort=i&q=tester
+w: stack overflow - jobs,https://stackoverflow.com/jobs?sort=i&q=tester
 w: instagram tags,https://instagram.com/explore/tags/tester/
 w: twitter user,https://twitter.com/tester
 w: merriam webster dictionary,http://www.merriam-webster.com/dictionary/tester
