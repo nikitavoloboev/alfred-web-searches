@@ -109,6 +109,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>87300B30-01BD-4E56-9FDC-DE6B018FFB13</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E64FE037-5BDA-41B1-9D90-EEE5BAE54551</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8BD35783-7FBB-4EF3-99B6-81683B970D8C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FA9A5CC0-97D9-41C2-84A6-8E3DD62803D0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>8E596155-99EA-4741-93A6-2F044D5AA0CB</key>
 		<array>
 			<dict>
@@ -140,6 +166,29 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>44998311-C8A5-4011-AAE6-6A13032F27CE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C2F200AE-7909-4604-9E4A-3AA8998FB3E3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EDE5299D-A193-48A9-89FE-C3444151206B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5CF1F7E8-057F-4F60-9028-95DE18487EE8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -187,6 +236,45 @@
 				<false/>
 			</dict>
 		</array>
+		<key>E64FE037-5BDA-41B1-9D90-EEE5BAE54551</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8BD35783-7FBB-4EF3-99B6-81683B970D8C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EDE5299D-A193-48A9-89FE-C3444151206B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>87300B30-01BD-4E56-9FDC-DE6B018FFB13</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FA9A5CC0-97D9-41C2-84A6-8E3DD62803D0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>23473198-D164-44C6-8808-4A8F93A6791C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>nikivi</string>
@@ -198,25 +286,6 @@
 	<string>web searches</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>A16C9145-6939-48CC-8054-EF9FD220B697</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -262,6 +331,25 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A16C9145-6939-48CC-8054-EF9FD220B697</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>triggerid</key>
 				<string>web searches</string>
 			</dict>
@@ -277,6 +365,8 @@
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -294,7 +384,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-web-searches websites -q "$1"</string>
+				<string>./alfred-web-searches search "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -349,25 +439,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>search {var:ARG} recent for {query}</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -381,6 +452,25 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>search {var:ARG} recent for {query}</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -406,25 +496,6 @@
 			<string>0B629748-2068-4345-BA43-5772F37C3013</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>25640D91-BD2C-434C-8EA4-58A0910139D1</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -460,8 +531,52 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n ${URL/tester/$selection}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>30363A54-691F-4C41-8BB7-775A8D39897E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>25640D91-BD2C-434C-8EA4-58A0910139D1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -503,25 +618,20 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>echo -n ${URL/tester/$selection}</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>selection</key>
+					<string>{query}</string>
+				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.script</string>
+			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>30363A54-691F-4C41-8BB7-775A8D39897E</string>
+			<string>8E596155-99EA-4741-93A6-2F044D5AA0CB</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -541,6 +651,112 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>web search for {query}</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>EDE5299D-A193-48A9-89FE-C3444151206B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>23473198-D164-44C6-8808-4A8F93A6791C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>./alfred-web-searches websites -q "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>8BD35783-7FBB-4EF3-99B6-81683B970D8C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>echo -n ${URL/tester/$selection}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FA9A5CC0-97D9-41C2-84A6-8E3DD62803D0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string>{query}</string>
 				<key>variables</key>
@@ -552,7 +768,72 @@
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>8E596155-99EA-4741-93A6-2F044D5AA0CB</string>
+			<string>87300B30-01BD-4E56-9FDC-DE6B018FFB13</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>E64FE037-5BDA-41B1-9D90-EEE5BAE54551</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>1</integer>
+				<key>hotmod</key>
+				<integer>393216</integer>
+				<key>hotstring</key>
+				<string>S</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C2F200AE-7909-4604-9E4A-3AA8998FB3E3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>←</string>
+				<key>keycode</key>
+				<integer>123</integer>
+				<key>keymod</key>
+				<integer>11665408</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>5CF1F7E8-057F-4F60-9028-95DE18487EE8</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -604,129 +885,187 @@
 		<key>0B629748-2068-4345-BA43-5772F37C3013</key>
 		<dict>
 			<key>xpos</key>
-			<integer>580</integer>
+			<integer>700</integer>
 			<key>ypos</key>
-			<integer>210</integer>
+			<integer>490</integer>
 		</dict>
 		<key>12976163-3ECA-4242-AA2F-049100EE88ED</key>
 		<dict>
-			<key>note</key>
-			<string>assign a hotkey you like</string>
 			<key>xpos</key>
-			<integer>20</integer>
+			<integer>140</integer>
 			<key>ypos</key>
-			<integer>190</integer>
+			<integer>470</integer>
 		</dict>
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
+			<key>note</key>
+			<string>search through any website</string>
 			<key>xpos</key>
-			<integer>200</integer>
+			<integer>320</integer>
 			<key>ypos</key>
-			<integer>90</integer>
+			<integer>370</integer>
+		</dict>
+		<key>23473198-D164-44C6-8808-4A8F93A6791C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1100</integer>
+			<key>ypos</key>
+			<integer>1200</integer>
 		</dict>
 		<key>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</key>
 		<dict>
 			<key>note</key>
 			<string>if you ⌃ + ⏎ on reddit searches, it lets you scope search to most recent</string>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>510</integer>
 			<key>ypos</key>
-			<integer>210</integer>
+			<integer>490</integer>
 		</dict>
 		<key>25640D91-BD2C-434C-8EA4-58A0910139D1</key>
 		<dict>
 			<key>xpos</key>
-			<integer>760</integer>
+			<integer>860</integer>
 			<key>ypos</key>
-			<integer>400</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>30363A54-691F-4C41-8BB7-775A8D39897E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>590</integer>
+			<integer>690</integer>
 			<key>ypos</key>
-			<integer>400</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>770</integer>
+			<integer>890</integer>
 			<key>ypos</key>
-			<integer>210</integer>
+			<integer>490</integer>
 		</dict>
 		<key>35851EE6-88B6-4D0C-9EDB-F0BFA70BB8CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>380</integer>
+			<integer>480</integer>
 			<key>ypos</key>
-			<integer>400</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>44998311-C8A5-4011-AAE6-6A13032F27CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>220</integer>
+			<integer>320</integer>
 			<key>ypos</key>
-			<integer>600</integer>
+			<integer>1490</integer>
 		</dict>
 		<key>4BF449D5-9697-4E10-A810-5005F0720FC7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>280</integer>
+			<integer>380</integer>
 			<key>ypos</key>
-			<integer>430</integer>
+			<integer>1030</integer>
+		</dict>
+		<key>5CF1F7E8-057F-4F60-9028-95DE18487EE8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>1340</integer>
+		</dict>
+		<key>87300B30-01BD-4E56-9FDC-DE6B018FFB13</key>
+		<dict>
+			<key>xpos</key>
+			<integer>550</integer>
+			<key>ypos</key>
+			<integer>1230</integer>
+		</dict>
+		<key>8BD35783-7FBB-4EF3-99B6-81683B970D8C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>720</integer>
+			<key>ypos</key>
+			<integer>1200</integer>
 		</dict>
 		<key>8E596155-99EA-4741-93A6-2F044D5AA0CB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>210</integer>
+			<integer>310</integer>
 			<key>ypos</key>
-			<integer>430</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>400</integer>
+			<integer>520</integer>
 			<key>ypos</key>
-			<integer>30</integer>
+			<integer>310</integer>
 		</dict>
 		<key>A16C9145-6939-48CC-8054-EF9FD220B697</key>
 		<dict>
 			<key>xpos</key>
-			<integer>770</integer>
+			<integer>890</integer>
 			<key>ypos</key>
-			<integer>30</integer>
+			<integer>310</integer>
 		</dict>
 		<key>B7FC16DD-E9D4-42BD-BACA-959DDB472C21</key>
 		<dict>
 			<key>note</key>
 			<string>add more searchable websites to GitHub list</string>
 			<key>xpos</key>
-			<integer>40</integer>
+			<integer>140</integer>
 			<key>ypos</key>
-			<integer>600</integer>
+			<integer>1490</integer>
+		</dict>
+		<key>C2F200AE-7909-4604-9E4A-3AA8998FB3E3</key>
+		<dict>
+			<key>note</key>
+			<string>this will take the selected text and then allow you to edit it and then search it on any of the websites available</string>
+			<key>xpos</key>
+			<integer>140</integer>
+			<key>ypos</key>
+			<integer>1230</integer>
 		</dict>
 		<key>C94BCEFA-1DEE-4E57-AADB-25226571390C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>580</integer>
+			<integer>700</integer>
 			<key>ypos</key>
-			<integer>30</integer>
+			<integer>310</integer>
 		</dict>
 		<key>DA146CA4-790E-4E92-9EDD-61BDC877DFF8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>20</integer>
+			<integer>140</integer>
 			<key>ypos</key>
-			<integer>60</integer>
+			<integer>340</integer>
 		</dict>
 		<key>DD325779-BAE8-47FC-938B-8FC107AAF9D0</key>
 		<dict>
 			<key>note</key>
 			<string>this will take the selected text and then allow you to search it on any of the websites available</string>
 			<key>xpos</key>
-			<integer>40</integer>
+			<integer>140</integer>
 			<key>ypos</key>
-			<integer>400</integer>
+			<integer>1000</integer>
+		</dict>
+		<key>E64FE037-5BDA-41B1-9D90-EEE5BAE54551</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>1230</integer>
+		</dict>
+		<key>EDE5299D-A193-48A9-89FE-C3444151206B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>1200</integer>
+		</dict>
+		<key>FA9A5CC0-97D9-41C2-84A6-8E3DD62803D0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>1200</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -735,7 +1074,7 @@
 		<string></string>
 	</dict>
 	<key>version</key>
-	<string></string>
+	<string>2.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-web-searches</string>
 </dict>
