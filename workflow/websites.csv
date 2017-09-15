@@ -368,5 +368,9 @@ d: vs code docs,https://code.visualstudio.com/Search?q=tester
 w: google maps,https://www.google.com/maps/place/tester
 r: videos,https://www.reddit.com/r/videos/search?q=tester&sort=relevance&t=all
 w: bitcoin wiki,https://en.bitcoin.it/w/index.php?search=tester&title=Special%3ASearch&go=Go
-w: reddiut subreddits,https://www.reddit.com/subreddits/search?q=tester
-w: alfred,https://www.alfredapp.com/search/?q=tester
+w: reddit subreddits,https://www.reddit.com/subreddits/search?q=tester
+w: youtube,https://www.youtube.com/results?search_query=tester
+w: google books,https://www.google.com/search?tbm=bks&q=tester
+w: patents,http://patents.com/search/?top_keyword=tester
+w: google drive,https://drive.google.com/drive/search?q=tester
+w: amazon,https://www.amazon.com/gp/search?ie=UTF8&keywords=tester

@@ -2,65 +2,97 @@ package main
 
 import (
 	"encoding/csv"
-	"fmt"
 	"log"
 	"os"
+	"os/exec"
 	"regexp"
 	"strings"
 
 	"git.deanishe.net/deanishe/awgo"
 	"git.deanishe.net/deanishe/awgo/update"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/docopt/docopt-go"
 )
 
-// name of the background job that checks for updates
+// Name of the background job that checks for updates
 const updateJobName = "checkForUpdate"
 
+var usage = `alfred-web-searches [search|check] [<query>]
+
+Search through any website on Earth.
+
+Usage:
+	alfred-web-searches search [<query>]
+	alfred-web-searches check
+    alfred-web-searches -h
+
+Options:
+    -h, --help    Show this message and exit.
+`
+
 var (
-	// kingpin and script
-	app *kingpin.Application
-
-	// application commands
-	filterWebsitesCmd *kingpin.CmdClause
-
-	// script options
-	query string
-
 	// icons
+	iconAvailable = &aw.Icon{Value: "icons/update.png"}
 	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
-	docIcon       = &aw.Icon{Value: "icons/doc.png"}
-	gitubIcon     = &aw.Icon{Value: "icons/github.png"}
-	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
+	githubIcon    = &aw.Icon{Value: "icons/github.png"}
 	translateIcon = &aw.Icon{Value: "icons/translate.png"}
+	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
 	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
-	iconAvailable = &aw.Icon{Value: "icons/update-available.png"}
+	docIcon       = &aw.Icon{Value: "icons/doc.png"}
 
 	repo = "nikitavoloboev/alfred-web-searches"
-
-	// workflow
-	wf *aw.Workflow
+	wf   *aw.Workflow
 )
 
 func init() {
 	wf = aw.New(update.GitHub(repo))
-
-	app = kingpin.New("web-searches", "Search through customised list of websites")
-	app.HelpFlag.Short('h')
-	app.Version(wf.Version())
-
-	filterWebsitesCmd = app.Command("websites", "filters websites")
-
-	for _, cmd := range []*kingpin.CmdClause{filterWebsitesCmd} {
-		cmd.Flag("query", "search query").Short('q').StringVar(&query)
-	}
-
-	// list action commands
-	app.DefaultEnvars()
 }
 
-// _actions
-// fills Alfred with hash map values and shows keys
-func filterWebsites(links map[string]string) {
+func run() {
+
+	// Pass wf.Args() to docopt because our update logic relies on
+	// AwGo's magic actions.
+	args, _ := docopt.Parse(usage, wf.Args(), true, wf.Version(), false, true)
+
+	// alternate action: get available releases from remote
+	if args["check"] != false {
+		wf.TextErrors = true
+		log.Println("checking for updates...")
+		if err := wf.CheckForUpdate(); err != nil {
+			wf.FatalError(err)
+		}
+		return
+	}
+
+	// _script filter
+	var query string
+	if args["<query>"] != nil {
+		query = args["<query>"].(string)
+	}
+
+	log.Printf("query=%s", query)
+
+	// call self with "check" command if an update is due and a
+	// check job isn't already running.
+	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
+		log.Println("running update check in background...")
+		cmd := exec.Command("./alfred-web-searches", "check")
+		if err := aw.RunInBackground(updateJobName, cmd); err != nil {
+			log.Printf("error starting update check: %s", err)
+		}
+	}
+
+	if query == "" { // Only show update status if query is empty
+		// Send update status to Alfred
+		if wf.UpdateAvailable() {
+			wf.NewItem("update available!").
+				Subtitle("↩ to install").
+				Autocomplete("workflow:update").
+				Valid(false).
+				Icon(iconAvailable)
+		}
+	}
+
+	links := parseCSV()
 
 	var re1 = regexp.MustCompile(`.: `)
 	var re2 = regexp.MustCompile(`(all)`)
@@ -71,7 +103,7 @@ func filterWebsites(links map[string]string) {
 		} else if strings.Contains(key, "d: ") {
 			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(docIcon)
 		} else if strings.Contains(key, "g: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(gitubIcon)
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(githubIcon)
 		} else if strings.Contains(key, "s: ") {
 			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(stackIcon)
 		} else if strings.Contains(key, "f: ") {
@@ -82,15 +114,20 @@ func filterWebsites(links map[string]string) {
 			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key)
 		}
 	}
-	wf.Filter(query)
+
+	if query != "" {
+		wf.Filter(query)
+	}
+
+	wf.WarnEmpty("no matching items", "try a different query?")
 	wf.SendFeedback()
 }
 
-// :TODO: add auto update
-func run() {
+// parses CSV of links and arguments
+func parseCSV() map[string]string {
 	var err error
 
-	// load values from websites.csv to a hash map
+	// load values from file to a hash map
 	f, err := os.Open("websites.csv")
 	if err != nil {
 		panic(err)
@@ -111,24 +148,10 @@ func run() {
 		links[record[0]] = record[1]
 	}
 
-	// _arg parsing
-	cmd, err := app.Parse(wf.Args())
-	if err != nil {
-		wf.FatalError(err)
-	}
+	return links
 
-	switch cmd {
-	case filterWebsitesCmd.FullCommand():
-		filterWebsites(links)
-	default:
-		err = fmt.Errorf("unknown command: %s", cmd)
-	}
-
-	if err != nil {
-		wf.FatalError(err)
-	}
 }
 
 func main() {
-	aw.Run(run)
+	wf.Run(run)
 }
