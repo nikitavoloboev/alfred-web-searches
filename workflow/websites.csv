@@ -242,7 +242,7 @@ w: stanford searchworks,http://searchworks.stanford.edu/?q=tester&search_field=s
 w: student room,http://www.thestudentroom.co.uk/search.php?query=tester
 w: stylish,https://userstyles.org/styles/browse?search_terms=tester
 w: symlab,https://www.symbolab.com/solver/step-by-step/tester
-w: syntax,https://syntaxdb.com/reference/search?utf8=✓&search=tester
+w: syntaxDB,https://syntaxdb.com/reference/search?utf8=✓&search=tester
 w: ted talks,http://www.ted.com/search?q=tester
 w: terminal commands,http://www.openbsd.org/cgi-bin/man.cgi?query=tester
 w: thesaurus,http://www.thesaurus.com/browse/tester?s=t
