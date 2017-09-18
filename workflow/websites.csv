@@ -377,3 +377,4 @@ w: amazon,https://www.amazon.com/gp/search?ie=UTF8&keywords=tester
 w: alfred,https://www.alfredapp.com/search/?q=tester
 w: reddit - users,https://www.reddit.com/user/tester/
 r: unix porn,https://www.reddit.com/r/unixporn/search?q=tester&restrict_sr=on&sort=relevance&t=all
+w: bing,http://www.bing.com/search?q=tester
