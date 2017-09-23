@@ -381,3 +381,4 @@ w: bing,http://www.bing.com/search?q=tester
 w: bing - images,http://www.bing.com/images/search?q=tester
 d: hackage,http://hackage.haskell.org/packages/search?terms=tester
 w: nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q=tester
+w: vs code market,https://marketplace.visualstudio.com/search?term=tester&target=VSCode&category=All%20categories&sortBy=Relevance
