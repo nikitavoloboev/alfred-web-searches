@@ -386,3 +386,4 @@ w: sublime text packages,https://packagecontrol.io/search/tester
 w: gitbook - best match,https://www.gitbook.com/search?q=tester
 w: gitbook - most stars,https://www.gitbook.com/search?q=tester&page=0&type=books&sort=stars
 w: gitbook - recent,https://www.gitbook.com/search?q=tester&page=0&type=books&sort=updated
+s: stack overflow - tags,https://stackoverflow.com/questions/tagged/tester
