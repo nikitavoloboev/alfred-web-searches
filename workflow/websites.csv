@@ -1,4 +1,5 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
+w: last.fm,https://www.last.fm/search?q=tester
 w: leetcode,https://leetcode.com/problemset/all/?search=tester
 w: reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
 g: github most stars,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
