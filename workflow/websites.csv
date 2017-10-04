@@ -389,3 +389,4 @@ w: gitbook - most stars,https://www.gitbook.com/search?q=tester&page=0&type=book
 w: gitbook - recent,https://www.gitbook.com/search?q=tester&page=0&type=books&sort=updated
 s: stack overflow - tags,https://stackoverflow.com/questions/tagged/tester
 d: pytorch,http://pytorch.org/tutorials/search.html?q=tester&check_keywords=yes&area=default
+w: vim wiki,http://vim.wikia.com/wiki/Special:Search?query=tester
