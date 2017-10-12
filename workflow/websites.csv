@@ -1,5 +1,14 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
-w: github - topics,https://github.com/topics/tester
+f: sublime,https://forum.sublimetext.com/search?q=tester
+w: facebook messages,https://www.facebook.com/messages/?qa=tester
+f: script debugger,http://forum.latenightsw.com/search?q=tester
+f: binary age,https://discuss.binaryage.com/search?q=tester
+w: facebook,https://www.facebook.com/search/top/?q=tester
+f: hugo,https://discourse.gohugo.io/search?q=tester
+f: golang bridge,https://forum.golangbridge.org/search?q=tester
+f: the things network,https://www.thethingsnetwork.org/forum/search?q=tester
+f: discourse,https://try.discourse.org/search?q=tester
+g: github - topics,https://github.com/topics/tester
 r: dmt,https://www.reddit.com/r/DMT/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: npm,https://www.npmjs.com/search?q=tester&page=1&ranking=optimal
 w: name the colour,http://chir.ag/projects/name-that-color/tester
@@ -193,7 +202,6 @@ w: edx,https://www.edx.org/course?search_query=tester
 w: evolvr,https://www.evolvr.io/search?utf8=✓&query=tester+&commit=Enter
 w: examine,http://examine.com/search/?q=tester&homepage=1
 w: extra torrent,http://extratorrent.cc/search/?search=tester&new=1&x=0&y=0
-w: facebook messages,https://www.facebook.com/messages/search?action=search-snippet&mquery=tester
 w: go search,http://go-search.org/search?q=tester
 w: google search for past month,https://www.google.com/search?q=tester&tbs=qdr:m
 w: google search for past week,https://www.google.com/search?q=tester&tbs=qdr:w
