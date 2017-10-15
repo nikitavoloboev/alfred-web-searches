@@ -1,5 +1,6 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
 r: movies,https://www.reddit.com/r/movies/search?q=tester&restrict_sr=on&sort=relevance&t=all
+f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords=tester&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
 f: sublime,https://forum.sublimetext.com/search?q=tester
 w: facebook messages,https://www.facebook.com/messages/?qa=tester
 f: script debugger,http://forum.latenightsw.com/search?q=tester
