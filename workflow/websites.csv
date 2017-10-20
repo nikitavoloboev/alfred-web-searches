@@ -114,6 +114,10 @@ d: developer apple,https://developer.apple.com/search/?q=tester&platform=iOS
 d: iOS apple,https://developer.apple.com/search/?q=tester&platform=iOS
 d: java lib,https://java.libhunt.com/search?query=tester
 d: mdn docs,https://developer.mozilla.org/en-US/search?q=tester&topic=html&topic=css&topic=js&topic=api
+d: haskell lib,https://www.haskell.org/hoogle/?hoogle=tester
+d: haskell hayoo, http://hayoo.fh-wedel.de/?query=tester
+d: stackage, https://www.stackage.org/lts-9.9/hoogle?q=tester
+d: haskell stack, https://www.stackage.org/lts-9.9/hoogle?q=tester
 f: hazel forum,https://www.noodlesoft.com/forums/search.php?keywords=tester
 f: physics forums,https://cse.google.com/cse?cx=partner-pub-6580726045122001:6282512200&ie=UTF-8&q=tester
 f: shroomery,https://www.shroomery.org/forums/dosearch.php?terms=tester
@@ -411,3 +415,7 @@ s: stack overflow - tags,https://stackoverflow.com/questions/tagged/tester
 d: pytorch,http://pytorch.org/tutorials/search.html?q=tester&check_keywords=yes&area=default
 w: vim wiki,http://vim.wikia.com/wiki/Special:Search?query=tester
 r: hearthstone,https://www.reddit.com/r/hearthstone/search?q=tester&restrict_sr=on&sort=relevance&t=all
+w: category theory,https://ncatlab.org/nlab/search?query=tester
+w: dblp,http://dblp.uni-trier.de/search?q=tester
+w: researchr,https://researchr.org/search/publication/tester
+w: jfp, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q=tester&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
