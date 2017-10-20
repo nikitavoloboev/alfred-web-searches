@@ -415,7 +415,7 @@ s: stack overflow - tags,https://stackoverflow.com/questions/tagged/tester
 d: pytorch,http://pytorch.org/tutorials/search.html?q=tester&check_keywords=yes&area=default
 w: vim wiki,http://vim.wikia.com/wiki/Special:Search?query=tester
 r: hearthstone,https://www.reddit.com/r/hearthstone/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: category theory,https://ncatlab.org/nlab/search?query=tester
+w: ncatlab,https://ncatlab.org/nlab/search?query=tester
 w: dblp,http://dblp.uni-trier.de/search?q=tester
 w: researchr,https://researchr.org/search/publication/tester
 w: jfp, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q=tester&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
