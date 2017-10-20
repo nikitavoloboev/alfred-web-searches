@@ -400,7 +400,7 @@ w: reddit - users,https://www.reddit.com/user/tester/
 r: unix porn,https://www.reddit.com/r/unixporn/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: bing,http://www.bing.com/search?q=tester
 w: bing - images,http://www.bing.com/images/search?q=tester
-w: hackage,http://hackage.haskell.org/packages/search?terms=tester
+d: hackage,http://hackage.haskell.org/packages/search?terms=tester
 w: nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q=tester
 w: vs code market,https://marketplace.visualstudio.com/search?term=tester&target=VSCode&category=All%20categories&sortBy=Relevancev
 w: sublime text packages,https://packagecontrol.io/search/tester
