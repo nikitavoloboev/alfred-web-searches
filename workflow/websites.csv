@@ -13,6 +13,9 @@ w: linkedin,https://www.linkedin.com/search/results/index/?keywords=tester
 w: linkedin - jobs,https://www.linkedin.com/jobs/search/?keywords=tester
 w: linkedin - people,https://www.linkedin.com/search/results/people/?keywords=tester
 w: linkedin - companies,https://www.linkedin.com/search/results/people/?keywords=tester
+w: facebook - pages,https://www.facebook.com/search/pages/?q=tester
+w: facebook - places,https://www.facebook.com/search/str/tester/keywords_places/
+w: facebook - groups,https://www.facebook.com/search/groups/?q=tester
 f: script debugger,http://forum.latenightsw.com/search?q=tester
 f: binary age,https://discuss.binaryage.com/search?q=tester
 w: facebook,https://www.facebook.com/search/top/?q=tester
