@@ -7,6 +7,7 @@ f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords=t
 f: sublime,https://forum.sublimetext.com/search?q=tester
 w: facebook - messages,https://www.facebook.com/messages/?qa=tester
 w: facebook - people,https://www.facebook.com/search/people/?q=tester
+w: facebook - photos,https://www.facebook.com/search/photos/?q=tester
 f: script debugger,http://forum.latenightsw.com/search?q=tester
 f: binary age,https://discuss.binaryage.com/search?q=tester
 w: facebook,https://www.facebook.com/search/top/?q=tester
