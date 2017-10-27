@@ -1,16 +1,8 @@
-<h1 align="center"> Alfred web searches 🎩 </h1>
+# Alfred web searches 🎩 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/nikitavoloboev/alfred-web-searches/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
+<img src="media/alfred.png" width="500" alt="img">
 
-<h1 align="center"> Description 📕</h1>
-
+## Description 📕
 This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
@@ -30,29 +22,21 @@ Each search has a prefix to signify the theme or scope of the search. For exampl
 
 Each prefix also has a corresponding icon for visual feedback of prefix meaning. 
 
-<p align="center"><img src="media/alfred.png" alt="img" width="600"></p>
-
 And since the workflow allows for fuzzy searching, you can even make searches like that : 
 
-<p align="center"><img src="media/fuzzy.png" alt="img" width="600"></p>
+<img src="media/fuzzy.png" width="500" alt="img">
 
 And they will match.
 
-
 You can also attach a hotkey that will take the selected text and then will let you search for that text on any of the websites.
 
-<h1 align="center"> Install 💎</h1>
-
+## Install 💎
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
 
-
-<h1 align="center"> Contribute 💛 </h1>
-
+## Contribute 💜
 If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
 
 It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
 
-
-<h1 align="center"> Thanks 🍀</h1>
-
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
+## Thanks 🍀
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
