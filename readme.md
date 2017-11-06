@@ -1,18 +1,17 @@
-# Alfred web searches 🎩 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Alfred Web Searches [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+> [Alfred](https://www.alfredapp.com/) workflow to search through any website on the web (easily extendable list)
 
 <img src="media/alfred.png" width="500" alt="img">
 
-## Description 📕
 This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
-
 
 Each search has a prefix to signify the theme or scope of the search. For example results prefixed with `r: ` will search through subreddits. Here is the full list of prefixes and their descriptions.
 
 |  prefix |  description |
 |---|---|
-|  r: | search subreddits on [Reddit](https://www.reddit.com)  |
+|  r: | search subreddits on Reddit  |
 |  d: | search documentation websites |
 |  g: | search GitHub |
 |  s: | search stack exchange sites |
@@ -30,13 +29,13 @@ And they will match.
 
 You can also attach a hotkey that will take the selected text and then will let you search for that text on any of the websites.
 
-## Install 💎
+## Install 
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
 
-## Contribute 💜
+## Contribute 
 If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
 
 It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
 
-## Thanks 🍀
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
+## Thank you 💜
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
