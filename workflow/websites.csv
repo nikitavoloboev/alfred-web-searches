@@ -1,4 +1,5 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
+w: startup tracker,https://startuptracker.io/startups/search?query=tester
 w: art station,https://www.artstation.com/search?q=tester&sorting=recent
 w: IFTTT,https://ifttt.com/search/query/tester
 f: rust internals,https://internals.rust-lang.org/search?q=tester
