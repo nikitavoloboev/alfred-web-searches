@@ -1,4 +1,5 @@
 g: github,https://github.com/search?utf8=✓&q=tester&type=
+w: amazon - UK,https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=tester
 w: startup tracker,https://startuptracker.io/startups/search?query=tester
 w: art station,https://www.artstation.com/search?q=tester&sorting=recent
 w: IFTTT,https://ifttt.com/search/query/tester
@@ -28,7 +29,7 @@ f: golang bridge,https://forum.golangbridge.org/search?q=tester
 f: the things network,https://www.thethingsnetwork.org/forum/search?q=tester
 f: discourse,https://try.discourse.org/search?q=tester
 g: github - topics,https://github.com/topics/tester
-r: dmt,https://www.reddit.com/r/DMT/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: DMT,https://www.reddit.com/r/DMT/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: npm,https://www.npmjs.com/search?q=tester&page=1&ranking=optimal
 w: name the colour,http://chir.ag/projects/name-that-color/tester
 r: emacs,https://www.reddit.com/r/emacs/search?q=tester&restrict_sr=on&sort=relevance&t=all
@@ -82,7 +83,7 @@ r: lectures,https://www.reddit.com/r/lectures/search?q=tester&restrict_sr=on&sor
 r: linux,https://www.reddit.com/r/linux/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: lisp,https://www.reddit.com/r/lisp/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: listen to this,https://www.reddit.com/r/listentothis/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: lsd,https://www.reddit.com/r/LSD/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: LSD,https://www.reddit.com/r/LSD/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: lua,https://www.reddit.com/r/lua/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: mac,https://www.reddit.com/r/mac/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: math,https://www.reddit.com/r/math/search?q=tester&restrict_sr=on&sort=relevance&t=all
