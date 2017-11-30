@@ -315,11 +315,11 @@
 	<key>createdby</key>
 	<string>Nikita Voloboev &lt;nikita.voloboev@icloud.com&gt;</string>
 	<key>description</key>
-	<string>fuzzy search through a lot of web search queries</string>
+	<string>Fuzzy search through a lot of web search queries</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>web searches</string>
+	<string>Web Searches</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -430,7 +430,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>search a website</string>
+				<string>Search a website</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
