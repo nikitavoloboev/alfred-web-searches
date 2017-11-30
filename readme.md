@@ -29,7 +29,7 @@ And they will match.
 
 You can also attach a hotkey that will take the selected text and then will let you search for that text on any of the websites.
 
-## Install
+## Installing
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
 
 ## Contributing
