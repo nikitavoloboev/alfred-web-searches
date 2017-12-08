@@ -30,7 +30,7 @@ Options:
 `
 
 var (
-	// icons
+	// Icons
 	iconAvailable = &aw.Icon{Value: "icons/update.png"}
 	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
 	githubIcon    = &aw.Icon{Value: "icons/github.png"}
