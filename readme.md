@@ -33,11 +33,11 @@ You can also attach a hotkey that will take the selected text and then will let 
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
 
 ## Contributing
+[Suggestions](https://github.com/nikitavoloboev/alfred-web-searches/issues) and pull requests are highly encouraged!
+
 If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
 
 It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
-
-You can also look into [issues](https://github.com/nikitavoloboev/alfred-web-searches/issues) and see if anything sparks your interest or [add ideas of your own](https://github.com/nikitavoloboev/alfred-web-searches/issues/new).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
