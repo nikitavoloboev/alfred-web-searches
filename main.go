@@ -123,7 +123,7 @@ func run() {
 	wf.SendFeedback()
 }
 
-// parses CSV of links and arguments
+// Parses CSV of links and arguments
 func parseCSV() map[string]string {
 	var err error
 
