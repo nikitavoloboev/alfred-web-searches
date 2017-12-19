@@ -42,7 +42,7 @@ It has a simple structure of argument, followed by comma and then what website i
 ## Developing
 If you want to add features and things to the workflow. I advise you to install [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) by running:
 
-`go install github.com/jason0x43/go-alfred/alfred`
+`go get -u github.com/jason0x43/go-alfred/alfred`
 
 You can then make the changes to the code and run `alfred build` inside this repo to build the workflow to `workflow` directory. You can then use the built binary from Alfred script filters.
 
