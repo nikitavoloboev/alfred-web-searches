@@ -19,9 +19,9 @@ Each search has a prefix to signify the theme or scope of the search. For exampl
 | t:  | Search Google Translate |
 | w:  | Search ordinary websites (none of the above) |
 
-Each prefix also has a corresponding icon for visual feedback of prefix meaning. 
+Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 
-And since the workflow allows for fuzzy searching, you can even make searches like that: 
+And since the workflow allows for fuzzy searching, you can even make searches like that:
 
 <img src="https://i.imgur.com/fCLKWTq.png" width="500" alt="img">
 
@@ -35,7 +35,7 @@ Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/a
 ## Contributing
 [Suggestions](https://github.com/nikitavoloboev/alfred-web-searches/issues) and pull requests are highly encouraged!
 
-If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv). 
+If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
 It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
 
@@ -44,14 +44,14 @@ If you want to add features and things to the workflow. It is best to use [this 
 
 `go install github.com/jason0x43/go-alfred/alfred`
 
-You can then run `alfred link` inside this repo you cloned. This will make a symbolic link of the [`workflow`](workflow) directory. 
+You can then run `alfred link` inside this repo you cloned. This will make a symbolic link of the [`workflow`](workflow) directory.
 
 You can then make your changes to the code and after run `alfred build` to build the go binary to `workflow` directory. Which you can then use from inside Alfred [script filters](https://www.alfredapp.com/help/workflows/inputs/script-filter/).
 
 The workflow is built using [Deanishe](https://github.com/deanishe)'s amazing [AwGo](https://github.com/deanishe/awgo) library.
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared.
 
 ## License
 MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
