@@ -1,7 +1,7 @@
 # Alfred Web Searches [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredapp.com/) workflow to search through any website on the web (easily extendable list)
 
-<img src="https://i.imgur.com/zbD3tSl.png" width="500" alt="img">
+<img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
 
 This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
