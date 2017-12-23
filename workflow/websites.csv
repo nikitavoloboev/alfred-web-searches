@@ -1,4 +1,4 @@
-g: GitHub,https://github.com/search?utf8=✓&q=tester&type=
+g: GitHub,https://GitHub.com/search?utf8=✓&q=tester&type=
 w: Mashape,https://market.mashape.com/explore?query=tester
 d: Rust docs,https://docs.rs/releases/search?query=tester
 r: ELI 5,https://www.reddit.com/r/explainlikeimfive/search?q=tester&restrict_sr=on&sort=relevance&t=all
@@ -31,7 +31,7 @@ f: Hugo,https://discourse.gohugo.io/search?q=tester
 f: Golang bridge,https://forum.golangbridge.org/search?q=tester
 f: The things network,https://www.thethingsnetwork.org/forum/search?q=tester
 f: Discourse,https://try.discourse.org/search?q=tester
-g: Github - topics,https://github.com/topics/tester
+g: GitHub - topics,https://GitHub.com/topics/tester
 r: DMT,https://www.reddit.com/r/DMT/search?q=tester&restrict_sr=on&sort=relevance&t=all
 w: Npm,https://www.npmjs.com/search?q=tester&page=1&ranking=optimal
 w: Name the colour,http://chir.ag/projects/name-that-color/tester
@@ -40,8 +40,8 @@ w: Yoshua wuyts wiki,https://yoshuawuyts.gitbooks.io/knowledge/content/?q=tester
 w: Last.fm,https://www.last.fm/search?q=tester
 w: Leetcode,https://leetcode.com/problemset/all/?search=tester
 w: Reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
-g: Github most stars,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
-g: Github - recent,https://github.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
+g: GitHub most stars,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
+g: GitHub - recent,https://GitHub.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
 r: Advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Algorithms,https://www.reddit.com/r/algorithms/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Apple,https://www.reddit.com/r/apple/search?q=tester&restrict_sr=on&sort=relevance&t=all
@@ -352,10 +352,10 @@ w: Product hunt,https://www.producthunt.com/search/posts?q=tester
 w: Product hunt - collections,https://www.producthunt.com/search/collections?q=tester
 w: Product hunt - users,https://www.producthunt.com/search/users?q=tester
 w: Product hunt - topics,https://www.producthunt.com/search/topics?q=tester
-g: Gists,https://gist.github.com/search?utf8=%E2%9C%93&q=tester
-g: Github - issues,https://github.com/search?q=tester&ref=searchresults&type=Issues&utf8=%E2%9C%93
-g: Github - commits,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Commits&ref=searchresults
-g: Github - wikis,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Wikis&ref=searchresults
+g: Gists,https://gist.GitHub.com/search?utf8=%E2%9C%93&q=tester
+g: GitHub - issues,https://GitHub.com/search?q=tester&ref=searchresults&type=Issues&utf8=%E2%9C%93
+g: GitHub - commits,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Commits&ref=searchresults
+g: GitHub - wikis,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Wikis&ref=searchresults
 w: Dribble,https://dribbble.com/search?q=tester
 w: Dribble - latest,https://dribbble.com/search?q=tester&s=latest
 w: Goodreads - lists,https://www.goodreads.com/search?q=tester&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
@@ -368,10 +368,10 @@ w: Hacker news - stories all time,https://hn.algolia.com/?query=tester&sort=byPo
 w: Hacker news - comments past month,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
 w: Idope - top seed,http://www.idope.se/torrent/tester/
 w: Idope - most recent,https://idope.se/torrent-list/tester/?&o=-3
-g: Github - code,https://github.com/search?q=tester&ref=searchresults&type=Code&utf8=%E2%9C%93
-g: Github - users,https://github.com/search?o=desc&q=tester&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
-g: Github - most forks,https://github.com/search?o=desc&q=tester&ref=searchresults&s=forks&type=Repositories&utf8=✓
-g: Github - most starred,https://github.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
+g: GitHub - code,https://GitHub.com/search?q=tester&ref=searchresults&type=Code&utf8=%E2%9C%93
+g: GitHub - users,https://GitHub.com/search?o=desc&q=tester&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
+g: GitHub - most forks,https://GitHub.com/search?o=desc&q=tester&ref=searchresults&s=forks&type=Repositories&utf8=✓
+g: GitHub - most starred,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
 w: Reddit - top this month,https://www.reddit.com/search?q=tester&sort=top&t=month
 w: Reddit - new,https://www.reddit.com/search?q=tester&sort=new&t=all
 w: Reddit - past year,https://www.reddit.com/search?q=tester&sort=relevance&t=year
@@ -389,15 +389,15 @@ w: Mit opencourseware pdf,https://search.mit.edu/search?__EVENTTARGET=&__EVENTAR
 w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query=tester
 d: Godoc,https://godoc.org/?q=tester
 d: Go search,http://go-search.org/search?q=tester
-g: Github - go,https://github.com/search?q=tester+language:go
-g: Github - java,https://github.com/search?l=Java&q=tester&type=Repositories&utf8=✓
-g: Github - go - most stars,https://github.com/search?o=desc&q=tester+language%3Ago&s=stars&type=Repositories
+g: GitHub - go,https://GitHub.com/search?q=tester+language:go
+g: GitHub - java,https://GitHub.com/search?l=Java&q=tester&type=Repositories&utf8=✓
+g: GitHub - go - most stars,https://GitHub.com/search?o=desc&q=tester+language%3Ago&s=stars&type=Repositories
 d: Git logs - go,http://www.gitlogs.com/most_popular?from=last-week&language=Go&topic=tester
 w: Google trends - 30 days,https://www.google.com/trends/explore?date=today%201-m&q=tester
 w: Google trends - 1 day,https://www.google.com/trends/explore?date=now%201-d&q=tester
 w: Google trends - 1 year,https://www.google.com/trends/explore?q=tester
-g: Github - shell,https://github.com/search?l=Shell&q=tester&type=Repositories&utf8=%E2%9C%93
-g: Github - go - recent,https://github.com/search?o=desc&q=tester+language%3Ago&s=updated&type=Repositories
+g: GitHub - shell,https://GitHub.com/search?l=Shell&q=tester&type=Repositories&utf8=%E2%9C%93
+g: GitHub - go - recent,https://GitHub.com/search?o=desc&q=tester+language%3Ago&s=updated&type=Repositories
 w: Vimeo,https://vimeo.com/search?q=tester
 w: Twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q=tester&src=typd
 w: KM - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id=tester
