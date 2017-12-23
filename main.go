@@ -53,7 +53,7 @@ func run() {
 	// AwGo's magic actions.
 	args, _ := docopt.Parse(usage, wf.Args(), true, wf.Version(), false, true)
 
-	// alternate action: get available releases from remote
+	// Alternate action: get available releases from remote
 	if args["check"] != false {
 		wf.TextErrors = true
 		log.Println("checking for updates...")
@@ -63,7 +63,6 @@ func run() {
 		return
 	}
 
-	// _script filter
 	var query string
 	if args["<query>"] != nil {
 		query = args["<query>"].(string)
@@ -71,7 +70,7 @@ func run() {
 
 	log.Printf("query=%s", query)
 
-	// call self with "check" command if an update is due and a
+	// Call self with "check" command if an update is due and a
 	// check job isn't already running.
 	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
 		log.Println("running update check in background...")
@@ -99,7 +98,7 @@ func run() {
 
 	for key, value := range links {
 		if strings.Contains(key, "r: ") {
-			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(redditIcon).Var("RECENT", re2.ReplaceAllString(value, `week`)).Subtitle("⌃ = search past week")
+			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(redditIcon).Var("RECENT", re2.ReplaceAllString(value, `week`)).Subtitle("⌃ = Search past week")
 		} else if strings.Contains(key, "d: ") {
 			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key).Icon(docIcon)
 		} else if strings.Contains(key, "g: ") {

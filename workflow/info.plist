@@ -317,7 +317,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>search {var:ARG} for {query}</string>
+				<string>Search {var:ARG} for {query}</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -478,7 +478,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>search {var:ARG} for {query} with chrome</string>
+				<string>Search {var:ARG} for {query} with chrome</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -558,7 +558,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>search {var:ARG} recent for {query}</string>
+				<string>Search {var:ARG} recent for {query}</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -751,7 +751,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>web search for {query}</string>
+				<string>Web search for {query}</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -1138,7 +1138,7 @@
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.2.5</string>
+	<string>2.2.6</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-web-searches</string>
 </dict>

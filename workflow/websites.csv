@@ -58,9 +58,9 @@ r: C++,https://www.reddit.com/r/cpp/search?q=tester&restrict_sr=on&sort=relevanc
 r: Clojure,https://www.reddit.com/r/Clojure/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Coding,https://www.reddit.com/r/coding/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Coffecript,https://www.reddit.com/r/coffeescript/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Cs books,https://www.reddit.com/r/csbooks/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Cs career questions,https://www.reddit.com/r/cscareerquestions/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Cs education,https://www.reddit.com/r/CSEducation/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: CS books,https://www.reddit.com/r/csbooks/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: CS career questions,https://www.reddit.com/r/cscareerquestions/search?q=tester&restrict_sr=on&sort=relevance&t=all
+r: CS education,https://www.reddit.com/r/CSEducation/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Daily programmer,https://www.reddit.com/r/dailyprogrammer/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Data is beautiful,https://www.reddit.com/r/dataisbeautiful/search?q=tester&restrict_sr=on&sort=relevance&t=all
 r: Design,https://www.reddit.com/r/Design/search?q=tester&restrict_sr=on&sort=relevance&t=all
@@ -324,10 +324,10 @@ d: Pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
 f: Alfred forum,http://www.alfredforum.com/search/?&q=tester
 f: Alfred forum - newest,https://www.alfredforum.com/search/?q=tester&sortby=newest
 f: Alfred forum - members,https://www.alfredforum.com/search/?&q=tester&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
-f: Km,https://forum.keyboardmaestro.com/search?q=tester
-f: Km - latest post,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alatest
-f: Km - most liked,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alikes
-f: Km - most viewed,https://forum.keyboardmaestro.com/search?q=tester%20order%3Aviews
+f: KM,https://forum.keyboardmaestro.com/search?q=tester
+f: KM - latest post,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alatest
+f: KM - most liked,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alikes
+f: KM - most viewed,https://forum.keyboardmaestro.com/search?q=tester%20order%3Aviews
 w: Quora,https://www.quora.com/search?q=tester
 w: Quora - profiles,https://www.quora.com/search?q=tester&type=profile
 w: Quora - topics,https://www.quora.com/search?q=tester&type=topic
@@ -400,7 +400,7 @@ g: Github - shell,https://github.com/search?l=Shell&q=tester&type=Repositories&u
 g: Github - go - recent,https://github.com/search?o=desc&q=tester+language%3Ago&s=updated&type=Repositories
 w: Vimeo,https://vimeo.com/search?q=tester
 w: Twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q=tester&src=typd
-w: Km - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id=tester
+w: KM - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id=tester
 w: Emojipedia,https://emojipedia.org/search/?q=tester
 w: Openstreatmap,http://www.openstreetmap.org/search?query=tester
 w: Startpage,https://www.startpage.com/do/metasearch.pl?query=tester
