@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
 
-This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
+This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
 
