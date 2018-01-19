@@ -30,26 +30,22 @@ And they will match.
 You can also attach a hotkey that will take the selected text and then will let you search for that text on any of the websites.
 
 ## Install
-Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-web-searches/releases/latest).
+Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-[Suggestions](https://github.com/nikitavoloboev/alfred-web-searches/issues) and pull requests are highly encouraged!
-
-If you use and like this workflow, you can add your own websites that you think are missing to the CSV file [here](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv).
-
-It has a simple structure of argument, followed by comma and then what website is going to be searched. Where the query you are searching for is replaced with `tester`.
+[Suggestions](../../issues/) and pull requests are highly encouraged!
 
 ## Developing
 If you want to add features and things to the workflow. It is best to use [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) which you can install by running:
 
 `go install github.com/jason0x43/go-alfred/alfred`
 
-You can then run `alfred link` inside this repo you cloned. This will make a symbolic link of the [`workflow`](workflow) directory.
+You can then clone this repo and run `alfred link` inside it. This will make a symbolic link of the [`workflow`](workflow) directory.
 
-You can then make your changes to the code and after run `alfred build` to build the go binary to `workflow` directory. Which you can then use from inside Alfred [script filters](https://www.alfredapp.com/help/workflows/inputs/script-filter/).
+You can then make changes to the code and after run `alfred build` to build the go binary to `workflow` directory. Which you can then use from inside Alfred [script filters](https://www.alfredapp.com/help/workflows/inputs/script-filter/).
 
 ## Credits
-The workflow is built using [Deanishe](https://github.com/deanishe)'s amazing [AwGo](https://github.com/deanishe/awgo) library.
+The workflow uses [AwGo](https://github.com/deanishe/awgo) library for all the workflow related things.
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
