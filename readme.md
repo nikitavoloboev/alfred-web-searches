@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
 
-This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can add and contribute to in [here](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv).
+This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
 
@@ -34,6 +34,8 @@ Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
 [Suggestions](../../issues/) and pull requests are highly encouraged!
+
+[Add](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv) more websites to the list if you use and like the workflow.
 
 ## Developing
 If you want to add features and things to the workflow. It is best to use [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) which you can install by running:
