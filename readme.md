@@ -35,7 +35,7 @@ Download the workflow from [GitHub releases](../../releases/latest).
 ## Contributing
 [Suggestions](../../issues/) and pull requests are highly encouraged!
 
-[Add](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv) more websites to the list if you use and like the workflow.
+[Add more websites](https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv) to the list if you use and like the workflow.
 
 ## Developing
 If you want to add features and things to the workflow. It is best to use [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) which you can install by running:
