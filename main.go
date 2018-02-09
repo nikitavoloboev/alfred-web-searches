@@ -40,7 +40,7 @@ func init() {
 	app = kingpin.New("ask", "Search websites.")
 
 	// Update command
-	updateCmd = app.Command("update", "Check for new workflow version.").Alias("u")
+	updateCmd = app.Command("update", "Check for new version.").Alias("u")
 
 	// Commands using query
 	searchCmd = app.Command("search", "Search websites.").Alias("s")
