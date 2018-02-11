@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
 
-This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv).
+This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](CONTRIBUTING.md).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
 
@@ -33,9 +33,7 @@ You can also attach a hotkey that will take the selected text and then will let 
 Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-[Edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/websites.csv) and add more web searches to the workflow. It has a simple structure of argument, followed by comma and then what website is going to be searched. Where `tester` word will be replaced by the user query.
-
-For more information see [CONTRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
