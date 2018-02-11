@@ -11,6 +11,7 @@ The workflow is written in [Go language](https://golang.org/) and uses [AwGo](ht
 If you want to add features and things to the workflow.
 
 It is best to use [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) which you can install by running:
+
 `go install github.com/jason0x43/go-alfred/alfred`
 
 You can then clone this repository and run: `alfred link` inside it. This will make a symbolic link of the [`workflow`](workflow) directory.
