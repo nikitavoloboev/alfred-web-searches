@@ -1,4 +1,4 @@
-# Alfred Web Searches [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Alfred Web Searches [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows--) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredapp.com/) workflow to search through any website on the web (easily extendable list)
 
 <img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
@@ -33,7 +33,7 @@ You can also attach a hotkey that will take the selected text and then will let 
 Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [contribution guidelines](CONTRIBUTING.md#contributing).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
