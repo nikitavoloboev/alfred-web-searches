@@ -1,5 +1,5 @@
-# Contributing
-Thank you for wanting to make Alfred Web Searches better. You can:
+# Contributing to Alfred Web Searches
+There are many ways you can contribute. You can:
 - [Edit the CSV file](../../edit/master/workflow/websites.csv) and add more web searches to the workflow. It has a simple structure of argument, followed by comma and then what website is going to be searched. Where `tester` word will be replaced by the user query.
 - Make suggestions and file bugs in [Issues](../../issues/).
 - Fix issues and add features with [Pull Requests](../../pulls/).

@@ -1002,9 +1002,9 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>44998311-C8A5-4011-AAE6-6A13032F27CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
-			<integer>110</integer>
+			<integer>130</integer>
 		</dict>
 		<key>4580C38E-414A-4A63-9835-C7687180DC03</key>
 		<dict>
@@ -1074,9 +1074,9 @@ Post any issues and feature requests you have there. 💜</string>
 			<key>note</key>
 			<string>Add more searchable websites to GitHub list</string>
 			<key>xpos</key>
-			<integer>960</integer>
+			<integer>980</integer>
 			<key>ypos</key>
-			<integer>110</integer>
+			<integer>130</integer>
 		</dict>
 		<key>C2F200AE-7909-4604-9E4A-3AA8998FB3E3</key>
 		<dict>
