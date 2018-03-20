@@ -1,448 +1,448 @@
-g: GitHub,https://GitHub.com/search?utf8=✓&q=tester&type=
-w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q=tester&btnG=
-r: Replications, https://www.reddit.com/r/replications/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Ask drugs,https://www.reddit.com/r/askdrugs/search?q=tester&restrict_sr=on&sort=relevance&t=all
+g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
+r: Replications, https://www.reddit.com/r/replications/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask drugs,https://www.reddit.com/r/askdrugs/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: YNAB,https://www.reddit.com/r/ynab/search?q=tesert&restrict_sr=on&sort=relevance&t=all
-r: Mechanical Keyboards,https://www.reddit.com/r/MechanicalKeyboards/search?q=tester&restrict_sr=on&sort=relevance&t=all
-g: Gists - javascript,https://gist.github.com/search?l=JavaScript&q=tester&utf8=✓
-g: Gists - go,https://gist.github.com/search?l=Go&q=tester&ref=searchresults&utf8=✓
-w: Codesandbox,https://codesandbox.io/search?query=tester
-w: Mashape,https://market.mashape.com/explore?query=tester
-d: Rust docs,https://docs.rs/releases/search?query=tester
-r: ELI 5,https://www.reddit.com/r/explainlikeimfive/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Amazon - UK,https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=tester
-w: Startup tracker,https://startuptracker.io/startups/search?query=tester
-w: Art station,https://www.artstation.com/search?q=tester&sorting=recent
-w: IFTTT,https://ifttt.com/search/query/tester
-f: Rust internals,https://internals.rust-lang.org/search?q=tester
-r: Trackers,https://www.reddit.com/r/trackers/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Baidu,http://www.baidu.com/s?ie=UTF-8&wd=tester
-w: Discuss it,http://www.discussitapp.com/submit?url=tester
-r: Movies,https://www.reddit.com/r/movies/search?q=tester&restrict_sr=on&sort=relevance&t=all
-f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords=tester&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
-f: Sublime,https://forum.sublimetext.com/search?q=tester
-w: Facebook - messages,https://www.facebook.com/messages/?qa=tester
-w: Facebook - people,https://www.facebook.com/search/people/?q=tester
-w: Facebook - photos,https://www.facebook.com/search/photos/?q=tester
-w: Facebook - videos,https://www.facebook.com/search/videos/?q=tester
-w: Linkedin,https://www.linkedin.com/search/results/index/?keywords=tester
-w: Linkedin - jobs,https://www.linkedin.com/jobs/search/?keywords=tester
-w: Linkedin - people,https://www.linkedin.com/search/results/people/?keywords=tester
-w: Linkedin - companies,https://www.linkedin.com/search/results/people/?keywords=tester
-w: Facebook - pages,https://www.facebook.com/search/pages/?q=tester
-w: Facebook - places,https://www.facebook.com/search/str/tester/keywords_places/
-w: Facebook - groups,https://www.facebook.com/search/groups/?q=tester
-w: Facebook - events,https://www.facebook.com/search/events/?q=tester
-f: Script debugger,http://forum.latenightsw.com/search?q=tester
-f: Binary age,https://discuss.binaryage.com/search?q=tester
-w: Facebook,https://www.facebook.com/search/top/?q=tester
-f: Hugo,https://discourse.gohugo.io/search?q=tester
-f: Golang bridge,https://forum.golangbridge.org/search?q=tester
-f: The things network,https://www.thethingsnetwork.org/forum/search?q=tester
-f: Discourse,https://try.discourse.org/search?q=tester
-g: GitHub - topics,https://GitHub.com/topics/tester
-r: DMT,https://www.reddit.com/r/DMT/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Npm,https://www.npmjs.com/search?q=tester&page=1&ranking=optimal
-w: Name the colour,http://chir.ag/projects/name-that-color/tester
-r: Emacs,https://www.reddit.com/r/emacs/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Yoshua wuyts wiki,https://yoshuawuyts.gitbooks.io/knowledge/content/?q=tester
-w: Last.fm,https://www.last.fm/search?q=tester
-w: Leetcode,https://leetcode.com/problemset/all/?search=tester
-w: Reddit,https://www.reddit.com/search?q=tester&sort=relevance&t=all
-g: GitHub - recent,https://GitHub.com/search?utf8=✓&q=tester&type=Repositories&ref=searchresults&o=desc&s=updated
-r: Advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Algorithms,https://www.reddit.com/r/algorithms/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Apple,https://www.reddit.com/r/apple/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Artificial,https://www.reddit.com/r/artificial/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Ask computer science,https://www.reddit.com/r/AskComputerScience/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Ask netsec,https://www.reddit.com/r/AskNetsec/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Ask programming,https://www.reddit.com/r/AskProgramming/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Askhistorians,https://www.reddit.com/r/AskHistorians/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Askreddit,https://www.reddit.com/r/AskReddit/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Askscience,https://www.reddit.com/r/askscience/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: C,https://www.reddit.com/r/C_Programming/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: C#,https://www.reddit.com/r/csharp/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: C++,https://www.reddit.com/r/cpp/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Clojure,https://www.reddit.com/r/Clojure/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Coding,https://www.reddit.com/r/coding/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Coffecript,https://www.reddit.com/r/coffeescript/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: CS books,https://www.reddit.com/r/csbooks/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: CS career questions,https://www.reddit.com/r/cscareerquestions/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: CS education,https://www.reddit.com/r/CSEducation/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Daily programmer,https://www.reddit.com/r/dailyprogrammer/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Data is beautiful,https://www.reddit.com/r/dataisbeautiful/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Design,https://www.reddit.com/r/Design/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Everything science,https://www.reddit.com/r/EverythingScience/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Fitness,https://www.reddit.com/r/Fitness/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Future beats,https://www.reddit.com/r/futurebeats/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Futurology,https://www.reddit.com/r/Futurology/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Gamedev,https://www.reddit.com/r/gamedev/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Gentleman boners,https://www.reddit.com/r/gentlemanboners/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Get disciplined,https://www.reddit.com/r/getdisciplined/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Golang,https://www.reddit.com/r/golang/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Haskell,https://www.reddit.com/r/haskell/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Health,https://www.reddit.com/r/Health/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Indie heads,https://www.reddit.com/r/indieheads/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Internet is beautiful,https://www.reddit.com/r/InternetIsBeautiful/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: IPhone,https://www.reddit.com/r/iphone/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Java,https://www.reddit.com/r/java/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Javascript,https://www.reddit.com/r/javascript/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Lady boners,https://www.reddit.com/r/LadyBoners/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Latex,https://www.reddit.com/r/LaTeX/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Learn programming,https://www.reddit.com/r/learnprogramming/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Lectures,https://www.reddit.com/r/lectures/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Linux,https://www.reddit.com/r/linux/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Lisp,https://www.reddit.com/r/lisp/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Listen to this,https://www.reddit.com/r/listentothis/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: LSD,https://www.reddit.com/r/LSD/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Lua,https://www.reddit.com/r/lua/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Mac,https://www.reddit.com/r/mac/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Math,https://www.reddit.com/r/math/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Matlab,https://www.reddit.com/r/matlab/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Meditation,https://www.reddit.com/r/Meditation/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Minimalism,https://www.reddit.com/r/minimalism/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Netsec,https://www.reddit.com/r/netsec/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: No stupid questions,https://www.reddit.com/r/NoStupidQuestions/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Nootropics,https://www.reddit.com/r/Nootropics/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Nutrition,https://www.reddit.com/r/nutrition/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Objective c,https://www.reddit.com/r/ObjectiveC/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Out of the loop,https://www.reddit.com/r/OutOfTheLoop/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Perl,https://www.reddit.com/r/perl/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Php,https://www.reddit.com/r/PHP/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Physics,https://www.reddit.com/r/Physics/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Pics,https://www.reddit.com/r/pics/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Privacy,https://www.reddit.com/r/privacy/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Programming,https://www.reddit.com/r/programming/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Psychonaut,https://www.reddit.com/r/Psychonaut/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Python,https://www.reddit.com/r/Python/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: R stats,https://www.reddit.com/r/rstats/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Ruby,https://www.reddit.com/r/ruby/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Rust,https://www.reddit.com/r/rust/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Scala,https://www.reddit.com/r/scala/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Science,https://www.reddit.com/r/science/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Seduction,https://www.reddit.com/r/seduction/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Shower thoughts,https://www.reddit.com/r/Showerthoughts/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Sql,https://www.reddit.com/r/SQL/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Startups,https://www.reddit.com/r/startups/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Swift,https://www.reddit.com/r/swift/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Technology,https://www.reddit.com/r/swift/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Tiny code,https://www.reddit.com/r/tinycode/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: True film,https://www.reddit.com/r/TrueFilm/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Types,https://www.reddit.com/r/types/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Vim,https://www.reddit.com/r/vim/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Webdev,https://www.reddit.com/r/webdev/search?q=tester&restrict_sr=on&sort=relevance&t=all
-r: Web design,https://www.reddit.com/r/web_design/search?q=tester&restrict_sr=on&sort=relevance&t=all
-d: Android docs,https://developer.android.com/training/basics/fragments/index.html#q=tester
-d: C++,http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search=tester&button=
-d: Developer apple,https://developer.apple.com/search/?q=tester&platform=iOS
-d: IOS apple,https://developer.apple.com/search/?q=tester&platform=iOS
-d: Java lib,https://java.libhunt.com/search?query=tester
-d: Mdn docs,https://developer.mozilla.org/en-US/search?q=tester&topic=html&topic=css&topic=js&topic=api
-d: Haskell lib,https://www.haskell.org/hoogle/?hoogle=tester
-d: Haskell hayoo, http://hayoo.fh-wedel.de/?query=tester
-d: Stackage, https://www.stackage.org/lts-9.9/hoogle?q=tester
-d: Haskell stack, https://www.stackage.org/lts-9.9/hoogle?q=tester
-f: Hazel forum,https://www.noodlesoft.com/forums/search.php?keywords=tester
-f: Physics forums,https://cse.google.com/cse?cx=partner-pub-6580726045122001:6282512200&ie=UTF-8&q=tester
-f: Shroomery,https://www.shroomery.org/forums/dosearch.php?terms=tester
-s: Academia,http://academia.stackexchange.com/search?q=tester
-s: Android enthusiasts,http://android.stackexchange.com/search?q=tester
-s: Arqade,http://gaming.stackexchange.com/search?q=tester
-s: Ask different,http://apple.stackexchange.com/search?q=tester
-s: Ask ubuntu,http://askubuntu.com/search?q=tester
-s: Biology,http://biology.stackexchange.com/search?q=tester
-s: Bitcoin,http://bitcoin.stackexchange.com/search?q=tester
-s: Buddhism,http://buddhism.stackexchange.com/search?q=tester
-s: Chemistry,http://chemistry.stackexchange.com/search?q=tester
-s: Cognitive sciences,http://cogsci.stackexchange.com/search?q=tester
-s: Computational science,http://scicomp.stackexchange.com/search?q=tester
-s: Computer science,http://cs.stackexchange.com/search?q=tester
-s: Cross validated,http://stats.stackexchange.com/search?q=tester
-s: Database administrators,http://dba.stackexchange.com/search?q=tester
-s: Electrical engineering,http://electronics.stackexchange.com/search?q=tester
-s: English language,http://english.stackexchange.com/search?q=tester
-s: Freelancing,http://freelancing.stackexchange.com/search?q=tester
-s: Game development,http://gamedev.stackexchange.com/search?q=tester
-s: Graphic design,http://graphicdesign.stackexchange.com/search?q=tester
-s: Information security,http://security.stackexchange.com/search?q=tester
-s: History,http://history.stackexchange.com/search?q=tester
-s: Home improvement,http://diy.stackexchange.com/search?q=tester
-s: Math overflow,http://mathoverflow.net/search?q=tester
-s: Mathematica,http://mathematica.stackexchange.com/search?q=tester
-s: Mathematical educators,http://matheducators.stackexchange.com/search?q=tester
-s: Mathematics,http://math.stackexchange.com/search?q=tester
-s: Meta,http://meta.stackexchange.com/search?q=tester
-s: Movies & tv,http://movies.stackexchange.com/search?q=tester
-s: Network engineering stack,http://networkengineering.stackexchange.com/search?q=tester
-s: Open data,http://opendata.stackexchange.com/search?q=tester
-s: Personal finance,http://money.stackexchange.com/search?q=tester
-s: Personal productivity,http://productivity.stackexchange.com/search?q=tester+
-s: Pets,http://pets.stackexchange.com/search?q=tester
-s: Philosohy,http://philosophy.stackexchange.com/search?q=tester
-s: Photography,http://photo.stackexchange.com/search?q=tester
-s: Physics,http://physics.stackexchange.com/search?q=tester
-s: Programmers,http://programmers.stackexchange.com/search?q=tester
-s: Project management,http://pm.stackexchange.com/search?q=tester
-s: Raspberry,http://raspberrypi.stackexchange.com/search?q=tester
-s: Reverse engineering,http://reverseengineering.stackexchange.com/search?q=tester
-s: Robotics,http://robotics.stackexchange.com/search?q=tester
-s: Role playing games,http://rpg.stackexchange.com/search?q=tester
-s: Salesforce,http://salesforce.stackexchange.com/search?q=tester
-s: Scifi & fantasy,http://scifi.stackexchange.com/search?q=tester
-s: Serverfault,http://serverfault.com/search?q=tester
-s: Sharepoint,http://sharepoint.stackexchange.com/search?q=tester
-s: Signal processing,http://dsp.stackexchange.com/search?q=tester
-s: Skeptics,http://skeptics.stackexchange.com/search?q=tester
-s: Software recommendations,http://softwarerecs.stackexchange.com/search?q=tester
-s: Sound design,http://sound.stackexchange.com/search?q=tester
-s: Space exploration,http://space.stackexchange.com/search?q=tester
-s: Stack overflow,http://stackoverflow.com/search?q=tester
-s: Stack python,http://stackoverflow.com/search?q=python+tester
-s: Super user,http://superuser.com/search?q=tester
-s: Theoretical compsi,http://cstheory.stackexchange.com/search?q=tester
-s: Tor stack,http://tor.stackexchange.com/search?q=tester
-s: Travel,http://travel.stackexchange.com/search?q=tester
-s: Unix & linux,http://unix.stackexchange.com/search?q=tester
-s: User experience,http://ux.stackexchange.com/search?q=tester
-s: Web apps,http://webapps.stackexchange.com/search?q=tester
-s: Web masters,http://webmasters.stackexchange.com/search?q=tester
-s: Workplace,http://workplace.stackexchange.com/search?q=tester
-s: Writers,http://writers.stackexchange.com/search?q=tester
-d: Search os status,https://www.osstatus.com/search/results?platform=all&framework=all&search=tester
-t: Translate to english,https://translate.google.com/#auto/en/tester
-t: Translate to dutch,https://translate.google.com/#auto/nl/tester
-t: Translate to russian,https://translate.google.com/#auto/ru/tester
-t: Translate to spanish,https://translate.google.com/#auto/es/tester
-w: 8tracks,http://8tracks.com/explore/tester
-w: Abbreviation terms,http://www.abbreviations.com/abbreviation/tester
-w: Yandex,https://www.yandex.com/search/?msid=1484233484.98264.22892.24573&text=tester&lr=10466
-w: Abbreviations,http://www.abbreviations.com/tester
-w: Aliexpress,http://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160518044144&SearchText=tester
-w: AlternativeTo,http://alternativeto.net/browse/search?q=tester
-w: Angellist,https://angel.co/search?q=tester
-w: Appshopper,http://appshopper.com/search?search=tester
-w: Better explained,http://betterexplained.com/?s=tester
-w: Champion.gg,http://champion.gg/champion/tester
+r: Mechanical Keyboards,https://www.reddit.com/r/MechanicalKeyboards/search?q={query}&restrict_sr=on&sort=relevance&t=all
+g: Gists - javascript,https://gist.github.com/search?l=JavaScript&q={query}&utf8=✓
+g: Gists - go,https://gist.github.com/search?l=Go&q={query}&ref=searchresults&utf8=✓
+w: Codesandbox,https://codesandbox.io/search?query={query}
+w: Mashape,https://market.mashape.com/explore?query={query}
+d: Rust docs,https://docs.rs/releases/search?query={query}
+r: ELI 5,https://www.reddit.com/r/explainlikeimfive/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Amazon - UK,https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={query}
+w: Startup tracker,https://startuptracker.io/startups/search?query={query}
+w: Art station,https://www.artstation.com/search?q={query}&sorting=recent
+w: IFTTT,https://ifttt.com/search/query/{query}
+f: Rust internals,https://internals.rust-lang.org/search?q={query}
+r: Trackers,https://www.reddit.com/r/trackers/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Baidu,http://www.baidu.com/s?ie=UTF-8&wd={query}
+w: Discuss it,http://www.discussitapp.com/submit?url={query}
+r: Movies,https://www.reddit.com/r/movies/search?q={query}&restrict_sr=on&sort=relevance&t=all
+f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords={query}&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
+f: Sublime,https://forum.sublimetext.com/search?q={query}
+w: Facebook - messages,https://www.facebook.com/messages/?qa={query}
+w: Facebook - people,https://www.facebook.com/search/people/?q={query}
+w: Facebook - photos,https://www.facebook.com/search/photos/?q={query}
+w: Facebook - videos,https://www.facebook.com/search/videos/?q={query}
+w: Linkedin,https://www.linkedin.com/search/results/index/?keywords={query}
+w: Linkedin - jobs,https://www.linkedin.com/jobs/search/?keywords={query}
+w: Linkedin - people,https://www.linkedin.com/search/results/people/?keywords={query}
+w: Linkedin - companies,https://www.linkedin.com/search/results/people/?keywords={query}
+w: Facebook - pages,https://www.facebook.com/search/pages/?q={query}
+w: Facebook - places,https://www.facebook.com/search/str/{query}/keywords_places/
+w: Facebook - groups,https://www.facebook.com/search/groups/?q={query}
+w: Facebook - events,https://www.facebook.com/search/events/?q={query}
+f: Script debugger,http://forum.latenightsw.com/search?q={query}
+f: Binary age,https://discuss.binaryage.com/search?q={query}
+w: Facebook,https://www.facebook.com/search/top/?q={query}
+f: Hugo,https://discourse.gohugo.io/search?q={query}
+f: Golang bridge,https://forum.golangbridge.org/search?q={query}
+f: The things network,https://www.thethingsnetwork.org/forum/search?q={query}
+f: Discourse,https://try.discourse.org/search?q={query}
+g: GitHub - topics,https://GitHub.com/topics/{query}
+r: DMT,https://www.reddit.com/r/DMT/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Npm,https://www.npmjs.com/search?q={query}&page=1&ranking=optimal
+w: Name the colour,http://chir.ag/projects/name-that-color/{query}
+r: Emacs,https://www.reddit.com/r/emacs/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Yoshua wuyts wiki,https://yoshuawuyts.gitbooks.io/knowledge/content/?q={query}
+w: Last.fm,https://www.last.fm/search?q={query}
+w: Leetcode,https://leetcode.com/problemset/all/?search={query}
+w: Reddit,https://www.reddit.com/search?q={query}&sort=relevance&t=all
+g: GitHub - recent,https://GitHub.com/search?utf8=✓&q={query}&type=Repositories&ref=searchresults&o=desc&s=updated
+r: Advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Algorithms,https://www.reddit.com/r/algorithms/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Apple,https://www.reddit.com/r/apple/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Artificial,https://www.reddit.com/r/artificial/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask computer science,https://www.reddit.com/r/AskComputerScience/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask netsec,https://www.reddit.com/r/AskNetsec/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask programming,https://www.reddit.com/r/AskProgramming/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Askhistorians,https://www.reddit.com/r/AskHistorians/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Askreddit,https://www.reddit.com/r/AskReddit/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Askscience,https://www.reddit.com/r/askscience/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: C,https://www.reddit.com/r/C_Programming/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: C#,https://www.reddit.com/r/csharp/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: C++,https://www.reddit.com/r/cpp/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Clojure,https://www.reddit.com/r/Clojure/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Coding,https://www.reddit.com/r/coding/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Coffecript,https://www.reddit.com/r/coffeescript/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: CS books,https://www.reddit.com/r/csbooks/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: CS career questions,https://www.reddit.com/r/cscareerquestions/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: CS education,https://www.reddit.com/r/CSEducation/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Daily programmer,https://www.reddit.com/r/dailyprogrammer/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Data is beautiful,https://www.reddit.com/r/dataisbeautiful/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Design,https://www.reddit.com/r/Design/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Everything science,https://www.reddit.com/r/EverythingScience/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Fitness,https://www.reddit.com/r/Fitness/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Future beats,https://www.reddit.com/r/futurebeats/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Futurology,https://www.reddit.com/r/Futurology/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Gamedev,https://www.reddit.com/r/gamedev/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Gentleman boners,https://www.reddit.com/r/gentlemanboners/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Get disciplined,https://www.reddit.com/r/getdisciplined/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Golang,https://www.reddit.com/r/golang/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Haskell,https://www.reddit.com/r/haskell/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Health,https://www.reddit.com/r/Health/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Indie heads,https://www.reddit.com/r/indieheads/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Internet is beautiful,https://www.reddit.com/r/InternetIsBeautiful/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: IPhone,https://www.reddit.com/r/iphone/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Java,https://www.reddit.com/r/java/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Javascript,https://www.reddit.com/r/javascript/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Lady boners,https://www.reddit.com/r/LadyBoners/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Latex,https://www.reddit.com/r/LaTeX/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Learn programming,https://www.reddit.com/r/learnprogramming/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Lectures,https://www.reddit.com/r/lectures/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Linux,https://www.reddit.com/r/linux/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Lisp,https://www.reddit.com/r/lisp/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Listen to this,https://www.reddit.com/r/listentothis/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: LSD,https://www.reddit.com/r/LSD/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Lua,https://www.reddit.com/r/lua/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Mac,https://www.reddit.com/r/mac/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Math,https://www.reddit.com/r/math/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Matlab,https://www.reddit.com/r/matlab/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Meditation,https://www.reddit.com/r/Meditation/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Minimalism,https://www.reddit.com/r/minimalism/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Netsec,https://www.reddit.com/r/netsec/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: No stupid questions,https://www.reddit.com/r/NoStupidQuestions/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Nootropics,https://www.reddit.com/r/Nootropics/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Nutrition,https://www.reddit.com/r/nutrition/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Objective c,https://www.reddit.com/r/ObjectiveC/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Out of the loop,https://www.reddit.com/r/OutOfTheLoop/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Perl,https://www.reddit.com/r/perl/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Php,https://www.reddit.com/r/PHP/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Physics,https://www.reddit.com/r/Physics/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Pics,https://www.reddit.com/r/pics/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Privacy,https://www.reddit.com/r/privacy/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Programming,https://www.reddit.com/r/programming/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Psychonaut,https://www.reddit.com/r/Psychonaut/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Python,https://www.reddit.com/r/Python/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: R stats,https://www.reddit.com/r/rstats/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ruby,https://www.reddit.com/r/ruby/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Rust,https://www.reddit.com/r/rust/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Scala,https://www.reddit.com/r/scala/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Science,https://www.reddit.com/r/science/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Seduction,https://www.reddit.com/r/seduction/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Shower thoughts,https://www.reddit.com/r/Showerthoughts/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Sql,https://www.reddit.com/r/SQL/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Startups,https://www.reddit.com/r/startups/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Technology,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Tiny code,https://www.reddit.com/r/tinycode/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: True film,https://www.reddit.com/r/TrueFilm/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Types,https://www.reddit.com/r/types/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Vim,https://www.reddit.com/r/vim/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Webdev,https://www.reddit.com/r/webdev/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Web design,https://www.reddit.com/r/web_design/search?q={query}&restrict_sr=on&sort=relevance&t=all
+d: Android docs,https://developer.android.com/training/basics/fragments/index.html#q={query}
+d: C++,http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search={query}&button=
+d: Developer apple,https://developer.apple.com/search/?q={query}&platform=iOS
+d: IOS apple,https://developer.apple.com/search/?q={query}&platform=iOS
+d: Java lib,https://java.libhunt.com/search?query={query}
+d: Mdn docs,https://developer.mozilla.org/en-US/search?q={query}&topic=html&topic=css&topic=js&topic=api
+d: Haskell lib,https://www.haskell.org/hoogle/?hoogle={query}
+d: Haskell hayoo, http://hayoo.fh-wedel.de/?query={query}
+d: Stackage, https://www.stackage.org/lts-9.9/hoogle?q={query}
+d: Haskell stack, https://www.stackage.org/lts-9.9/hoogle?q={query}
+f: Hazel forum,https://www.noodlesoft.com/forums/search.php?keywords={query}
+f: Physics forums,https://cse.google.com/cse?cx=partner-pub-6580726045122001:6282512200&ie=UTF-8&q={query}
+f: Shroomery,https://www.shroomery.org/forums/dosearch.php?terms={query}
+s: Academia,http://academia.stackexchange.com/search?q={query}
+s: Android enthusiasts,http://android.stackexchange.com/search?q={query}
+s: Arqade,http://gaming.stackexchange.com/search?q={query}
+s: Ask different,http://apple.stackexchange.com/search?q={query}
+s: Ask ubuntu,http://askubuntu.com/search?q={query}
+s: Biology,http://biology.stackexchange.com/search?q={query}
+s: Bitcoin,http://bitcoin.stackexchange.com/search?q={query}
+s: Buddhism,http://buddhism.stackexchange.com/search?q={query}
+s: Chemistry,http://chemistry.stackexchange.com/search?q={query}
+s: Cognitive sciences,http://cogsci.stackexchange.com/search?q={query}
+s: Computational science,http://scicomp.stackexchange.com/search?q={query}
+s: Computer science,http://cs.stackexchange.com/search?q={query}
+s: Cross validated,http://stats.stackexchange.com/search?q={query}
+s: Database administrators,http://dba.stackexchange.com/search?q={query}
+s: Electrical engineering,http://electronics.stackexchange.com/search?q={query}
+s: English language,http://english.stackexchange.com/search?q={query}
+s: Freelancing,http://freelancing.stackexchange.com/search?q={query}
+s: Game development,http://gamedev.stackexchange.com/search?q={query}
+s: Graphic design,http://graphicdesign.stackexchange.com/search?q={query}
+s: Information security,http://security.stackexchange.com/search?q={query}
+s: History,http://history.stackexchange.com/search?q={query}
+s: Home improvement,http://diy.stackexchange.com/search?q={query}
+s: Math overflow,http://mathoverflow.net/search?q={query}
+s: Mathematica,http://mathematica.stackexchange.com/search?q={query}
+s: Mathematical educators,http://matheducators.stackexchange.com/search?q={query}
+s: Mathematics,http://math.stackexchange.com/search?q={query}
+s: Meta,http://meta.stackexchange.com/search?q={query}
+s: Movies & tv,http://movies.stackexchange.com/search?q={query}
+s: Network engineering stack,http://networkengineering.stackexchange.com/search?q={query}
+s: Open data,http://opendata.stackexchange.com/search?q={query}
+s: Personal finance,http://money.stackexchange.com/search?q={query}
+s: Personal productivity,http://productivity.stackexchange.com/search?q={query}+
+s: Pets,http://pets.stackexchange.com/search?q={query}
+s: Philosohy,http://philosophy.stackexchange.com/search?q={query}
+s: Photography,http://photo.stackexchange.com/search?q={query}
+s: Physics,http://physics.stackexchange.com/search?q={query}
+s: Programmers,http://programmers.stackexchange.com/search?q={query}
+s: Project management,http://pm.stackexchange.com/search?q={query}
+s: Raspberry,http://raspberrypi.stackexchange.com/search?q={query}
+s: Reverse engineering,http://reverseengineering.stackexchange.com/search?q={query}
+s: Robotics,http://robotics.stackexchange.com/search?q={query}
+s: Role playing games,http://rpg.stackexchange.com/search?q={query}
+s: Salesforce,http://salesforce.stackexchange.com/search?q={query}
+s: Scifi & fantasy,http://scifi.stackexchange.com/search?q={query}
+s: Serverfault,http://serverfault.com/search?q={query}
+s: Sharepoint,http://sharepoint.stackexchange.com/search?q={query}
+s: Signal processing,http://dsp.stackexchange.com/search?q={query}
+s: Skeptics,http://skeptics.stackexchange.com/search?q={query}
+s: Software recommendations,http://softwarerecs.stackexchange.com/search?q={query}
+s: Sound design,http://sound.stackexchange.com/search?q={query}
+s: Space exploration,http://space.stackexchange.com/search?q={query}
+s: Stack overflow,http://stackoverflow.com/search?q={query}
+s: Stack python,http://stackoverflow.com/search?q=python+{query}
+s: Super user,http://superuser.com/search?q={query}
+s: Theoretical compsi,http://cstheory.stackexchange.com/search?q={query}
+s: Tor stack,http://tor.stackexchange.com/search?q={query}
+s: Travel,http://travel.stackexchange.com/search?q={query}
+s: Unix & linux,http://unix.stackexchange.com/search?q={query}
+s: User experience,http://ux.stackexchange.com/search?q={query}
+s: Web apps,http://webapps.stackexchange.com/search?q={query}
+s: Web masters,http://webmasters.stackexchange.com/search?q={query}
+s: Workplace,http://workplace.stackexchange.com/search?q={query}
+s: Writers,http://writers.stackexchange.com/search?q={query}
+d: Search os status,https://www.osstatus.com/search/results?platform=all&framework=all&search={query}
+t: Translate to english,https://translate.google.com/#auto/en/{query}
+t: Translate to dutch,https://translate.google.com/#auto/nl/{query}
+t: Translate to russian,https://translate.google.com/#auto/ru/{query}
+t: Translate to spanish,https://translate.google.com/#auto/es/{query}
+w: 8tracks,http://8tracks.com/explore/{query}
+w: Abbreviation terms,http://www.abbreviations.com/abbreviation/{query}
+w: Yandex,https://www.yandex.com/search/?msid=1484233484.98264.22892.24573&text={query}&lr=10466
+w: Abbreviations,http://www.abbreviations.com/{query}
+w: Aliexpress,http://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160518044144&SearchText={query}
+w: AlternativeTo,http://alternativeto.net/browse/search?q={query}
+w: Angellist,https://angel.co/search?q={query}
+w: Appshopper,http://appshopper.com/search?search={query}
+w: Better explained,http://betterexplained.com/?s={query}
+w: Champion.gg,http://champion.gg/champion/{query}
 w: Codeforces,http://codeforces.com/search?by=&query=binary
-w: Coursera courses,https://www.coursera.org/courses?search=tester
-w: Css tricks,https://css-tricks.com/search-results/?q=tester
-w: Documentary heaven,http://documentaryheaven.com/find/?q=tester
-w: Duckduckgo about,https://duckduckgo.com/?q=tester&ia=about
-w: Duckduckgo definition,https://duckduckgo.com/?q=tester&ia=definition
-w: Duckduckgo images,https://duckduckgo.com/?q=tester&iax=1&ia=images
-w: Duckduckgo videos,https://duckduckgo.com/?q=tester&ia=videos
-w: Edx,https://www.edx.org/course?search_query=tester
-w: Evolvr,https://www.evolvr.io/search?utf8=✓&query=tester+&commit=Enter
-w: Examine,http://examine.com/search/?q=tester&homepage=1
-w: Extra torrent,http://extratorrent.cc/search/?search=tester&new=1&x=0&y=0
-w: Go search,http://go-search.org/search?q=tester
-w: Google search for past month,https://www.google.com/search?q=tester&tbs=qdr:m
-w: Google search for past week,https://www.google.com/search?q=tester&tbs=qdr:w
-w: Stack overflow - jobs,https://stackoverflow.com/jobs?sort=i&q=tester
-w: Instagram tags,https://instagram.com/explore/tags/tester/
-w: Twitter (user),https://twitter.com/tester
-w: Merriam webster dictionary,http://www.merriam-webster.com/dictionary/tester
-w: Golang,https://golang.org/search?q=tester
-w: Google drive,https://drive.google.com/drive/search?q=tester
-w: Google for past 24 hours,https://www.google.com/search?q=tester&tbs=qdr:d
-w: Google for pdfs,https://www.google.com/#q=filetype:pdf+tester
-w: Google groups,http://groups.google.com/groups?q=tester
-w: Google scholar,https://scholar.google.com/scholar?hl=en&q=tester&btnG=&as_sdt=1%2C44&as_sdtp=
-w: Google verbatim,https://www.google.com/search?q=tester&tbs=li:1
-w: Grouevee,https://www.grouvee.com/search/?q=tester
-w: Habrahabr,http://habrahabr.ru/search/?q=tester
-w: Hacker news,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-w: How stuff works,http://www.howstuffworks.com/search.php?terms=tester
-w: Icon store,http://iconstore.co/?s=tester
-w: Index of a company,https://index.co/company/tester
-w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query=tester
-w: Kinopoisk,http://www.kinopoisk.ru/search/?text=tester
-w: Libraries.io,https://libraries.io/search?q=tester
-w: Lifehacker,http://lifehacker.com/search?q=tester
-w: Macosx hints,http://www.macosxhints.com/search.php?query=tester&type=stories&mode=search&keyType=all
-w: Mac rumours,http://forums.macrumors.com/search/2213886/?q=tester&o=date
-w: Macupdate,https://www.macupdate.com/find/mac/tester
-w: Math world,http://mathworld.wolfram.com/search/?query=tester&x=0&y=0
-w: Metacademy,https://www.metacademy.org/search?q=tester
-d: Meteor packages,https://atmospherejs.com/?q=tester
-w: Mit open courseware,https://search.mit.edu/search?site=ocw&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&requiredfields=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&sectionlimit=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&as_dt=i&oe=utf-8&departmentName=web&filter=0&courseName=&q=tester&btnG.x=0&btnG.y=0
-w: Npms,https://npms.io/search?q=tester
-w: Nutrition facts,http://nutritionfacts.org/?fwp_search=tester
-w: Opgg,http://euw.op.gg/summoner/userName=tester
-w: Patrick jmt,http://patrickjmt.com/?s=tester
-w: Piratebay,https://pirateproxy.la/search/tester/0/99/0
-w: Pixabay,https://pixabay.com/en/photos/?q=tester&image_type=&cat=&min_width=&min_height=
-w: Pocket,https://www.getpocket.com/explore/tester
-w: Proof wiki,https://proofwiki.org/w/index.php?title=Special%3ASearch&search=tester
-w: Proofwiki,https://proofwiki.org/w/index.php?search=tester&title=Special%3ASearch&go=Go
-w: Psychonaut wiki,https://psychonautwiki.org/wiki/tester
-w: Quizlet,https://quizlet.com/subject/tester/
-w: Reddit for past month,https://www.reddit.com/search?q=tester&t=month
-w: Reddit for past week,https://www.reddit.com/search?q=tester&t=week
-w: Reddit for past year,https://www.reddit.com/search?q=tester&t=year
-w: Reddit for the past day,https://www.reddit.com/search?q=tester&t=day
-w: Reddit for the past hour,https://www.reddit.com/search?q=tester&t=hour
-w: Ruby gems,https://rubygems.org/search?utf8=%E2%9C%93&query=tester
-w: Rutracker,http://rutracker.org/forum/tracker.php?nm=tester
-w: Simple wikipedia,https://simple.wikipedia.org/w/index.php?search=tester&title=Special%3ASearch&go=Go
-w: Slashdot,http://slashdot.org/?fhfilter=tester
-w: Stackshare,http://stackshare.io/search/q=tester
-w: Stanford searchworks,http://searchworks.stanford.edu/?q=tester&search_field=search
-w: Student room,http://www.thestudentroom.co.uk/search.php?query=tester
-w: Stylish,https://userstyles.org/styles/browse?search_terms=tester
-w: Symlab,https://www.symbolab.com/solver/step-by-step/tester
-w: SyntaxDB,https://syntaxdb.com/reference/search?utf8=✓&search=tester
-w: Ted talks,http://www.ted.com/search?q=tester
-w: Terminal commands,http://www.openbsd.org/cgi-bin/man.cgi?query=tester
-w: Thesaurus,http://www.thesaurus.com/browse/tester?s=t
-w: Trakt,https://trakt.tv/search?utf8=✓&query=tester
-w: Tumblr,https://www.tumblr.com/search/tester
-w: Twitter live feed,https://twitter.com/search?f=tweets&vertical=default&q=tester&src=typd
-w: Twitter videos,https://twitter.com/search?f=videos&vertical=default&q=tester&src=typd
-w: Udemy,https://www.udemy.com/courses/search/?q=tester
-w: Ui talks,http://talks.ui-patterns.com/search?utf8=✓&q=tester
-w: Ultimate guitar,http://www.ultimate-guitar.com/search.php?search_type=title&value=tester
-w: Unsplash,https://unsplash.com/search/photos/tester
-w: Urban dictionary,http://www.urbandictionary.com/define.php?term=tester
-w: Vim awesome,http://vimawesome.com/?q=tester
-w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?search=tester&fulltext=Search
-w: Vk,https://vk.com/search?c[q]=tester&c[section]=auto
-w: Vk music,http://vk.com/audios196314313?q=tester
-w: Vk people,https://vk.com/search?c%5Bname%5D=1&c%5Bq%5D=tester&c%5Bsection%5D=people
-w: Whois,http://whois.domaintools.com/tester
-w: Wikihow,http://www.wikihow.com/Special:LSearch?search=tester
-w: Wolfram alpha derive,http://www.wolframalpha.com/input/?i=derive+tester
-w: Wolfram alpha integrate,http://www.wolframalpha.com/input/?i=integrate+tester
-w: Wolfram alpha solve,http://www.wolframalpha.com/input/?i=solve+tester
-w: Goodreads,https://www.goodreads.com/search?q=tester
-r: Machine learning,https://www.reddit.com/r/MachineLearning/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Soundcloud,https://soundcloud.com/search?q=tester
-d: Gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic=tester
-w: Bubblehunt,https://bubblehunt.com/?q=tester
-w: Pinboard topics,https://pinboard.in/t:tester/
-w: Find lectures,https://www.findlectures.com/?q=tester&p=1&
-w: Kaggle,https://www.kaggle.com/discussion?sortBy=relevance&group=all&search=tester&page=1&category=all&kind=topics
-w: Lobsters, https://lobste.rs/search?utf8=✓&q=tester&what=all&order=relevance
-w: Aminer, http://aminer.org/search?t=b&q=tester
-d: Gitlogs,http://www.gitlogs.com/most_popular?topic=tester
-d: Gitlogs - last week,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
-d: Pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic=tester
-f: Alfred forum,http://www.alfredforum.com/search/?&q=tester
-f: Alfred forum - newest,https://www.alfredforum.com/search/?q=tester&sortby=newest
-f: Alfred forum - members,https://www.alfredforum.com/search/?&q=tester&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
-f: Keyboard Maestro,https://forum.keyboardmaestro.com/search?q=tester
-f: Keyboard Maestro - latest posts,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alatest
-f: Keyboard Maestro - most liked,https://forum.keyboardmaestro.com/search?q=tester%20order%3Alikes
-f: Keyboard Maestro - most viewed,https://forum.keyboardmaestro.com/search?q=tester%20order%3Aviews
-w: Quora,https://www.quora.com/search?q=tester
-w: Quora - profiles,https://www.quora.com/search?q=tester&type=profile
-w: Quora - topics,https://www.quora.com/search?q=tester&type=topic
-w: Quora - answers,https://www.quora.com/search?q=tester&type=answer
-w: Quora - past month,https://www.quora.com/search?q=tester&time=month
-w: Letterboxd,http://letterboxd.com/search/tester/
-w: Letterboxd - tags,http://letterboxd.com/search/tags/tester/
-w: Letterboxd - actors,http://letterboxd.com/search/actors/tester/
-s: Stack overflow - newest,http://stackoverflow.com/search?tab=newest&q=tester
-s: Stack overflow - most votes,http://stackoverflow.com/search?tab=votes&q=tester
-s: Stack overflow - ative,http://stackoverflow.com/search?tab=active&q=tester
-w: Medium,https://medium.com/search?q=tester
-w: Medium - users,https://medium.com/search/users?q=tester
-w: Medium - tags,https://medium.com/search/tags?q=tester
-w: Medium - publications,https://medium.com/search/publications?q=tester
-w: Twitter,https://twitter.com/search?q=tester&src=typd
-w: Twitter - users,https://twitter.com/search?f=users&vertical=default&q=tester&src=typd
-w: Twitter - latest,https://twitter.com/search?f=tweets&vertical=news&q=tester&src=typd
-w: Twitter - photos,https://twitter.com/search?f=images&vertical=default&q=tester&src=typd
-w: Twitter - people you follow,https://twitter.com/search?s=follows&vertical=news&q=tester&src=typd
-w: Product hunt,https://www.producthunt.com/search/posts?q=tester
-w: Product hunt - collections,https://www.producthunt.com/search/collections?q=tester
-w: Product hunt - users,https://www.producthunt.com/search/users?q=tester
-w: Product hunt - topics,https://www.producthunt.com/search/topics?q=tester
-g: Gists,https://gist.GitHub.com/search?utf8=%E2%9C%93&q=tester
-g: GitHub - issues,https://GitHub.com/search?q=tester&ref=searchresults&type=Issues&utf8=%E2%9C%93
-g: GitHub - commits,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Commits&ref=searchresults
-g: GitHub - wikis,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Wikis&ref=searchresults
-w: Dribble,https://dribbble.com/search?q=tester
-w: Dribble - latest,https://dribbble.com/search?q=tester&s=latest
-w: Goodreads - lists,https://www.goodreads.com/search?q=tester&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
-w: Goodreads - quotes,https://www.goodreads.com/search?utf8=✓&query=tester
-w: Goodreads - people,https://www.goodreads.com/search?q=tester&search%5Bsource%5D=goodreads&search_type=people&tab=people
-w: Goodreads - groups,https://www.goodreads.com/search?utf8=%E2%9C%93&q=tester&search_type=groups&search%5Bfield%5D=on
-w: Hacker news - past month,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
-w: Hacker news - past year,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
-w: Hacker news - stories all time,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-w: Hacker news - comments past month,https://hn.algolia.com/?query=tester&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
-w: iDope - top seed,http://www.idope.se/torrent/tester/
-w: iDope - most recent,https://idope.se/torrent-list/tester/?&o=-3
-g: GitHub - code,https://GitHub.com/search?q=tester&ref=searchresults&type=Code&utf8=%E2%9C%93
-g: GitHub - code - go, https://github.com/search?o=desc&q=language%3Ago+%22tester%22&s=indexed&type=Code&utf8=%E2%9C%93
-g: GitHub - users,https://GitHub.com/search?o=desc&q=tester&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
-g: GitHub - most forks,https://GitHub.com/search?o=desc&q=tester&ref=searchresults&s=forks&type=Repositories&utf8=✓
-g: GitHub - most starred,https://GitHub.com/search?utf8=%E2%9C%93&q=tester&type=Repositories&ref=searchresults&o=desc&s=stars
-w: Reddit - top this month,https://www.reddit.com/search?q=tester&sort=top&t=month
-w: Reddit - new,https://www.reddit.com/search?q=tester&sort=new&t=all
-w: Reddit - past year,https://www.reddit.com/search?q=tester&sort=relevance&t=year
-w: Reddit - top all,https://www.reddit.com/search?q=tester&sort=top&t=all
-w: Wolfram alpha,http://www.wolframalpha.com/input/?i=tester
-w: Wiki search,http://wikisearch.surge.sh/tester
-w: Scholarpedia,http://www.scholarpedia.org/w/index.php?search=tester&button=&title=Special%3ASearch
-w: Kickass torrents,http://desotorrent.com/search/tester/
-w: Skytorrents,https://www.skytorrents.in/search/all/ed/1/?q=tester
-w: Arxiv,https://newcatalog.library.cornell.edu/search?q=tester
-w: Arxiv - books,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Book&q=tester&search_field=all_fields
-w: Arxiv - thesis,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Thesis&q=tester&search_field=all_fields
-w: Metacademy,https://www.metacademy.org/search?q=tester
-w: Mit opencourseware pdf,https://search.mit.edu/search?__EVENTTARGET=&__EVENTARGUMENT=&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&proxyreload=1&as_dt=i&oe=utf-8&btnG.x=4&btnG.y=10&filter=0&site=ocw&q=tester+filetype%3Apdf&getfields=*&sectionlimit=WT%252Ecg_s:Course+Home%7CWT%252Ecg_s:Resource+Home&oe=utf-8&is_secure=0&sort=date:D:L:d1
-w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query=tester
-d: Godoc,https://godoc.org/?q=tester
-d: Go search,http://go-search.org/search?q=tester
-g: GitHub - go,https://GitHub.com/search?q=tester+language:go
-g: GitHub - java,https://GitHub.com/search?l=Java&q=tester&type=Repositories&utf8=✓
-g: GitHub - go - most stars,https://GitHub.com/search?o=desc&q=tester+language%3Ago&s=stars&type=Repositories
-d: Git logs - go,http://www.gitlogs.com/most_popular?from=last-week&language=Go&topic=tester
-w: Google trends - 30 days,https://www.google.com/trends/explore?date=today%201-m&q=tester
-w: Google trends - 1 day,https://www.google.com/trends/explore?date=now%201-d&q=tester
-w: Google trends - 1 year,https://www.google.com/trends/explore?q=tester
-g: GitHub - shell,https://GitHub.com/search?l=Shell&q=tester&type=Repositories&utf8=%E2%9C%93
-g: GitHub - go - recent,https://GitHub.com/search?o=desc&q=tester+language%3Ago&s=updated&type=Repositories
-w: Vimeo,https://vimeo.com/search?q=tester
-w: Twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q=tester&src=typd
-w: Keyboard Maestro - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id=tester
-w: Emojipedia,https://emojipedia.org/search/?q=tester
-w: Openstreatmap,http://www.openstreetmap.org/search?query=tester
-w: Startpage,https://www.startpage.com/do/metasearch.pl?query=tester
-w: Searx,https://searx.tk/?q=tester
-w: Qwant,https://www.qwant.com/?q=tester&t=all
-w: Duckduckgo,https://duckduckgo.com/?q=tester
-d: Vs code docs,https://code.visualstudio.com/Search?q=tester
-w: Google maps,https://www.google.com/maps/place/tester
-r: Videos,https://www.reddit.com/r/videos/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search=tester&title=Special%3ASearch&go=Go
-w: Reddit - subreddits,https://www.reddit.com/subreddits/search?q=tester
-w: Youtube,https://www.youtube.com/results?search_query=tester
-w: Google books,https://www.google.com/search?tbm=bks&q=tester
-w: Patents,http://patents.com/search/?top_keyword=tester
-w: Google drive,https://drive.google.com/drive/search?q=tester
-w: Amazon,https://www.amazon.com/gp/search?ie=UTF8&keywords=tester
-w: Alfred,https://www.alfredapp.com/search/?q=tester
-w: Reddit - users,https://www.reddit.com/user/tester/
-r: Unix porn,https://www.reddit.com/r/unixporn/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Bing,http://www.bing.com/search?q=tester
-w: Bing - images,http://www.bing.com/images/search?q=tester
-d: Hackage,http://hackage.haskell.org/packages/search?terms=tester
-w: Nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q=tester
-w: Vs code market,https://marketplace.visualstudio.com/search?term=tester&target=VSCode&category=All%20categories&sortBy=Relevancev
-w: Sublime text packages,https://packagecontrol.io/search/tester
-w: Gitbook,https://www.gitbook.com/search?q=tester
-w: Gitbook - most stars,https://www.gitbook.com/search?q=tester&page=0&type=books&sort=stars
-w: Gitbook - recent,https://www.gitbook.com/search?q=tester&page=0&type=books&sort=updated
-s: Stack overflow - tags,https://stackoverflow.com/questions/tagged/tester
-d: Pytorch,http://pytorch.org/tutorials/search.html?q=tester&check_keywords=yes&area=default
-w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?query=tester
-r: Hearthstone,https://www.reddit.com/r/hearthstone/search?q=tester&restrict_sr=on&sort=relevance&t=all
-w: Ncatlab,https://ncatlab.org/nlab/search?query=tester
-w: Dblp,http://dblp.uni-trier.de/search?q=tester
-w: Researchr,https://researchr.org/search/publication/tester
-w: Journal of Functional programming, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q=tester&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
+w: Coursera courses,https://www.coursera.org/courses?search={query}
+w: Css tricks,https://css-tricks.com/search-results/?q={query}
+w: Documentary heaven,http://documentaryheaven.com/find/?q={query}
+w: Duckduckgo about,https://duckduckgo.com/?q={query}&ia=about
+w: Duckduckgo definition,https://duckduckgo.com/?q={query}&ia=definition
+w: Duckduckgo images,https://duckduckgo.com/?q={query}&iax=1&ia=images
+w: Duckduckgo videos,https://duckduckgo.com/?q={query}&ia=videos
+w: Edx,https://www.edx.org/course?search_query={query}
+w: Evolvr,https://www.evolvr.io/search?utf8=✓&query={query}+&commit=Enter
+w: Examine,http://examine.com/search/?q={query}&homepage=1
+w: Extra torrent,http://extratorrent.cc/search/?search={query}&new=1&x=0&y=0
+w: Go search,http://go-search.org/search?q={query}
+w: Google search for past month,https://www.google.com/search?q={query}&tbs=qdr:m
+w: Google search for past week,https://www.google.com/search?q={query}&tbs=qdr:w
+w: Stack overflow - jobs,https://stackoverflow.com/jobs?sort=i&q={query}
+w: Instagram tags,https://instagram.com/explore/tags/{query}/
+w: Twitter (user),https://twitter.com/{query}
+w: Merriam webster dictionary,http://www.merriam-webster.com/dictionary/{query}
+w: Golang,https://golang.org/search?q={query}
+w: Google drive,https://drive.google.com/drive/search?q={query}
+w: Google for past 24 hours,https://www.google.com/search?q={query}&tbs=qdr:d
+w: Google for pdfs,https://www.google.com/#q=filetype:pdf+{query}
+w: Google groups,http://groups.google.com/groups?q={query}
+w: Google scholar,https://scholar.google.com/scholar?hl=en&q={query}&btnG=&as_sdt=1%2C44&as_sdtp=
+w: Google verbatim,https://www.google.com/search?q={query}&tbs=li:1
+w: Grouevee,https://www.grouvee.com/search/?q={query}
+w: Habrahabr,http://habrahabr.ru/search/?q={query}
+w: Hacker news,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+w: How stuff works,http://www.howstuffworks.com/search.php?terms={query}
+w: Icon store,http://iconstore.co/?s={query}
+w: Index of a company,https://index.co/company/{query}
+w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
+w: Kinopoisk,http://www.kinopoisk.ru/search/?text={query}
+w: Libraries.io,https://libraries.io/search?q={query}
+w: Lifehacker,http://lifehacker.com/search?q={query}
+w: Macosx hints,http://www.macosxhints.com/search.php?query={query}&type=stories&mode=search&keyType=all
+w: Mac rumours,http://forums.macrumors.com/search/2213886/?q={query}&o=date
+w: Macupdate,https://www.macupdate.com/find/mac/{query}
+w: Math world,http://mathworld.wolfram.com/search/?query={query}&x=0&y=0
+w: Metacademy,https://www.metacademy.org/search?q={query}
+d: Meteor packages,https://atmospherejs.com/?q={query}
+w: Mit open courseware,https://search.mit.edu/search?site=ocw&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&requiredfields=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&sectionlimit=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&as_dt=i&oe=utf-8&departmentName=web&filter=0&courseName=&q={query}&btnG.x=0&btnG.y=0
+w: Npms,https://npms.io/search?q={query}
+w: Nutrition facts,http://nutritionfacts.org/?fwp_search={query}
+w: Opgg,http://euw.op.gg/summoner/userName={query}
+w: Patrick jmt,http://patrickjmt.com/?s={query}
+w: Piratebay,https://pirateproxy.la/search/{query}/0/99/0
+w: Pixabay,https://pixabay.com/en/photos/?q={query}&image_type=&cat=&min_width=&min_height=
+w: Pocket,https://www.getpocket.com/explore/{query}
+w: Proof wiki,https://proofwiki.org/w/index.php?title=Special%3ASearch&search={query}
+w: Proofwiki,https://proofwiki.org/w/index.php?search={query}&title=Special%3ASearch&go=Go
+w: Psychonaut wiki,https://psychonautwiki.org/wiki/{query}
+w: Quizlet,https://quizlet.com/subject/{query}/
+w: Reddit for past month,https://www.reddit.com/search?q={query}&t=month
+w: Reddit for past week,https://www.reddit.com/search?q={query}&t=week
+w: Reddit for past year,https://www.reddit.com/search?q={query}&t=year
+w: Reddit for the past day,https://www.reddit.com/search?q={query}&t=day
+w: Reddit for the past hour,https://www.reddit.com/search?q={query}&t=hour
+w: Ruby gems,https://rubygems.org/search?utf8=%E2%9C%93&query={query}
+w: Rutracker,http://rutracker.org/forum/tracker.php?nm={query}
+w: Simple wikipedia,https://simple.wikipedia.org/w/index.php?search={query}&title=Special%3ASearch&go=Go
+w: Slashdot,http://slashdot.org/?fhfilter={query}
+w: Stackshare,http://stackshare.io/search/q={query}
+w: Stanford searchworks,http://searchworks.stanford.edu/?q={query}&search_field=search
+w: Student room,http://www.thestudentroom.co.uk/search.php?query={query}
+w: Stylish,https://userstyles.org/styles/browse?search_terms={query}
+w: Symlab,https://www.symbolab.com/solver/step-by-step/{query}
+w: SyntaxDB,https://syntaxdb.com/reference/search?utf8=✓&search={query}
+w: Ted talks,http://www.ted.com/search?q={query}
+w: Terminal commands,http://www.openbsd.org/cgi-bin/man.cgi?query={query}
+w: Thesaurus,http://www.thesaurus.com/browse/{query}?s=t
+w: Trakt,https://trakt.tv/search?utf8=✓&query={query}
+w: Tumblr,https://www.tumblr.com/search/{query}
+w: Twitter live feed,https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
+w: Twitter videos,https://twitter.com/search?f=videos&vertical=default&q={query}&src=typd
+w: Udemy,https://www.udemy.com/courses/search/?q={query}
+w: Ui talks,http://talks.ui-patterns.com/search?utf8=✓&q={query}
+w: Ultimate guitar,http://www.ultimate-guitar.com/search.php?search_type=title&value={query}
+w: Unsplash,https://unsplash.com/search/photos/{query}
+w: Urban dictionary,http://www.urbandictionary.com/define.php?term={query}
+w: Vim awesome,http://vimawesome.com/?q={query}
+w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?search={query}&fulltext=Search
+w: Vk,https://vk.com/search?c[q]={query}&c[section]=auto
+w: Vk music,http://vk.com/audios196314313?q={query}
+w: Vk people,https://vk.com/search?c%5Bname%5D=1&c%5Bq%5D={query}&c%5Bsection%5D=people
+w: Whois,http://whois.domaintools.com/{query}
+w: Wikihow,http://www.wikihow.com/Special:LSearch?search={query}
+w: Wolfram alpha derive,http://www.wolframalpha.com/input/?i=derive+{query}
+w: Wolfram alpha integrate,http://www.wolframalpha.com/input/?i=integrate+{query}
+w: Wolfram alpha solve,http://www.wolframalpha.com/input/?i=solve+{query}
+w: Goodreads,https://www.goodreads.com/search?q={query}
+r: Machine learning,https://www.reddit.com/r/MachineLearning/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Soundcloud,https://soundcloud.com/search?q={query}
+d: Gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic={query}
+w: Bubblehunt,https://bubblehunt.com/?q={query}
+w: Pinboard topics,https://pinboard.in/t:{query}/
+w: Find lectures,https://www.findlectures.com/?q={query}&p=1&
+w: Kaggle,https://www.kaggle.com/discussion?sortBy=relevance&group=all&search={query}&page=1&category=all&kind=topics
+w: Lobsters, https://lobste.rs/search?utf8=✓&q={query}&what=all&order=relevance
+w: Aminer, http://aminer.org/search?t=b&q={query}
+d: Gitlogs,http://www.gitlogs.com/most_popular?topic={query}
+d: Gitlogs - last week,http://www.gitlogs.com/most_popular?from=last-week&topic={query}
+d: Pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic={query}
+f: Alfred forum,http://www.alfredforum.com/search/?&q={query}
+f: Alfred forum - newest,https://www.alfredforum.com/search/?q={query}&sortby=newest
+f: Alfred forum - members,https://www.alfredforum.com/search/?&q={query}&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
+f: Keyboard Maestro,https://forum.keyboardmaestro.com/search?q={query}
+f: Keyboard Maestro - latest posts,https://forum.keyboardmaestro.com/search?q={query}%20order%3Alatest
+f: Keyboard Maestro - most liked,https://forum.keyboardmaestro.com/search?q={query}%20order%3Alikes
+f: Keyboard Maestro - most viewed,https://forum.keyboardmaestro.com/search?q={query}%20order%3Aviews
+w: Quora,https://www.quora.com/search?q={query}
+w: Quora - profiles,https://www.quora.com/search?q={query}&type=profile
+w: Quora - topics,https://www.quora.com/search?q={query}&type=topic
+w: Quora - answers,https://www.quora.com/search?q={query}&type=answer
+w: Quora - past month,https://www.quora.com/search?q={query}&time=month
+w: Letterboxd,http://letterboxd.com/search/{query}/
+w: Letterboxd - tags,http://letterboxd.com/search/tags/{query}/
+w: Letterboxd - actors,http://letterboxd.com/search/actors/{query}/
+s: Stack overflow - newest,http://stackoverflow.com/search?tab=newest&q={query}
+s: Stack overflow - most votes,http://stackoverflow.com/search?tab=votes&q={query}
+s: Stack overflow - ative,http://stackoverflow.com/search?tab=active&q={query}
+w: Medium,https://medium.com/search?q={query}
+w: Medium - users,https://medium.com/search/users?q={query}
+w: Medium - tags,https://medium.com/search/tags?q={query}
+w: Medium - publications,https://medium.com/search/publications?q={query}
+w: Twitter,https://twitter.com/search?q={query}&src=typd
+w: Twitter - users,https://twitter.com/search?f=users&vertical=default&q={query}&src=typd
+w: Twitter - latest,https://twitter.com/search?f=tweets&vertical=news&q={query}&src=typd
+w: Twitter - photos,https://twitter.com/search?f=images&vertical=default&q={query}&src=typd
+w: Twitter - people you follow,https://twitter.com/search?s=follows&vertical=news&q={query}&src=typd
+w: Product hunt,https://www.producthunt.com/search/posts?q={query}
+w: Product hunt - collections,https://www.producthunt.com/search/collections?q={query}
+w: Product hunt - users,https://www.producthunt.com/search/users?q={query}
+w: Product hunt - topics,https://www.producthunt.com/search/topics?q={query}
+g: Gists,https://gist.GitHub.com/search?utf8=%E2%9C%93&q={query}
+g: GitHub - issues,https://GitHub.com/search?q={query}&ref=searchresults&type=Issues&utf8=%E2%9C%93
+g: GitHub - commits,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Commits&ref=searchresults
+g: GitHub - wikis,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Wikis&ref=searchresults
+w: Dribble,https://dribbble.com/search?q={query}
+w: Dribble - latest,https://dribbble.com/search?q={query}&s=latest
+w: Goodreads - lists,https://www.goodreads.com/search?q={query}&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
+w: Goodreads - quotes,https://www.goodreads.com/search?utf8=✓&query={query}
+w: Goodreads - people,https://www.goodreads.com/search?q={query}&search%5Bsource%5D=goodreads&search_type=people&tab=people
+w: Goodreads - groups,https://www.goodreads.com/search?utf8=%E2%9C%93&q={query}&search_type=groups&search%5Bfield%5D=on
+w: Hacker news - past month,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
+w: Hacker news - past year,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
+w: Hacker news - stories all time,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+w: Hacker news - comments past month,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
+w: iDope - top seed,http://www.idope.se/torrent/{query}/
+w: iDope - most recent,https://idope.se/torrent-list/{query}/?&o=-3
+g: GitHub - code,https://GitHub.com/search?q={query}&ref=searchresults&type=Code&utf8=%E2%9C%93
+g: GitHub - code - go, https://github.com/search?o=desc&q=language%3Ago+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
+g: GitHub - users,https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
+g: GitHub - most forks,https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=forks&type=Repositories&utf8=✓
+g: GitHub - most starred,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Repositories&ref=searchresults&o=desc&s=stars
+w: Reddit - top this month,https://www.reddit.com/search?q={query}&sort=top&t=month
+w: Reddit - new,https://www.reddit.com/search?q={query}&sort=new&t=all
+w: Reddit - past year,https://www.reddit.com/search?q={query}&sort=relevance&t=year
+w: Reddit - top all,https://www.reddit.com/search?q={query}&sort=top&t=all
+w: Wolfram alpha,http://www.wolframalpha.com/input/?i={query}
+w: Wiki search,http://wikisearch.surge.sh/{query}
+w: Scholarpedia,http://www.scholarpedia.org/w/index.php?search={query}&button=&title=Special%3ASearch
+w: Kickass torrents,http://desotorrent.com/search/{query}/
+w: Skytorrents,https://www.skytorrents.in/search/all/ed/1/?q={query}
+w: Arxiv,https://newcatalog.library.cornell.edu/search?q={query}
+w: Arxiv - books,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Book&q={query}&search_field=all_fields
+w: Arxiv - thesis,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Thesis&q={query}&search_field=all_fields
+w: Metacademy,https://www.metacademy.org/search?q={query}
+w: Mit opencourseware pdf,https://search.mit.edu/search?__EVENTTARGET=&__EVENTARGUMENT=&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&proxyreload=1&as_dt=i&oe=utf-8&btnG.x=4&btnG.y=10&filter=0&site=ocw&q={query}+filetype%3Apdf&getfields=*&sectionlimit=WT%252Ecg_s:Course+Home%7CWT%252Ecg_s:Resource+Home&oe=utf-8&is_secure=0&sort=date:D:L:d1
+w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
+d: Godoc,https://godoc.org/?q={query}
+d: Go search,http://go-search.org/search?q={query}
+g: GitHub - go,https://GitHub.com/search?q={query}+language:go
+g: GitHub - java,https://GitHub.com/search?l=Java&q={query}&type=Repositories&utf8=✓
+g: GitHub - go - most stars,https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=stars&type=Repositories
+d: Git logs - go,http://www.gitlogs.com/most_popular?from=last-week&language=Go&topic={query}
+w: Google trends - 30 days,https://www.google.com/trends/explore?date=today%201-m&q={query}
+w: Google trends - 1 day,https://www.google.com/trends/explore?date=now%201-d&q={query}
+w: Google trends - 1 year,https://www.google.com/trends/explore?q={query}
+g: GitHub - shell,https://GitHub.com/search?l=Shell&q={query}&type=Repositories&utf8=%E2%9C%93
+g: GitHub - go - recent,https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=updated&type=Repositories
+w: Vimeo,https://vimeo.com/search?q={query}
+w: Twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
+w: Keyboard Maestro - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id={query}
+w: Emojipedia,https://emojipedia.org/search/?q={query}
+w: Openstreatmap,http://www.openstreetmap.org/search?query={query}
+w: Startpage,https://www.startpage.com/do/metasearch.pl?query={query}
+w: Searx,https://searx.tk/?q={query}
+w: Qwant,https://www.qwant.com/?q={query}&t=all
+w: Duckduckgo,https://duckduckgo.com/?q={query}
+d: Vs code docs,https://code.visualstudio.com/Search?q={query}
+w: Google maps,https://www.google.com/maps/place/{query}
+r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
+w: Reddit - subreddits,https://www.reddit.com/subreddits/search?q={query}
+w: Youtube,https://www.youtube.com/results?search_query={query}
+w: Google books,https://www.google.com/search?tbm=bks&q={query}
+w: Patents,http://patents.com/search/?top_keyword={query}
+w: Google drive,https://drive.google.com/drive/search?q={query}
+w: Amazon,https://www.amazon.com/gp/search?ie=UTF8&keywords={query}
+w: Alfred,https://www.alfredapp.com/search/?q={query}
+w: Reddit - users,https://www.reddit.com/user/{query}/
+r: Unix porn,https://www.reddit.com/r/unixporn/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Bing,http://www.bing.com/search?q={query}
+w: Bing - images,http://www.bing.com/images/search?q={query}
+d: Hackage,http://hackage.haskell.org/packages/search?terms={query}
+w: Nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q={query}
+w: Vs code market,https://marketplace.visualstudio.com/search?term={query}&target=VSCode&category=All%20categories&sortBy=Relevancev
+w: Sublime text packages,https://packagecontrol.io/search/{query}
+w: Gitbook,https://www.gitbook.com/search?q={query}
+w: Gitbook - most stars,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=stars
+w: Gitbook - recent,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=updated
+s: Stack overflow - tags,https://stackoverflow.com/questions/tagged/{query}
+d: Pytorch,http://pytorch.org/tutorials/search.html?q={query}&check_keywords=yes&area=default
+w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?query={query}
+r: Hearthstone,https://www.reddit.com/r/hearthstone/search?q={query}&restrict_sr=on&sort=relevance&t=all
+w: Ncatlab,https://ncatlab.org/nlab/search?query={query}
+w: Dblp,http://dblp.uni-trier.de/search?q={query}
+w: Researchr,https://researchr.org/search/publication/{query}
+w: Journal of Functional programming, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q={query}&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
