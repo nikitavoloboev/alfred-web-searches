@@ -47,7 +47,7 @@
 				<key>destinationuid</key>
 				<string>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</string>
 				<key>modifiers</key>
-				<integer>262144</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
 				<string>Search Reddit for most recent</string>
 				<key>vitoclose</key>
@@ -336,7 +336,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$1}</string>
+				<string>echo -n ${URL/\{query\}/$1}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -516,7 +516,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$1}</string>
+				<string>echo -n ${URL/\{query\}/$1}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -577,7 +577,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${RECENT/tester/$1}</string>
+				<string>echo -n ${RECENT/\{query\}/$1}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -631,7 +631,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$selection}</string>
+				<string>echo -n ${URL/\{query\}/$selection}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -834,7 +834,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>echo -n ${URL/tester/$selection}</string>
+				<string>echo -n ${URL/\{query\}/$selection}</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -1140,7 +1140,7 @@ Post any issues and feature requests you have there. 💜</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.2.7</string>
+	<string>2.3</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-web-searches</string>
 </dict>
