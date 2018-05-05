@@ -447,3 +447,4 @@ w: Ncatlab,https://ncatlab.org/nlab/search?query={query}
 w: Dblp,http://dblp.uni-trier.de/search?q={query}
 w: Researchr,https://researchr.org/search/publication/{query}
 w: Journal of Functional programming, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q={query}&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
+w: Bandcamp,https://bandcamp.com/search?q={query}
