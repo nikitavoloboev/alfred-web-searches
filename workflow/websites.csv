@@ -2,6 +2,7 @@ g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
 r: Travel,https://www.reddit.com/r/travel/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Research chemicals,https://www.reddit.com/r/researchchemicals/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Travel,https://www.reddit.com/r/travel/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Replications,https://www.reddit.com/r/replications/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Ask drugs,https://www.reddit.com/r/askdrugs/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: YNAB,https://www.reddit.com/r/ynab/search?q=tesert&restrict_sr=on&sort=relevance&t=all
