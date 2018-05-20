@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+w: nixOS packages,https://nixos.org/nixos/packages.html#{query}
 w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
 r: Patient gamers,https://www.reddit.com/r/patientgamers/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Travel,https://www.reddit.com/r/travel/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -419,7 +420,7 @@ w: Startpage,https://www.startpage.com/do/metasearch.pl?query={query}
 w: Searx,https://searx.tk/?q={query}
 w: Qwant,https://www.qwant.com/?q={query}&t=all
 w: Duckduckgo,https://duckduckgo.com/?q={query}
-d: Vs code docs,https://code.visualstudio.com/Search?q={query}
+d: VS Code docs,https://code.visualstudio.com/Search?q={query}
 w: Google maps,https://www.google.com/maps/place/{query}
 r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
@@ -436,7 +437,7 @@ w: Bing,http://www.bing.com/search?q={query}
 w: Bing - images,http://www.bing.com/images/search?q={query}
 d: Hackage,http://hackage.haskell.org/packages/search?terms={query}
 w: Nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q={query}
-w: Vs code market,https://marketplace.visualstudio.com/search?term={query}&target=VSCode&category=All%20categories&sortBy=Relevancev
+w: VS Code market,https://marketplace.visualstudio.com/search?term={query}&target=VSCode&category=All%20categories&sortBy=Relevancev
 w: Sublime text packages,https://packagecontrol.io/search/{query}
 w: Gitbook,https://www.gitbook.com/search?q={query}
 w: Gitbook - most stars,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=stars
