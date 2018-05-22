@@ -1,5 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
-w: nixOS packages,https://nixos.org/nixos/packages.html#{query}
+w: NixOS packages,https://nixos.org/nixos/packages.html#{query}
 w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
 r: Patient gamers,https://www.reddit.com/r/patientgamers/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: TypeScript,https://www.reddit.com/r/typescript/search?q={query}&restrict_sr=on&sort=relevance&t=all
