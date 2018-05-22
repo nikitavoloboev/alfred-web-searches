@@ -426,7 +426,7 @@ w: Google maps,https://www.google.com/maps/place/{query}
 r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
 w: Reddit - subreddits,https://www.reddit.com/subreddits/search?q={query}
-w: Youtube,https://www.youtube.com/results?search_query={query}
+w: YouTube,https://www.youtube.com/results?search_query={query}
 w: Google books,https://www.google.com/search?tbm=bks&q={query}
 w: Patents,http://patents.com/search/?top_keyword={query}
 w: Google drive,https://drive.google.com/drive/search?q={query}
