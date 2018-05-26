@@ -379,7 +379,7 @@ w: Hacker news - past month,https://hn.algolia.com/?query={query}&sort=byPopular
 w: Hacker news - past year,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
 w: Hacker news - stories all time,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 w: Hacker news - comments past month,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
-w: iDope - top seed,http://www.idope.se/torrent/{query}/
+w: iDope,http://www.idope.se/torrent/{query}/
 w: iDope - most recent,https://idope.se/torrent-list/{query}/?&o=-3
 g: GitHub - code,https://GitHub.com/search?q={query}&ref=searchresults&type=Code&utf8=%E2%9C%93
 g: GitHub - code - go, https://github.com/search?o=desc&q=language%3Ago+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
