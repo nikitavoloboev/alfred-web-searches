@@ -1,5 +1,5 @@
 # Alfred Web Searches [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
-> [Alfred](https://www.alfredapp.com/) workflow to search through any website on the web (easily extendable list)
+> [Alfred](https://www.alfredapp.com/) workflow to search through any website (easily extendable list)
 
 <img src="https://i.imgur.com/FELOBBm.png" width="500" alt="img">
 
