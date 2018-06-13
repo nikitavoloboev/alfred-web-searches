@@ -1,5 +1,7 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 w: NixOS packages,https://nixos.org/nixos/packages.html#{query}
+w: Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={query}&button=&search%5Bnames%5D=0&search%5Bnames%5D=1&search%5Bfilenames%5D=0&search%5Bfilenames%5D=1&search%5Bdescriptions%5D=0&search%5Bdescriptions%5D=1
+w: Google Images (icons),https://www.google.co.in/search?tbs=ic%3Atrans&tbm=isch&q={query}+icon
 w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
 r: Patient gamers,https://www.reddit.com/r/patientgamers/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: TypeScript,https://www.reddit.com/r/typescript/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -25,7 +27,6 @@ w: Baidu,http://www.baidu.com/s?ie=UTF-8&wd={query}
 w: Discuss it,http://www.discussitapp.com/submit?url={query}
 r: Movies,https://www.reddit.com/r/movies/search?q={query}&restrict_sr=on&sort=relevance&t=all
 f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords={query}&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
-f: Sublime,https://forum.sublimetext.com/search?q={query}
 w: Facebook - messages,https://www.facebook.com/messages/?qa={query}
 w: Facebook - people,https://www.facebook.com/search/people/?q={query}
 w: Facebook - photos,https://www.facebook.com/search/photos/?q={query}
@@ -439,7 +440,8 @@ w: Bing - images,http://www.bing.com/images/search?q={query}
 d: Hackage,http://hackage.haskell.org/packages/search?terms={query}
 w: Nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q={query}
 w: VS Code market,https://marketplace.visualstudio.com/search?term={query}&target=VSCode&category=All%20categories&sortBy=Relevancev
-w: Sublime text packages,https://packagecontrol.io/search/{query}
+w: Sublime Text packages,https://packagecontrol.io/search/{query}
+f: Sublime Text,https://forum.sublimetext.com/search?q={query}
 w: Gitbook,https://www.gitbook.com/search?q={query}
 w: Gitbook - most stars,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=stars
 w: Gitbook - recent,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=updated
