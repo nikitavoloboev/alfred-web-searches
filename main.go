@@ -23,7 +23,6 @@ var (
 	wf *aw.Workflow
 )
 
-// Mostly sets up kingpin commands
 func init() {
 	wf = aw.New(update.GitHub(repo), aw.HelpURL(repo+"/issues"))
 }
