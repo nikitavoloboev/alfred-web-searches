@@ -409,7 +409,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-web-searches search -q "$1"</string>
+				<string>./alfred-web-searches "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -689,7 +689,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-web-searches search -q "$1"</string>
+				<string>./alfred-web-searches "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -805,7 +805,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-web-searches search -q "$1"</string>
+				<string>./alfred-web-searches "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -934,7 +934,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Details on how to effectively use this workflow are found in the GitHub repository attached to this workflow.
+	<string>Details on how to use this workflow are found in the GitHub repo attached to the workflow. 
+
+Double click this workflow in sidebar -&gt; Open website.
 
 Post any issues and feature requests you have there. 💜</string>
 	<key>uidata</key>
@@ -1140,6 +1142,6 @@ Post any issues and feature requests you have there. 💜</string>
 	<key>version</key>
 	<string>2.4</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev/alfred-web-searches</string>
+	<string>https://github.com/nikitavoloboev/alfred-web-searches#readme</string>
 </dict>
 </plist>
