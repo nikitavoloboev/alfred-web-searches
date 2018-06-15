@@ -25,6 +25,7 @@ f: Rust internals,https://internals.rust-lang.org/search?q={query}
 r: Trackers,https://www.reddit.com/r/trackers/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Baidu,http://www.baidu.com/s?ie=UTF-8&wd={query}
 w: Discuss it,http://www.discussitapp.com/submit?url={query}
+w: Sourcegraph,https://sourcegraph.com/search?q={query}
 r: Movies,https://www.reddit.com/r/movies/search?q={query}&restrict_sr=on&sort=relevance&t=all
 f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords={query}&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
 w: Facebook - messages,https://www.facebook.com/messages/?qa={query}
