@@ -19,7 +19,7 @@ func updateList() {
 
 	defer res.Body.Close()
 	// body, err := ioutil.ReadAll(res.Body)
-	// TODO: Save it in Alfred dir
+	// TODO: Cache it
 }
 
 // parseCSV parses CSV for links and arguments.
@@ -78,6 +78,8 @@ func doSearch() error {
 			wf.NewItem(key).Valid(true).Var("URL", value).Var("ARG", re1.ReplaceAllString(key, ``)).UID(key)
 		}
 	}
+
+	query = os.Args[1]
 
 	if query != "" {
 		wf.Filter(query)
