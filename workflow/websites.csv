@@ -1,5 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
-w: Nix packages,https://nixos.org/nixos/packages.html#{query}
+w: NixOS packages,https://nixos.org/nixos/packages.html#{query}
 w: Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={query}&button=&search%5Bnames%5D=0&search%5Bnames%5D=1&search%5Bfilenames%5D=0&search%5Bfilenames%5D=1&search%5Bdescriptions%5D=0&search%5Bdescriptions%5D=1
 w: Google Images (icons),https://www.google.co.in/search?tbs=ic%3Atrans&tbm=isch&q={query}+icon
 w: SciBay,https://sci-bay.org/scholar?hl=en&as_sdt=0%2C5&q={query}&btnG=
