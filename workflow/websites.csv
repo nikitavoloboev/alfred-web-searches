@@ -359,95 +359,94 @@ w: Medium (users),https://medium.com/search/users?q={query}
 w: Medium (tags),https://medium.com/search/tags?q={query}
 w: Medium (publications),https://medium.com/search/publications?q={query}
 w: Twitter,https://twitter.com/search?q={query}&src=typd
-w: Twitter - users,https://twitter.com/search?f=users&vertical=default&q={query}&src=typd
-w: Twitter - latest,https://twitter.com/search?f=tweets&vertical=news&q={query}&src=typd
-w: Twitter - photos,https://twitter.com/search?f=images&vertical=default&q={query}&src=typd
-w: Twitter - people you follow,https://twitter.com/search?s=follows&vertical=news&q={query}&src=typd
-w: Product hunt,https://www.producthunt.com/search/posts?q={query}
-w: Product hunt - collections,https://www.producthunt.com/search/collections?q={query}
-w: Product hunt - users,https://www.producthunt.com/search/users?q={query}
-w: Product hunt - topics,https://www.producthunt.com/search/topics?q={query}
+w: Twitter (users),https://twitter.com/search?f=users&vertical=default&q={query}&src=typd
+w: Twitter (latest),https://twitter.com/search?f=tweets&vertical=news&q={query}&src=typd
+w: Twitter (photos),https://twitter.com/search?f=images&vertical=default&q={query}&src=typd
+w: Twitter (people you follow),https://twitter.com/search?s=follows&vertical=news&q={query}&src=typd
+w: Product Hunt,https://www.producthunt.com/search/posts?q={query}
+w: Product Hunt (collections),https://www.producthunt.com/search/collections?q={query}
+w: Product Hunt (users),https://www.producthunt.com/search/users?q={query}
+w: Product Hunt (topics),https://www.producthunt.com/search/topics?q={query}
 g: Gists,https://gist.GitHub.com/search?utf8=%E2%9C%93&q={query}
-g: GitHub - issues,https://GitHub.com/search?q={query}&ref=searchresults&type=Issues&utf8=%E2%9C%93
-g: GitHub - commits,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Commits&ref=searchresults
-g: GitHub - wikis,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Wikis&ref=searchresults
+g: GitHub (issues),https://GitHub.com/search?q={query}&ref=searchresults&type=Issues&utf8=%E2%9C%93
+g: GitHub (commits),https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Commits&ref=searchresults
+g: GitHub (wikis),https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Wikis&ref=searchresults
 w: Dribble,https://dribbble.com/search?q={query}
-w: Dribble - latest,https://dribbble.com/search?q={query}&s=latest
-w: Goodreads - lists,https://www.goodreads.com/search?q={query}&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
-w: Goodreads - quotes,https://www.goodreads.com/search?utf8=✓&query={query}
-w: Goodreads - people,https://www.goodreads.com/search?q={query}&search%5Bsource%5D=goodreads&search_type=people&tab=people
-w: Goodreads - groups,https://www.goodreads.com/search?utf8=%E2%9C%93&q={query}&search_type=groups&search%5Bfield%5D=on
-w: Hacker news - past month,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
-w: Hacker news - past year,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
-w: Hacker news - stories all time,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-w: Hacker news - comments past month,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
+w: Dribble (latest),https://dribbble.com/search?q={query}&s=latest
+w: Goodreads (lists),https://www.goodreads.com/search?q={query}&search%5Bfield%5D=author&search%5Bsource%5D=goodreads&search_type=lists&tab=lists
+w: Goodreads (quotes),https://www.goodreads.com/search?utf8=✓&query={query}
+w: Goodreads (people),https://www.goodreads.com/search?q={query}&search%5Bsource%5D=goodreads&search_type=people&tab=people
+w: Goodreads (groups),https://www.goodreads.com/search?utf8=%E2%9C%93&q={query}&search_type=groups&search%5Bfield%5D=on
+w: Hacker News (past month(,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
+w: Hacker News (past year),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
+w: Hacker News (stories all time),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+w: Hacker News (comments past month),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
 w: iDope,http://www.idope.se/torrent/{query}/
-w: iDope - most recent,https://idope.se/torrent-list/{query}/?&o=-3
-g: GitHub - code,https://GitHub.com/search?q={query}&ref=searchresults&type=Code&utf8=%E2%9C%93
-g: GitHub - code - go, https://github.com/search?o=desc&q=language%3Ago+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
-g: GitHub - users,https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
-g: GitHub - most forks,https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=forks&type=Repositories&utf8=✓
-g: GitHub - most starred,https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Repositories&ref=searchresults&o=desc&s=stars
-w: Reddit - top this month,https://www.reddit.com/search?q={query}&sort=top&t=month
-w: Reddit - new,https://www.reddit.com/search?q={query}&sort=new&t=all
-w: Reddit - past year,https://www.reddit.com/search?q={query}&sort=relevance&t=year
-w: Reddit - top all,https://www.reddit.com/search?q={query}&sort=top&t=all
-w: Wolfram alpha,http://www.wolframalpha.com/input/?i={query}
+w: iDope (most recent),https://idope.se/torrent-list/{query}/?&o=-3
+g: GitHub (code),https://GitHub.com/search?q={query}&ref=searchresults&type=Code&utf8=%E2%9C%93
+g: GitHub (code) (go), https://github.com/search?o=desc&q=language%3Ago+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
+g: GitHub (users),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
+g: GitHub (most forks),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=forks&type=Repositories&utf8=✓
+g: GitHub (most starred),https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Repositories&ref=searchresults&o=desc&s=stars
+w: Reddit (top this month),https://www.reddit.com/search?q={query}&sort=top&t=month
+w: Reddit (new),https://www.reddit.com/search?q={query}&sort=new&t=all
+w: Reddit (past year),https://www.reddit.com/search?q={query}&sort=relevance&t=year
+w: Reddit (top all),https://www.reddit.com/search?q={query}&sort=top&t=all
+w: Wolfram Alpha,http://www.wolframalpha.com/input/?i={query}
 w: Wiki search,http://wikisearch.surge.sh/{query}
 w: Scholarpedia,http://www.scholarpedia.org/w/index.php?search={query}&button=&title=Special%3ASearch
-w: Kickass torrents,http://desotorrent.com/search/{query}/
+w: Kickass Torrents,http://desotorrent.com/search/{query}/
 w: Skytorrents,https://www.skytorrents.in/search/all/ed/1/?q={query}
 w: Arxiv,https://newcatalog.library.cornell.edu/search?q={query}
-w: Arxiv - books,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Book&q={query}&search_field=all_fields
-w: Arxiv - thesis,https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Thesis&q={query}&search_field=all_fields
+w: Arxiv (books),https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Book&q={query}&search_field=all_fields
+w: Arxiv (thesis),https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Thesis&q={query}&search_field=all_fields
 w: Metacademy,https://www.metacademy.org/search?q={query}
-w: Mit opencourseware pdf,https://search.mit.edu/search?__EVENTTARGET=&__EVENTARGUMENT=&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&proxyreload=1&as_dt=i&oe=utf-8&btnG.x=4&btnG.y=10&filter=0&site=ocw&q={query}+filetype%3Apdf&getfields=*&sectionlimit=WT%252Ecg_s:Course+Home%7CWT%252Ecg_s:Resource+Home&oe=utf-8&is_secure=0&sort=date:D:L:d1
-w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
+w: MIT OpenCourseware PDFs,https://search.mit.edu/search?__EVENTTARGET=&__EVENTARGUMENT=&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&proxyreload=1&as_dt=i&oe=utf-8&btnG.x=4&btnG.y=10&filter=0&site=ocw&q={query}+filetype%3Apdf&getfields=*&sectionlimit=WT%252Ecg_s:Course+Home%7CWT%252Ecg_s:Resource+Home&oe=utf-8&is_secure=0&sort=date:D:L:d1
+w: Khan Academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
 d: Godoc,https://godoc.org/?q={query}
 d: Go search,http://go-search.org/search?q={query}
-g: GitHub - go,https://GitHub.com/search?q={query}+language:go
-g: GitHub - java,https://GitHub.com/search?l=Java&q={query}&type=Repositories&utf8=✓
-g: GitHub - go - most stars,https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=stars&type=Repositories
-d: Git logs - go,http://www.gitlogs.com/most_popular?from=last-week&language=Go&topic={query}
-w: Google trends - 30 days,https://www.google.com/trends/explore?date=today%201-m&q={query}
-w: Google trends - 1 day,https://www.google.com/trends/explore?date=now%201-d&q={query}
-w: Google trends - 1 year,https://www.google.com/trends/explore?q={query}
-g: GitHub - shell,https://GitHub.com/search?l=Shell&q={query}&type=Repositories&utf8=%E2%9C%93
-g: GitHub - go - recent,https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=updated&type=Repositories
+g: GitHub (Go),https://GitHub.com/search?q={query}+language:go
+g: GitHub (Java),https://GitHub.com/search?l=Java&q={query}&type=Repositories&utf8=✓
+g: GitHub (Go) (most stars),https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=stars&type=Repositories
+d: Git logs (go),http://www.gitlogs.com/most_popular?from=last-week&language=Go&topic={query}
+w: Google trends (30 days),https://www.google.com/trends/explore?date=today%201-m&q={query}
+w: Google trends (1 day),https://www.google.com/trends/explore?date=now%201-d&q={query}
+w: Google trends (1 year),https://www.google.com/trends/explore?q={query}
+g: GitHub (Shell),https://GitHub.com/search?l=Shell&q={query}&type=Repositories&utf8=%E2%9C%93
+g: GitHub (Go) (recent),https://GitHub.com/search?o=desc&q={query}+language%3Ago&s=updated&type=Repositories
 w: Vimeo,https://vimeo.com/search?q={query}
-w: Twitter - recent,https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
-w: Keyboard Maestro - wiki, https://wiki.keyboardmaestro.com/Home_Page?do=search&id={query}
+w: Twitter (recent),https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
+w: Keyboard Maestro (wiki), https://wiki.keyboardmaestro.com/Home_Page?do=search&id={query}
 w: Emojipedia,https://emojipedia.org/search/?q={query}
 w: Openstreatmap,http://www.openstreetmap.org/search?query={query}
 w: Startpage,https://www.startpage.com/do/metasearch.pl?query={query}
 w: Searx,https://searx.tk/?q={query}
 w: Qwant,https://www.qwant.com/?q={query}&t=all
-w: Duckduckgo,https://duckduckgo.com/?q={query}
+w: DuckDuckGo,https://duckduckgo.com/?q={query}
 d: VS Code docs,https://code.visualstudio.com/Search?q={query}
-w: Google maps,https://www.google.com/maps/place/{query}
+w: Google Maps,https://www.google.com/maps/place/{query}
 r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
-w: Reddit - subreddits,https://www.reddit.com/subreddits/search?q={query}
+w: Reddit (subreddits),https://www.reddit.com/subreddits/search?q={query}
 w: YouTube,https://www.youtube.com/results?search_query={query}
 w: Google books,https://www.google.com/search?tbm=bks&q={query}
 w: Patents,http://patents.com/search/?top_keyword={query}
 w: Google drive,https://drive.google.com/drive/search?q={query}
 w: Amazon,https://www.amazon.com/gp/search?ie=UTF8&keywords={query}
 w: Alfred,https://www.alfredapp.com/search/?q={query}
-w: Reddit - users,https://www.reddit.com/user/{query}/
+w: Reddit (users),https://www.reddit.com/user/{query}/
 r: Unix porn,https://www.reddit.com/r/unixporn/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Bing,http://www.bing.com/search?q={query}
-w: Bing - images,http://www.bing.com/images/search?q={query}
+w: Bing (images),http://www.bing.com/images/search?q={query}
 d: Hackage,http://hackage.haskell.org/packages/search?terms={query}
-w: Nikita voloboev wiki,https://nikitavoloboev.gitbooks.io/knowledge/content/?q={query}
 w: VS Code market,https://marketplace.visualstudio.com/search?term={query}&target=VSCode&category=All%20categories&sortBy=Relevancev
 w: Sublime Text packages,https://packagecontrol.io/search/{query}
 f: Sublime Text,https://forum.sublimetext.com/search?q={query}
-w: Gitbook,https://www.gitbook.com/search?q={query}
-w: Gitbook - most stars,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=stars
-w: Gitbook - recent,https://www.gitbook.com/search?q={query}&page=0&type=books&sort=updated
-s: Stack overflow - tags,https://stackoverflow.com/questions/tagged/{query}
-d: Pytorch,http://pytorch.org/tutorials/search.html?q={query}&check_keywords=yes&area=default
+w: GitBook,https://www.gitbook.com/search?q={query}
+w: GitBook (most stars),https://www.gitbook.com/search?q={query}&page=0&type=books&sort=stars
+w: GitBook (recent),https://www.gitbook.com/search?q={query}&page=0&type=books&sort=updated
+s: Stack Overflow (tags),https://stackoverflow.com/questions/tagged/{query}
+d: PyTorch,http://pytorch.org/tutorials/search.html?q={query}&check_keywords=yes&area=default
 w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?query={query}
 r: Hearthstone,https://www.reddit.com/r/hearthstone/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Ncatlab,https://ncatlab.org/nlab/search?query={query}
