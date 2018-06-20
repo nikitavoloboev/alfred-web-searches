@@ -11,15 +11,15 @@ r: Replications,https://www.reddit.com/r/replications/search?q={query}&restrict_
 r: Ask drugs,https://www.reddit.com/r/askdrugs/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: YNAB,https://www.reddit.com/r/ynab/search?q=tesert&restrict_sr=on&sort=relevance&t=all
 r: Mechanical Keyboards,https://www.reddit.com/r/MechanicalKeyboards/search?q={query}&restrict_sr=on&sort=relevance&t=all
-g: Gists - javascript,https://gist.github.com/search?l=JavaScript&q={query}&utf8=✓
-g: Gists - go,https://gist.github.com/search?l=Go&q={query}&ref=searchresults&utf8=✓
-w: Codesandbox,https://codesandbox.io/search?query={query}
+g: Gists (JavaScript),https://gist.github.com/search?l=JavaScript&q={query}&utf8=✓
+g: Gists (Go),https://gist.github.com/search?l=Go&q={query}&ref=searchresults&utf8=✓
+w: CodeSandbox,https://codesandbox.io/search?query={query}
 w: Mashape,https://market.mashape.com/explore?query={query}
 d: Rust docs,https://docs.rs/releases/search?query={query}
 r: ELI 5,https://www.reddit.com/r/explainlikeimfive/search?q={query}&restrict_sr=on&sort=relevance&t=all
-w: Amazon - UK,https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={query}
+w: Amazon (UK),https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={query}
 w: Startup tracker,https://startuptracker.io/startups/search?query={query}
-w: Art station,https://www.artstation.com/search?q={query}&sorting=recent
+w: Art Station,https://www.artstation.com/search?q={query}&sorting=recent
 w: IFTTT,https://ifttt.com/search/query/{query}
 f: Rust internals,https://internals.rust-lang.org/search?q={query}
 r: Trackers,https://www.reddit.com/r/trackers/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -28,18 +28,18 @@ w: Discuss it,http://www.discussitapp.com/submit?url={query}
 w: Sourcegraph,https://sourcegraph.com/search?q={query}
 r: Movies,https://www.reddit.com/r/movies/search?q={query}&restrict_sr=on&sort=relevance&t=all
 f: ImageMagic,https://www.imagemagick.org/discourse-server/search.php?keywords={query}&sid=8f601b1aa3c12a11bb44cf41b0bf1a1e
-w: Facebook - messages,https://www.facebook.com/messages/?qa={query}
-w: Facebook - people,https://www.facebook.com/search/people/?q={query}
-w: Facebook - photos,https://www.facebook.com/search/photos/?q={query}
-w: Facebook - videos,https://www.facebook.com/search/videos/?q={query}
+w: Facebook (messages),https://www.facebook.com/messages/?qa={query}
+w: Facebook (people),https://www.facebook.com/search/people/?q={query}
+w: Facebook (photos),https://www.facebook.com/search/photos/?q={query}
+w: Facebook (videos),https://www.facebook.com/search/videos/?q={query}
 w: Linkedin,https://www.linkedin.com/search/results/index/?keywords={query}
-w: Linkedin - jobs,https://www.linkedin.com/jobs/search/?keywords={query}
-w: Linkedin - people,https://www.linkedin.com/search/results/people/?keywords={query}
-w: Linkedin - companies,https://www.linkedin.com/search/results/people/?keywords={query}
-w: Facebook - pages,https://www.facebook.com/search/pages/?q={query}
-w: Facebook - places,https://www.facebook.com/search/str/{query}/keywords_places/
-w: Facebook - groups,https://www.facebook.com/search/groups/?q={query}
-w: Facebook - events,https://www.facebook.com/search/events/?q={query}
+w: Linkedin (jobs),https://www.linkedin.com/jobs/search/?keywords={query}
+w: Linkedin (people),https://www.linkedin.com/search/results/people/?keywords={query}
+w: Linkedin (companies),https://www.linkedin.com/search/results/people/?keywords={query}
+w: Facebook (pages),https://www.facebook.com/search/pages/?q={query}
+w: Facebook (places),https://www.facebook.com/search/str/{query}/keywords_places/
+w: Facebook (groups),https://www.facebook.com/search/groups/?q={query}
+w: Facebook (events),https://www.facebook.com/search/events/?q={query}
 f: Script debugger,http://forum.latenightsw.com/search?q={query}
 f: Binary age,https://discuss.binaryage.com/search?q={query}
 w: Facebook,https://www.facebook.com/search/top/?q={query}
