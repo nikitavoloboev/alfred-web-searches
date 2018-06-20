@@ -45,28 +45,28 @@ f: Binary age,https://discuss.binaryage.com/search?q={query}
 w: Facebook,https://www.facebook.com/search/top/?q={query}
 f: Hugo,https://discourse.gohugo.io/search?q={query}
 f: Golang bridge,https://forum.golangbridge.org/search?q={query}
-f: The things network,https://www.thethingsnetwork.org/forum/search?q={query}
+f: The Things Network,https://www.thethingsnetwork.org/forum/search?q={query}
 f: Discourse,https://try.discourse.org/search?q={query}
-g: GitHub - topics,https://GitHub.com/topics/{query}
+g: GitHub (topics),https://GitHub.com/topics/{query}
 r: DMT,https://www.reddit.com/r/DMT/search?q={query}&restrict_sr=on&sort=relevance&t=all
-w: Npm,https://www.npmjs.com/search?q={query}&page=1&ranking=optimal
-w: Name the colour,http://chir.ag/projects/name-that-color/{query}
+w: NPM,https://www.npmjs.com/search?q={query}&page=1&ranking=optimal
+w: Name the color,http://chir.ag/projects/name-that-color/{query}
 r: Emacs,https://www.reddit.com/r/emacs/search?q={query}&restrict_sr=on&sort=relevance&t=all
-w: Yoshua wuyts wiki,https://yoshuawuyts.gitbooks.io/knowledge/content/?q={query}
+w: Yoshua Wuyts wiki,https://yoshuawuyts.gitbooks.io/knowledge/content/?q={query}
 w: Last.fm,https://www.last.fm/search?q={query}
-w: Leetcode,https://leetcode.com/problemset/all/?search={query}
+w: LeetCode,https://leetcode.com/problemset/all/?search={query}
 w: Reddit,https://www.reddit.com/search?q={query}&sort=relevance&t=all
-g: GitHub - recent,https://GitHub.com/search?utf8=✓&q={query}&type=Repositories&ref=searchresults&o=desc&s=updated
-r: Advanced fitness,https://www.reddit.com/r/AdvancedFitness/search?q={query}&restrict_sr=on&sort=relevance&t=all
+g: GitHub (recent),https://GitHub.com/search?utf8=✓&q={query}&type=Repositories&ref=searchresults&o=desc&s=updated
+r: Advanced Fitness,https://www.reddit.com/r/AdvancedFitness/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Algorithms,https://www.reddit.com/r/algorithms/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Apple,https://www.reddit.com/r/apple/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Artificial,https://www.reddit.com/r/artificial/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Ask computer science,https://www.reddit.com/r/AskComputerScience/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Ask netsec,https://www.reddit.com/r/AskNetsec/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Ask programming,https://www.reddit.com/r/AskProgramming/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Askhistorians,https://www.reddit.com/r/AskHistorians/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask Netsec,https://www.reddit.com/r/AskNetsec/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Ask Programming,https://www.reddit.com/r/AskProgramming/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: AskHistorians,https://www.reddit.com/r/AskHistorians/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Askreddit,https://www.reddit.com/r/AskReddit/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Askscience,https://www.reddit.com/r/askscience/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: AskScience,https://www.reddit.com/r/askscience/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: C,https://www.reddit.com/r/C_Programming/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: C#,https://www.reddit.com/r/csharp/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: C++,https://www.reddit.com/r/cpp/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -91,11 +91,11 @@ r: Haskell,https://www.reddit.com/r/haskell/search?q={query}&restrict_sr=on&sort
 r: Health,https://www.reddit.com/r/Health/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Indie heads,https://www.reddit.com/r/indieheads/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Internet is beautiful,https://www.reddit.com/r/InternetIsBeautiful/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: IPhone,https://www.reddit.com/r/iphone/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: iPhone,https://www.reddit.com/r/iphone/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Java,https://www.reddit.com/r/java/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Javascript,https://www.reddit.com/r/javascript/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: JavaScript,https://www.reddit.com/r/javascript/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Lady boners,https://www.reddit.com/r/LadyBoners/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Latex,https://www.reddit.com/r/LaTeX/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: LaTeX,https://www.reddit.com/r/LaTeX/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Learn programming,https://www.reddit.com/r/learnprogramming/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Lectures,https://www.reddit.com/r/lectures/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Linux,https://www.reddit.com/r/linux/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -115,7 +115,7 @@ r: Nutrition,https://www.reddit.com/r/nutrition/search?q={query}&restrict_sr=on&
 r: Objective c,https://www.reddit.com/r/ObjectiveC/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Out of the loop,https://www.reddit.com/r/OutOfTheLoop/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Perl,https://www.reddit.com/r/perl/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Php,https://www.reddit.com/r/PHP/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: PHP,https://www.reddit.com/r/PHP/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Physics,https://www.reddit.com/r/Physics/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Pics,https://www.reddit.com/r/pics/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Privacy,https://www.reddit.com/r/privacy/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -131,7 +131,7 @@ r: Scala,https://www.reddit.com/r/scala/search?q={query}&restrict_sr=on&sort=rel
 r: Science,https://www.reddit.com/r/science/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Seduction,https://www.reddit.com/r/seduction/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Shower thoughts,https://www.reddit.com/r/Showerthoughts/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Sql,https://www.reddit.com/r/SQL/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: SQL,https://www.reddit.com/r/SQL/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Startups,https://www.reddit.com/r/startups/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Technology,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -144,10 +144,10 @@ r: Web design,https://www.reddit.com/r/web_design/search?q={query}&restrict_sr=o
 d: Android docs,https://developer.android.com/training/basics/fragments/index.html#q={query}
 d: C++,http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search={query}&button=
 d: Developer apple,https://developer.apple.com/search/?q={query}&platform=iOS
-d: IOS apple,https://developer.apple.com/search/?q={query}&platform=iOS
+d: iOS Apple,https://developer.apple.com/search/?q={query}&platform=iOS
 d: Java lib,https://java.libhunt.com/search?query={query}
-d: Mdn docs,https://developer.mozilla.org/en-US/search?q={query}&topic=html&topic=css&topic=js&topic=api
-d: Haskell lib,https://www.haskell.org/hoogle/?hoogle={query}
+d: MDN Docs,https://developer.mozilla.org/en-US/search?q={query}&topic=html&topic=css&topic=js&topic=api
+d: Hoogle,https://www.haskell.org/hoogle/?hoogle={query}
 d: Haskell hayoo, http://hayoo.fh-wedel.de/?query={query}
 d: Stackage, https://www.stackage.org/lts-9.9/hoogle?q={query}
 d: Haskell stack, https://www.stackage.org/lts-9.9/hoogle?q={query}
@@ -218,10 +218,10 @@ s: Web masters,http://webmasters.stackexchange.com/search?q={query}
 s: Workplace,http://workplace.stackexchange.com/search?q={query}
 s: Writers,http://writers.stackexchange.com/search?q={query}
 d: Search os status,https://www.osstatus.com/search/results?platform=all&framework=all&search={query}
-t: Translate to english,https://translate.google.com/#auto/en/{query}
-t: Translate to dutch,https://translate.google.com/#auto/nl/{query}
-t: Translate to russian,https://translate.google.com/#auto/ru/{query}
-t: Translate to spanish,https://translate.google.com/#auto/es/{query}
+t: Translate to English,https://translate.google.com/#auto/en/{query}
+t: Translate to Dutch,https://translate.google.com/#auto/nl/{query}
+t: Translate to Russian,https://translate.google.com/#auto/ru/{query}
+t: Translate to Spanish,https://translate.google.com/#auto/es/{query}
 w: 8tracks,http://8tracks.com/explore/{query}
 w: Abbreviation terms,http://www.abbreviations.com/abbreviation/{query}
 w: Yandex,https://www.yandex.com/search/?msid=1484233484.98264.22892.24573&text={query}&lr=10466
@@ -234,27 +234,27 @@ w: Better explained,http://betterexplained.com/?s={query}
 w: Champion.gg,http://champion.gg/champion/{query}
 w: Codeforces,http://codeforces.com/search?by=&query=binary
 w: Coursera courses,https://www.coursera.org/courses?search={query}
-w: Css tricks,https://css-tricks.com/search-results/?q={query}
+w: CSS tricks,https://css-tricks.com/search-results/?q={query}
 w: Documentary heaven,http://documentaryheaven.com/find/?q={query}
-w: Duckduckgo about,https://duckduckgo.com/?q={query}&ia=about
-w: Duckduckgo definition,https://duckduckgo.com/?q={query}&ia=definition
-w: Duckduckgo images,https://duckduckgo.com/?q={query}&iax=1&ia=images
-w: Duckduckgo videos,https://duckduckgo.com/?q={query}&ia=videos
-w: Edx,https://www.edx.org/course?search_query={query}
+w: Duckduckgo (about),https://duckduckgo.com/?q={query}&ia=about
+w: Duckduckgo (definition),https://duckduckgo.com/?q={query}&ia=definition
+w: Duckduckgo (images),https://duckduckgo.com/?q={query}&iax=1&ia=images
+w: Duckduckgo (videos),https://duckduckgo.com/?q={query}&ia=videos
+w: edX,https://www.edx.org/course?search_query={query}
 w: Evolvr,https://www.evolvr.io/search?utf8=✓&query={query}+&commit=Enter
 w: Examine,http://examine.com/search/?q={query}&homepage=1
 w: Extra torrent,http://extratorrent.cc/search/?search={query}&new=1&x=0&y=0
 w: Go search,http://go-search.org/search?q={query}
-w: Google search for past month,https://www.google.com/search?q={query}&tbs=qdr:m
-w: Google search for past week,https://www.google.com/search?q={query}&tbs=qdr:w
-w: Stack overflow - jobs,https://stackoverflow.com/jobs?sort=i&q={query}
-w: Instagram tags,https://instagram.com/explore/tags/{query}/
+w: Google search (past month),https://www.google.com/search?q={query}&tbs=qdr:m
+w: Google search (past week),https://www.google.com/search?q={query}&tbs=qdr:w
+w: Stack Overflow (jobs),https://stackoverflow.com/jobs?sort=i&q={query}
+w: Instagram (tags),https://instagram.com/explore/tags/{query}/
 w: Twitter (user),https://twitter.com/{query}
 w: Merriam webster dictionary,http://www.merriam-webster.com/dictionary/{query}
 w: Golang,https://golang.org/search?q={query}
 w: Google drive,https://drive.google.com/drive/search?q={query}
-w: Google for past 24 hours,https://www.google.com/search?q={query}&tbs=qdr:d
-w: Google for pdfs,https://www.google.com/#q=filetype:pdf+{query}
+w: Google (24 hours),https://www.google.com/search?q={query}&tbs=qdr:d
+w: Google (PDFs),https://www.google.com/#q=filetype:pdf+{query}
 w: Google groups,http://groups.google.com/groups?q={query}
 w: Google scholar,https://scholar.google.com/scholar?hl=en&q={query}&btnG=&as_sdt=1%2C44&as_sdtp=
 w: Google verbatim,https://www.google.com/search?q={query}&tbs=li:1
@@ -264,33 +264,33 @@ w: Hacker news,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&pa
 w: How stuff works,http://www.howstuffworks.com/search.php?terms={query}
 w: Icon store,http://iconstore.co/?s={query}
 w: Index of a company,https://index.co/company/{query}
-w: Khan academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
+w: Khan Academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
 w: Kinopoisk,http://www.kinopoisk.ru/search/?text={query}
 w: Libraries.io,https://libraries.io/search?q={query}
 w: Lifehacker,http://lifehacker.com/search?q={query}
-w: Macosx hints,http://www.macosxhints.com/search.php?query={query}&type=stories&mode=search&keyType=all
+w: macOS hints,http://www.macosxhints.com/search.php?query={query}&type=stories&mode=search&keyType=all
 w: Mac rumours,http://forums.macrumors.com/search/2213886/?q={query}&o=date
-w: Macupdate,https://www.macupdate.com/find/mac/{query}
+w: MacUpdate,https://www.macupdate.com/find/mac/{query}
 w: Math world,http://mathworld.wolfram.com/search/?query={query}&x=0&y=0
 w: Metacademy,https://www.metacademy.org/search?q={query}
 d: Meteor packages,https://atmospherejs.com/?q={query}
-w: Mit open courseware,https://search.mit.edu/search?site=ocw&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&requiredfields=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&sectionlimit=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&as_dt=i&oe=utf-8&departmentName=web&filter=0&courseName=&q={query}&btnG.x=0&btnG.y=0
-w: Npms,https://npms.io/search?q={query}
+w: MIT Open Courseware,https://search.mit.edu/search?site=ocw&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&requiredfields=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&sectionlimit=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&as_dt=i&oe=utf-8&departmentName=web&filter=0&courseName=&q={query}&btnG.x=0&btnG.y=0
+w: NPMs,https://npms.io/search?q={query}
 w: Nutrition facts,http://nutritionfacts.org/?fwp_search={query}
 w: Opgg,http://euw.op.gg/summoner/userName={query}
-w: Patrick jmt,http://patrickjmt.com/?s={query}
-w: Piratebay,https://pirateproxy.la/search/{query}/0/99/0
+w: Patrick JMT,http://patrickjmt.com/?s={query}
+w: PirateBay,https://pirateproxy.la/search/{query}/0/99/0
 w: Pixabay,https://pixabay.com/en/photos/?q={query}&image_type=&cat=&min_width=&min_height=
 w: Pocket,https://www.getpocket.com/explore/{query}
 w: Proof wiki,https://proofwiki.org/w/index.php?title=Special%3ASearch&search={query}
 w: Proofwiki,https://proofwiki.org/w/index.php?search={query}&title=Special%3ASearch&go=Go
-w: Psychonaut wiki,https://psychonautwiki.org/wiki/{query}
+w: Psychonaut Wiki,https://psychonautwiki.org/wiki/{query}
 w: Quizlet,https://quizlet.com/subject/{query}/
-w: Reddit for past month,https://www.reddit.com/search?q={query}&t=month
-w: Reddit for past week,https://www.reddit.com/search?q={query}&t=week
-w: Reddit for past year,https://www.reddit.com/search?q={query}&t=year
-w: Reddit for the past day,https://www.reddit.com/search?q={query}&t=day
-w: Reddit for the past hour,https://www.reddit.com/search?q={query}&t=hour
+w: Reddit (past month),https://www.reddit.com/search?q={query}&t=month
+w: Reddit (past week),https://www.reddit.com/search?q={query}&t=week
+w: Reddit (past year),https://www.reddit.com/search?q={query}&t=year
+w: Reddit (past day),https://www.reddit.com/search?q={query}&t=day
+w: Reddit (past hour),https://www.reddit.com/search?q={query}&t=hour
 w: Ruby gems,https://rubygems.org/search?utf8=%E2%9C%93&query={query}
 w: Rutracker,http://rutracker.org/forum/tracker.php?nm={query}
 w: Simple wikipedia,https://simple.wikipedia.org/w/index.php?search={query}&title=Special%3ASearch&go=Go
@@ -301,34 +301,34 @@ w: Student room,http://www.thestudentroom.co.uk/search.php?query={query}
 w: Stylish,https://userstyles.org/styles/browse?search_terms={query}
 w: Symlab,https://www.symbolab.com/solver/step-by-step/{query}
 w: SyntaxDB,https://syntaxdb.com/reference/search?utf8=✓&search={query}
-w: Ted talks,http://www.ted.com/search?q={query}
+w: TED Talks,http://www.ted.com/search?q={query}
 w: Terminal commands,http://www.openbsd.org/cgi-bin/man.cgi?query={query}
 w: Thesaurus,http://www.thesaurus.com/browse/{query}?s=t
 w: Trakt,https://trakt.tv/search?utf8=✓&query={query}
 w: Tumblr,https://www.tumblr.com/search/{query}
 w: Twitter live feed,https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
-w: Twitter videos,https://twitter.com/search?f=videos&vertical=default&q={query}&src=typd
+w: Twitter (videos),https://twitter.com/search?f=videos&vertical=default&q={query}&src=typd
 w: Udemy,https://www.udemy.com/courses/search/?q={query}
-w: Ui talks,http://talks.ui-patterns.com/search?utf8=✓&q={query}
+w: UI talks,http://talks.ui-patterns.com/search?utf8=✓&q={query}
 w: Ultimate guitar,http://www.ultimate-guitar.com/search.php?search_type=title&value={query}
 w: Unsplash,https://unsplash.com/search/photos/{query}
 w: Urban dictionary,http://www.urbandictionary.com/define.php?term={query}
 w: Vim awesome,http://vimawesome.com/?q={query}
 w: Vim wiki,http://vim.wikia.com/wiki/Special:Search?search={query}&fulltext=Search
-w: Vk,https://vk.com/search?c[q]={query}&c[section]=auto
-w: Vk music,http://vk.com/audios196314313?q={query}
-w: Vk people,https://vk.com/search?c%5Bname%5D=1&c%5Bq%5D={query}&c%5Bsection%5D=people
+w: VK,https://vk.com/search?c[q]={query}&c[section]=auto
+w: VK (music),http://vk.com/audios196314313?q={query}
+w: VK (people),https://vk.com/search?c%5Bname%5D=1&c%5Bq%5D={query}&c%5Bsection%5D=people
 w: Whois,http://whois.domaintools.com/{query}
-w: Wikihow,http://www.wikihow.com/Special:LSearch?search={query}
-w: Wolfram alpha derive,http://www.wolframalpha.com/input/?i=derive+{query}
+w: WikiHow,http://www.wikihow.com/Special:LSearch?search={query}
+w: Wolfram Alpha derive,http://www.wolframalpha.com/input/?i=derive+{query}
 w: Wolfram alpha integrate,http://www.wolframalpha.com/input/?i=integrate+{query}
 w: Wolfram alpha solve,http://www.wolframalpha.com/input/?i=solve+{query}
 w: Goodreads,https://www.goodreads.com/search?q={query}
 r: Machine learning,https://www.reddit.com/r/MachineLearning/search?q={query}&restrict_sr=on&sort=relevance&t=all
-w: Soundcloud,https://soundcloud.com/search?q={query}
+w: SoundCloud,https://soundcloud.com/search?q={query}
 d: Gitlogs - last month,http://www.gitlogs.com/most_popular?from=last-month&topic={query}
 w: Bubblehunt,https://bubblehunt.com/?q={query}
-w: Pinboard topics,https://pinboard.in/t:{query}/
+w: Pinboard (topics),https://pinboard.in/t:{query}/
 w: Find lectures,https://www.findlectures.com/?q={query}&p=1&
 w: Kaggle,https://www.kaggle.com/discussion?sortBy=relevance&group=all&search={query}&page=1&category=all&kind=topics
 w: Lobsters, https://lobste.rs/search?utf8=✓&q={query}&what=all&order=relevance
@@ -336,28 +336,28 @@ w: Aminer, http://aminer.org/search?t=b&q={query}
 d: Gitlogs,http://www.gitlogs.com/most_popular?topic={query}
 d: Gitlogs - last week,http://www.gitlogs.com/most_popular?from=last-week&topic={query}
 d: Pypi python,http://www.gitlogs.com/most_popular?from=last-week&topic={query}
-f: Alfred forum,http://www.alfredforum.com/search/?&q={query}
-f: Alfred forum - newest,https://www.alfredforum.com/search/?q={query}&sortby=newest
-f: Alfred forum - members,https://www.alfredforum.com/search/?&q={query}&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
+f: Alfred Forum,http://www.alfredforum.com/search/?&q={query}
+f: Alfred Forum (newest),https://www.alfredforum.com/search/?q={query}&sortby=newest
+f: Alfred forum (members),https://www.alfredforum.com/search/?&q={query}&type=core_members&joinedDate=any&group[4]=1&group[13]=1&group[14]=1&group[6]=1&group[7]=1&group[12]=1&group[3]=1&group[10]=1&group[11]=1
 f: Keyboard Maestro,https://forum.keyboardmaestro.com/search?q={query}
-f: Keyboard Maestro - latest posts,https://forum.keyboardmaestro.com/search?q={query}%20order%3Alatest
-f: Keyboard Maestro - most liked,https://forum.keyboardmaestro.com/search?q={query}%20order%3Alikes
-f: Keyboard Maestro - most viewed,https://forum.keyboardmaestro.com/search?q={query}%20order%3Aviews
+f: Keyboard Maestro (latest posts),https://forum.keyboardmaestro.com/search?q={query}%20order%3Alatest
+f: Keyboard Maestro (most liked),https://forum.keyboardmaestro.com/search?q={query}%20order%3Alikes
+f: Keyboard Maestro (most viewed),https://forum.keyboardmaestro.com/search?q={query}%20order%3Aviews
 w: Quora,https://www.quora.com/search?q={query}
-w: Quora - profiles,https://www.quora.com/search?q={query}&type=profile
-w: Quora - topics,https://www.quora.com/search?q={query}&type=topic
-w: Quora - answers,https://www.quora.com/search?q={query}&type=answer
-w: Quora - past month,https://www.quora.com/search?q={query}&time=month
+w: Quora (profiles),https://www.quora.com/search?q={query}&type=profile
+w: Quora (topics),https://www.quora.com/search?q={query}&type=topic
+w: Quora (answers),https://www.quora.com/search?q={query}&type=answer
+w: Quora (past month),https://www.quora.com/search?q={query}&time=month
 w: Letterboxd,http://letterboxd.com/search/{query}/
-w: Letterboxd - tags,http://letterboxd.com/search/tags/{query}/
-w: Letterboxd - actors,http://letterboxd.com/search/actors/{query}/
-s: Stack overflow - newest,http://stackoverflow.com/search?tab=newest&q={query}
-s: Stack overflow - most votes,http://stackoverflow.com/search?tab=votes&q={query}
-s: Stack overflow - ative,http://stackoverflow.com/search?tab=active&q={query}
+w: Letterboxd (tags),http://letterboxd.com/search/tags/{query}/
+w: Letterboxd (actors),http://letterboxd.com/search/actors/{query}/
+s: Stack Overflow (newest),http://stackoverflow.com/search?tab=newest&q={query}
+s: Stack Overflow (most votes),http://stackoverflow.com/search?tab=votes&q={query}
+s: Stack Overflow (most ative),http://stackoverflow.com/search?tab=active&q={query}
 w: Medium,https://medium.com/search?q={query}
-w: Medium - users,https://medium.com/search/users?q={query}
-w: Medium - tags,https://medium.com/search/tags?q={query}
-w: Medium - publications,https://medium.com/search/publications?q={query}
+w: Medium (users),https://medium.com/search/users?q={query}
+w: Medium (tags),https://medium.com/search/tags?q={query}
+w: Medium (publications),https://medium.com/search/publications?q={query}
 w: Twitter,https://twitter.com/search?q={query}&src=typd
 w: Twitter - users,https://twitter.com/search?f=users&vertical=default&q={query}&src=typd
 w: Twitter - latest,https://twitter.com/search?f=tweets&vertical=news&q={query}&src=typd
