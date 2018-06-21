@@ -23,7 +23,7 @@ Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 
 And since the workflow allows for fuzzy searching, you can even make searches like that:
 
-<img src="https://i.imgur.com/Rf4N6jK.png" width="500" alt="img">
+<img src="https://i.imgur.com/s5G9zAj.png" width="500" alt="img">
 
 And they will match.
 
