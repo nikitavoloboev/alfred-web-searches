@@ -9,7 +9,7 @@ You simply search for the website you want to scope your search too, press enter
 
 Each search has a prefix to signify the theme or scope of the search. For example results prefixed with `r: ` will search through subreddits. Here is the full list of prefixes and their descriptions.
 
-|  Prefix |  Decription |
+|  Prefix |  Description |
 |---|---|
 |  r: | Search subreddits on Reddit  |
 |  d: | Search documentation websites |
