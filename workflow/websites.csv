@@ -276,7 +276,7 @@ w: Metacademy,https://www.metacademy.org/search?q={query}
 d: Meteor packages,https://atmospherejs.com/?q={query}
 w: MIT Open Courseware,https://search.mit.edu/search?site=ocw&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&requiredfields=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&sectionlimit=WT%252Ecg_s%3ACourse+Home%7CWT%252Ecg_s%3AResource+Home&as_dt=i&oe=utf-8&departmentName=web&filter=0&courseName=&q={query}&btnG.x=0&btnG.y=0
 w: NPMs,https://npms.io/search?q={query}
-w: Nutrition facts,http://nutritionfacts.org/?fwp_search={query}
+w: NutritionFacts,http://nutritionfacts.org/?fwp_search={query}
 w: Opgg,http://euw.op.gg/summoner/userName={query}
 w: Patrick JMT,http://patrickjmt.com/?s={query}
 w: PirateBay,https://pirateproxy.la/search/{query}/0/99/0
