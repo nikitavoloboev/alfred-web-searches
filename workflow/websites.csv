@@ -404,7 +404,7 @@ w: Arxiv (thesis),https://newcatalog.library.cornell.edu/?f%5Bformat%5D%5B%5D=Th
 w: Metacademy,https://www.metacademy.org/search?q={query}
 w: MIT OpenCourseware PDFs,https://search.mit.edu/search?__EVENTTARGET=&__EVENTARGUMENT=&client=mit&getfields=*&output=xml_no_dtd&proxystylesheet=https%3A%2F%2Focw.mit.edu%2Fsearch%2Fgoogle-ocw.xsl&proxyreload=1&as_dt=i&oe=utf-8&btnG.x=4&btnG.y=10&filter=0&site=ocw&q={query}+filetype%3Apdf&getfields=*&sectionlimit=WT%252Ecg_s:Course+Home%7CWT%252Ecg_s:Resource+Home&oe=utf-8&is_secure=0&sort=date:D:L:d1
 w: Khan Academy,https://www.khanacademy.org/search?referer=%2F&page_search_query={query}
-d: Godoc,https://godoc.org/?q={query}
+d: GoDoc,https://godoc.org/?q={query}
 d: Go search,http://go-search.org/search?q={query}
 g: GitHub (Go),https://GitHub.com/search?q={query}+language:go
 g: GitHub (Java),https://GitHub.com/search?l=Java&q={query}&type=Repositories&utf8=✓
@@ -419,12 +419,12 @@ w: Vimeo,https://vimeo.com/search?q={query}
 w: Twitter (recent),https://twitter.com/search?f=tweets&vertical=default&q={query}&src=typd
 w: Keyboard Maestro (wiki), https://wiki.keyboardmaestro.com/Home_Page?do=search&id={query}
 w: Emojipedia,https://emojipedia.org/search/?q={query}
-w: Openstreatmap,http://www.openstreetmap.org/search?query={query}
-w: Startpage,https://www.startpage.com/do/metasearch.pl?query={query}
+w: OpenStreatMap,http://www.openstreetmap.org/search?query={query}
+w: StartPage,https://www.startpage.com/do/metasearch.pl?query={query}
 w: Searx,https://searx.tk/?q={query}
 w: Qwant,https://www.qwant.com/?q={query}&t=all
 w: DuckDuckGo,https://duckduckgo.com/?q={query}
-d: VS Code docs,https://code.visualstudio.com/Search?q={query}
+d: VS Code Docs,https://code.visualstudio.com/Search?q={query}
 w: Google Maps,https://www.google.com/maps/place/{query}
 r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=relevance&t=all
 w: Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
