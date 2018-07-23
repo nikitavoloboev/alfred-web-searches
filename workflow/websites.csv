@@ -1,6 +1,6 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 w: DuckDuckGo (I'm feeling lucky),https://duckduckgo.com/?q=!{query}
-w: DeedMob,https://www.deedmob.com/discover/Netherlands?query={query}
+w: DeedMob (NL),https://www.deedmob.com/discover/Netherlands?query={query}
 w: NixOS packages,https://nixos.org/nixos/packages.html#{query}
 w: Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={query}&button=&search%5Bnames%5D=0&search%5Bnames%5D=1&search%5Bfilenames%5D=0&search%5Bfilenames%5D=1&search%5Bdescriptions%5D=0&search%5Bdescriptions%5D=1
 w: Google Images (icons),https://www.google.co.in/search?tbs=ic%3Atrans&tbm=isch&q={query}+icon
@@ -11,7 +11,7 @@ r: Travel,https://www.reddit.com/r/travel/search?q={query}&restrict_sr=on&sort=r
 r: Research chemicals,https://www.reddit.com/r/researchchemicals/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Replications,https://www.reddit.com/r/replications/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Ask drugs,https://www.reddit.com/r/askdrugs/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: YNAB,https://www.reddit.com/r/ynab/search?q=tesert&restrict_sr=on&sort=relevance&t=all
+r: YNAB,https://www.reddit.com/r/ynab/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Mechanical Keyboards,https://www.reddit.com/r/MechanicalKeyboards/search?q={query}&restrict_sr=on&sort=relevance&t=all
 g: Gists (JavaScript),https://gist.github.com/search?l=JavaScript&q={query}&utf8=✓
 g: Gists (Go),https://gist.github.com/search?l=Go&q={query}&ref=searchresults&utf8=✓
