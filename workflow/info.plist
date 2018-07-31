@@ -434,6 +434,25 @@
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Search {var:ARG} for {query} with chrome</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A47BFDF6-6ACA-4962-926A-ED426EDFA5E2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>keyword</key>
 				<string>edit web</string>
@@ -455,44 +474,6 @@
 			<key>config</key>
 			<dict>
 				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>44998311-C8A5-4011-AAE6-6A13032F27CE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search {var:ARG} for {query} with chrome</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>A47BFDF6-6ACA-4962-926A-ED426EDFA5E2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
 				<string>com.google.Chrome</string>
 				<key>spaces</key>
 				<string></string>
@@ -505,6 +486,25 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>4580C38E-414A-4A63-9835-C7687180DC03</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://github.com/nikitavoloboev/alfred-web-searches/edit/master/workflow/websites.csv</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>44998311-C8A5-4011-AAE6-6A13032F27CE</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -919,11 +919,11 @@
 				<key>count</key>
 				<integer>1</integer>
 				<key>keychar</key>
-				<string>←</string>
+				<string>Space</string>
 				<key>keycode</key>
-				<integer>123</integer>
+				<integer>49</integer>
 				<key>keymod</key>
-				<integer>11665408</integer>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.dispatchkeycombo</string>
@@ -951,7 +951,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</key>
 		<dict>
 			<key>note</key>
-			<string>Search through any website</string>
+			<string>Search through websites</string>
 			<key>xpos</key>
 			<integer>190</integer>
 			<key>ypos</key>
@@ -960,9 +960,9 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>23473198-D164-44C6-8808-4A8F93A6791C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1020</integer>
+			<integer>980</integer>
 			<key>ypos</key>
-			<integer>600</integer>
+			<integer>590</integer>
 		</dict>
 		<key>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</key>
 		<dict>
@@ -974,16 +974,16 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>25640D91-BD2C-434C-8EA4-58A0910139D1</key>
 		<dict>
 			<key>xpos</key>
-			<integer>780</integer>
+			<integer>740</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>430</integer>
 		</dict>
 		<key>30363A54-691F-4C41-8BB7-775A8D39897E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>570</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>430</integer>
 		</dict>
 		<key>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</key>
 		<dict>
@@ -995,16 +995,16 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>35851EE6-88B6-4D0C-9EDB-F0BFA70BB8CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>400</integer>
+			<integer>360</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>430</integer>
 		</dict>
 		<key>44998311-C8A5-4011-AAE6-6A13032F27CE</key>
 		<dict>
 			<key>xpos</key>
 			<integer>1130</integer>
 			<key>ypos</key>
-			<integer>90</integer>
+			<integer>140</integer>
 		</dict>
 		<key>4580C38E-414A-4A63-9835-C7687180DC03</key>
 		<dict>
@@ -1016,42 +1016,42 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>4BF449D5-9697-4E10-A810-5005F0720FC7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>260</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>460</integer>
 		</dict>
 		<key>5CF1F7E8-057F-4F60-9028-95DE18487EE8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<integer>230</integer>
 			<key>ypos</key>
-			<integer>730</integer>
+			<integer>720</integer>
 		</dict>
 		<key>87300B30-01BD-4E56-9FDC-DE6B018FFB13</key>
 		<dict>
 			<key>xpos</key>
-			<integer>470</integer>
+			<integer>430</integer>
 			<key>ypos</key>
-			<integer>630</integer>
+			<integer>620</integer>
 		</dict>
 		<key>8BD35783-7FBB-4EF3-99B6-81683B970D8C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>640</integer>
-			<key>ypos</key>
 			<integer>600</integer>
+			<key>ypos</key>
+			<integer>590</integer>
 		</dict>
 		<key>8E596155-99EA-4741-93A6-2F044D5AA0CB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>230</integer>
+			<integer>190</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>460</integer>
 		</dict>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>420</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
@@ -1065,27 +1065,27 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>A47BFDF6-6ACA-4962-926A-ED426EDFA5E2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>420</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
 		<key>B7FC16DD-E9D4-42BD-BACA-959DDB472C21</key>
 		<dict>
 			<key>note</key>
-			<string>Add more searchable websites to GitHub list</string>
+			<string>Add more searchable websites</string>
 			<key>xpos</key>
 			<integer>950</integer>
 			<key>ypos</key>
-			<integer>90</integer>
+			<integer>140</integer>
 		</dict>
 		<key>C2F200AE-7909-4604-9E4A-3AA8998FB3E3</key>
 		<dict>
 			<key>note</key>
-			<string>Edit selected text and then then search it on any of the websites available</string>
+			<string>Edit or add to selected text</string>
 			<key>xpos</key>
-			<integer>60</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>630</integer>
+			<integer>620</integer>
 		</dict>
 		<key>C94BCEFA-1DEE-4E57-AADB-25226571390C</key>
 		<dict>
@@ -1104,25 +1104,25 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>DD325779-BAE8-47FC-938B-8FC107AAF9D0</key>
 		<dict>
 			<key>note</key>
-			<string>Search selected text on any of the websites available</string>
+			<string>Search selected text</string>
 			<key>xpos</key>
-			<integer>60</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>430</integer>
 		</dict>
 		<key>E64FE037-5BDA-41B1-9D90-EEE5BAE54551</key>
 		<dict>
 			<key>xpos</key>
-			<integer>540</integer>
+			<integer>500</integer>
 			<key>ypos</key>
-			<integer>630</integer>
+			<integer>620</integer>
 		</dict>
 		<key>EDE5299D-A193-48A9-89FE-C3444151206B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<integer>230</integer>
 			<key>ypos</key>
-			<integer>600</integer>
+			<integer>590</integer>
 		</dict>
 		<key>EED04421-505D-4F14-86D2-AF4664DD2602</key>
 		<dict>
@@ -1134,9 +1134,9 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>FA9A5CC0-97D9-41C2-84A6-8E3DD62803D0</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<integer>810</integer>
 			<key>ypos</key>
-			<integer>600</integer>
+			<integer>590</integer>
 		</dict>
 	</dict>
 	<key>version</key>
