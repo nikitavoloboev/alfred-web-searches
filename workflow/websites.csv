@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+w: Google Domains,https://domains.google.com/m/registrar/search?hl=en&searchTerm={query}
 w: DuckDuckGo (I'm feeling lucky),https://duckduckgo.com/?q=!{query}
 w: DeedMob (NL),https://www.deedmob.com/discover/Netherlands?query={query}
 w: NixOS packages,https://nixos.org/nixos/packages.html#{query}
