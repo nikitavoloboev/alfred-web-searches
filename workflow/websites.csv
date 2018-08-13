@@ -457,3 +457,4 @@ w: Researchr,https://researchr.org/search/publication/{query}
 w: Journal of Functional programming, https://www.cambridge.org/core/journals/journal-of-functional-programming/listing?q={query}&searchWithinIds=49AD4731AAB0E94D8EF98BBB4EE56A7F
 w: Bandcamp,https://bandcamp.com/search?q={query}
 w: Genius,https://genius.com/search?q={query}
+d: ClojureDocs,https://clojuredocs.org/search?q={query}
