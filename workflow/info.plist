@@ -374,7 +374,7 @@
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>search</string>
+				<string>search websites</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
@@ -1140,7 +1140,7 @@ Post any issues and feature requests you have there. 💜</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.5</string>
+	<string>2.7</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-web-searches#readme</string>
 </dict>
