@@ -462,3 +462,4 @@ g: GitHub (Clojure) (best match),https://github.com/search?l=&o=desc&q={query}+l
 g: GitHub (Clojure) (most stars),https://github.com/search?l=&o=desc&q={query}+language%3AClojure&s=stars&type=Repositories
 g: GitHub (Clojure) (recent updated),https://github.com/search?l=&o=desc&q={query}+language%3AClojure&s=updated&type=Repositories
 w: Academic Torrents,http://academictorrents.com/browse.php?search={query}
+w. 1337x,https://1337x.to/search/{query}/1/
