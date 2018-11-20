@@ -1,5 +1,6 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
-w: Google's autocomplete visualizer,https://anvaka.github.io/vs/?query={query}
+w: Google's autocomplete visualizer (Graph for),https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20...&query={query}
+w: Google's autocomplete visualizer (VS),https://anvaka.github.io/vs/?query={query}
 w: Steam games,https://store.steampowered.com/search/?term={query}
 w: Google Domains,https://domains.google.com/m/registrar/search?hl=en&searchTerm={query}
 w: DuckDuckGo (I'm feeling lucky),https://duckduckgo.com/?q=!{query}
