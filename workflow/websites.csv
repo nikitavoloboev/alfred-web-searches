@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+w. Reddit posted by domain (year),https://www.reddit.com/domain/{query}/top/?sort=top&t=year
 w: Google's autocomplete visualizer (Graph for),https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20...&query={query}
 w: Google's autocomplete visualizer (VS),https://anvaka.github.io/vs/?query={query}
 w: Steam games,https://store.steampowered.com/search/?term={query}
@@ -266,7 +267,7 @@ w: Google scholar,https://scholar.google.com/scholar?hl=en&q={query}&btnG=&as_sd
 w: Google verbatim,https://www.google.com/search?q={query}&tbs=li:1
 w: Grouevee,https://www.grouvee.com/search/?q={query}
 w: Habrahabr,http://habrahabr.ru/search/?q={query}
-w: Hacker news,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+w: Hacker News,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 w: How stuff works,http://www.howstuffworks.com/search.php?terms={query}
 w: Icon store,http://iconstore.co/?s={query}
 w: Index of a company,https://index.co/company/{query}
