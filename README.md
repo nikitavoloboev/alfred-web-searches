@@ -2,23 +2,22 @@
 
 > [Alfred](https://www.alfredapp.com/) workflow to search through any website (easily extendable list)
 
-<img src="https://i.imgur.com/KNiTsSe.png" width="500" alt="img">
+<img src="https://i.imgur.com/LhHUIbk.png" width="500" alt="img">
 
 This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](CONTRIBUTING.md#readme).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
 
-Each search has a prefix to signify the theme or scope of the search. For example results prefixed with `r:` will search through subreddits. Here is the full list of prefixes and their descriptions.
+Some results have a prefix to signify the scope of the search. For example results prefixed with `r:` will search through Reddit subreddits. Here is the full list of prefixes and their descriptions.
 
-| Prefix | Description                                  |
-| ------ | -------------------------------------------- |
-| r:     | Search subreddits on Reddit                  |
-| d:     | Search documentation websites                |
-| g:     | Search GitHub                                |
-| s:     | Search stack exchange sites                  |
-| f:     | Search forums                                |
-| t:     | Search Google Translate                      |
-| w:     | Search ordinary websites (none of the above) |
+| Prefix | Description                   |
+| ------ | ----------------------------- |
+| r:     | Search subreddits on Reddit   |
+| d:     | Search documentation websites |
+| g:     | Search GitHub                 |
+| s:     | Search stack exchange sites   |
+| f:     | Search forums                 |
+| t:     | Search Google Translate       |
 
 Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 

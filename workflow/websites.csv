@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+Related Subreddits,https://anvaka.github.io/sayit/?query={query}
 Audible, https://www.audible.com/search?keywords={query}
 w. Reddit posted by domain (year),https://www.reddit.com/domain/{query}/top/?sort=top&t=year
 Google's autocomplete visualizer (Graph for),https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20...&query={query}
