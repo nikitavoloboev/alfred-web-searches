@@ -22,6 +22,7 @@ r: YNAB,https://www.reddit.com/r/ynab/search?q={query}&restrict_sr=on&sort=relev
 r: Mechanical Keyboards,https://www.reddit.com/r/MechanicalKeyboards/search?q={query}&restrict_sr=on&sort=relevance&t=all
 g: Gists (JavaScript),https://gist.github.com/search?l=JavaScript&q={query}&utf8=✓
 g: Gists (Go),https://gist.github.com/search?l=Go&q={query}&ref=searchresults&utf8=✓
+g: Gists (C#),https://gist.github.com/search?l=C%23&q=query&ref=searchresults&utf8=✓
 CodeSandbox,https://codesandbox.io/search?query={query}
 Mashape,https://market.mashape.com/explore?query={query}
 d: Rust docs,https://docs.rs/releases/search?query={query}
