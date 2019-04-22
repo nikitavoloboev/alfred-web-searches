@@ -468,3 +468,6 @@ g: GitHub (Clojure) (most stars),https://github.com/search?l=&o=desc&q={query}+l
 g: GitHub (Clojure) (recent updated),https://github.com/search?l=&o=desc&q={query}+language%3AClojure&s=updated&type=Repositories
 Academic Torrents,http://academictorrents.com/browse.php?search={query}
 w. 1337x,https://1337x.to/search/{query}/1/
+g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&type=Repositories
+g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
+g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
