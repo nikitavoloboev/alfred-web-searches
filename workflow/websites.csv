@@ -234,6 +234,7 @@ t: Translate to Spanish,https://translate.google.com/#auto/es/{query}
 8tracks,http://8tracks.com/explore/{query}
 Abbreviation terms,http://www.abbreviations.com/abbreviation/{query}
 Yandex,https://www.yandex.com/search/?msid=1484233484.98264.22892.24573&text={query}&lr=10466
+Yandex (images),https://yandex.com/images/search?text={query}
 Abbreviations,http://www.abbreviations.com/{query}
 Aliexpress,http://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160518044144&SearchText={query}
 AlternativeTo,http://alternativeto.net/browse/search?q={query}
