@@ -1,7 +1,7 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 Related Subreddits,https://anvaka.github.io/sayit/?query={query}
 Audible, https://www.audible.com/search?keywords={query}
-w. Reddit posted by domain (year),https://www.reddit.com/domain/{query}/top/?sort=top&t=year
+Reddit posted by domain (year),https://www.reddit.com/domain/{query}/top/?sort=top&t=year
 Google's autocomplete visualizer (Graph for),https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20...&query={query}
 Google's autocomplete visualizer (VS),https://anvaka.github.io/vs/?query={query}
 Steam games,https://store.steampowered.com/search/?term={query}
@@ -469,7 +469,7 @@ g: GitHub (Clojure) (best match),https://github.com/search?l=&o=desc&q={query}+l
 g: GitHub (Clojure) (most stars),https://github.com/search?l=&o=desc&q={query}+language%3AClojure&s=stars&type=Repositories
 g: GitHub (Clojure) (recent updated),https://github.com/search?l=&o=desc&q={query}+language%3AClojure&s=updated&type=Repositories
 Academic Torrents,http://academictorrents.com/browse.php?search={query}
-w. 1337x,https://1337x.to/search/{query}/1/
+1337x,https://1337x.to/search/{query}/1/
 g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&type=Repositories
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
