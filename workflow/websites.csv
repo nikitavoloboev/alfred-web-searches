@@ -1,4 +1,6 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+Arxiv Sanity Preserver,http://www.arxiv-sanity.com/search?q={query}
+Pacmax,https://pacmax.org/?_sf_s={query}
 Related Subreddits,https://anvaka.github.io/sayit/?query={query}
 Audible, https://www.audible.com/search?keywords={query}
 Reddit posted by domain (year),https://www.reddit.com/domain/{query}/top/?sort=top&t=year
