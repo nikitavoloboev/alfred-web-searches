@@ -391,7 +391,7 @@ Goodreads (lists),https://www.goodreads.com/search?q={query}&search%5Bfield%5D=a
 Goodreads (quotes),https://www.goodreads.com/search?utf8=✓&query={query}
 Goodreads (people),https://www.goodreads.com/search?q={query}&search%5Bsource%5D=goodreads&search_type=people&tab=people
 Goodreads (groups),https://www.goodreads.com/search?utf8=%E2%9C%93&q={query}&search_type=groups&search%5Bfield%5D=on
-Hacker News (past month(,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
+Hacker News (past month),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
 Hacker News (past year),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=all
 Hacker News (stories all time),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 Hacker News (comments past month),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment

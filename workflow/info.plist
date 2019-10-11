@@ -106,6 +106,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>4E52FC06-A239-4132-85AE-A7D13566968B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>87300B30-01BD-4E56-9FDC-DE6B018FFB13</key>
 		<array>
 			<dict>
@@ -224,7 +237,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</string>
+				<string>4E52FC06-A239-4132-85AE-A7D13566968B</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -390,6 +403,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -428,7 +443,31 @@
 			<key>uid</key>
 			<string>14F1C35D-3003-4E57-B6FF-6C15CCA4000A</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "arg" : "{query}",
+    "config" : {
+      "title" : "",
+      "runningsubtext" : "",
+      "subtext" : ""
+    },
+    "variables" : {
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>4E52FC06-A239-4132-85AE-A7D13566968B</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -672,6 +711,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -708,7 +749,7 @@
 			<key>uid</key>
 			<string>35851EE6-88B6-4D0C-9EDB-F0BFA70BB8CE</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -788,6 +829,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -824,7 +867,7 @@
 			<key>uid</key>
 			<string>8BD35783-7FBB-4EF3-99B6-81683B970D8C</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -944,7 +987,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>0B629748-2068-4345-BA43-5772F37C3013</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>665</integer>
 			<key>ypos</key>
 			<integer>270</integer>
 		</dict>
@@ -953,7 +996,7 @@ Post any issues and feature requests you have there. 💜</string>
 			<key>note</key>
 			<string>Search through websites</string>
 			<key>xpos</key>
-			<integer>190</integer>
+			<integer>245</integer>
 			<key>ypos</key>
 			<integer>70</integer>
 		</dict>
@@ -967,7 +1010,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>23A8F1A5-6183-4943-84D2-D9E7B9DA9A72</key>
 		<dict>
 			<key>xpos</key>
-			<integer>420</integer>
+			<integer>475</integer>
 			<key>ypos</key>
 			<integer>270</integer>
 		</dict>
@@ -988,7 +1031,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>311CADC9-01B1-4DFD-8625-A41B6D1A72F4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>800</integer>
+			<integer>855</integer>
 			<key>ypos</key>
 			<integer>270</integer>
 		</dict>
@@ -1002,14 +1045,14 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>44998311-C8A5-4011-AAE6-6A13032F27CE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1130</integer>
+			<integer>1185</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
 		<key>4580C38E-414A-4A63-9835-C7687180DC03</key>
 		<dict>
 			<key>xpos</key>
-			<integer>800</integer>
+			<integer>855</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
@@ -1019,6 +1062,13 @@ Post any issues and feature requests you have there. 💜</string>
 			<integer>260</integer>
 			<key>ypos</key>
 			<integer>460</integer>
+		</dict>
+		<key>4E52FC06-A239-4132-85AE-A7D13566968B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>160</integer>
+			<key>ypos</key>
+			<integer>100</integer>
 		</dict>
 		<key>5CF1F7E8-057F-4F60-9028-95DE18487EE8</key>
 		<dict>
@@ -1051,21 +1101,21 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>9B873AF1-35BA-49E8-B24D-12F7FABB9DDF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>420</integer>
+			<integer>475</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
 		<key>A16C9145-6939-48CC-8054-EF9FD220B697</key>
 		<dict>
 			<key>xpos</key>
-			<integer>800</integer>
+			<integer>855</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
 		<key>A47BFDF6-6ACA-4962-926A-ED426EDFA5E2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>420</integer>
+			<integer>475</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
@@ -1074,7 +1124,7 @@ Post any issues and feature requests you have there. 💜</string>
 			<key>note</key>
 			<string>Add more searchable websites</string>
 			<key>xpos</key>
-			<integer>950</integer>
+			<integer>1005</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
@@ -1090,7 +1140,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>C94BCEFA-1DEE-4E57-AADB-25226571390C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>665</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
@@ -1127,7 +1177,7 @@ Post any issues and feature requests you have there. 💜</string>
 		<key>EED04421-505D-4F14-86D2-AF4664DD2602</key>
 		<dict>
 			<key>xpos</key>
-			<integer>610</integer>
+			<integer>665</integer>
 			<key>ypos</key>
 			<integer>140</integer>
 		</dict>
