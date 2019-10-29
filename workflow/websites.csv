@@ -266,12 +266,12 @@ Instagram (tags),https://instagram.com/explore/tags/{query}/
 Twitter (user),https://twitter.com/{query}
 Merriam webster dictionary,http://www.merriam-webster.com/dictionary/{query}
 Golang,https://golang.org/search?q={query}
-Google drive,https://drive.google.com/drive/search?q={query}
+Google Drive,https://drive.google.com/drive/search?q={query}
 Google (24 hours),https://www.google.com/search?q={query}&tbs=qdr:d
 Google (PDFs),https://www.google.com/#q=filetype:pdf+{query}
-Google groups,http://groups.google.com/groups?q={query}
-Google scholar,https://scholar.google.com/scholar?hl=en&q={query}&btnG=&as_sdt=1%2C44&as_sdtp=
-Google verbatim,https://www.google.com/search?q={query}&tbs=li:1
+Google Groups,http://groups.google.com/groups?q={query}
+Google Scholar,https://scholar.google.com/scholar?hl=en&q={query}&btnG=&as_sdt=1%2C44&as_sdtp=
+Google Verbatim,https://www.google.com/search?q={query}&tbs=li:1
 Grouevee,https://www.grouvee.com/search/?q={query}
 Habrahabr,http://habrahabr.ru/search/?q={query}
 Hacker News,https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
