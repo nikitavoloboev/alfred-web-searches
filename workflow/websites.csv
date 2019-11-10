@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+Pinboard,https://pinboard.in/search/?query={query}&all=Search+All
 StackSnippet,http://www.stacksnippet.com/#gsc.tab=0&gsc.q={query}
 Arxiv Sanity Preserver,http://www.arxiv-sanity.com/search?q={query}
 Pacmax,https://pacmax.org/?_sf_s={query}
