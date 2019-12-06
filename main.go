@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/deanishe/awgo"
+	aw "github.com/deanishe/awgo"
 	"github.com/deanishe/awgo/update"
 )
 
@@ -19,7 +19,6 @@ var (
 
 	repo = "nikitavoloboev/alfred-web-searches"
 
-	// Workflow stuff
 	wf *aw.Workflow
 )
 

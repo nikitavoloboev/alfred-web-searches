@@ -46,10 +46,10 @@ Facebook (messages),https://www.facebook.com/messages/?qa={query}
 Facebook (people),https://www.facebook.com/search/people/?q={query}
 Facebook (photos),https://www.facebook.com/search/photos/?q={query}
 Facebook (videos),https://www.facebook.com/search/videos/?q={query}
-Linkedin,https://www.linkedin.com/search/results/index/?keywords={query}
-Linkedin (jobs),https://www.linkedin.com/jobs/search/?keywords={query}
-Linkedin (people),https://www.linkedin.com/search/results/people/?keywords={query}
-Linkedin (companies),https://www.linkedin.com/search/results/people/?keywords={query}
+LinkedIn,https://www.linkedin.com/search/results/index/?keywords={query}
+LinkedIn (jobs),https://www.linkedin.com/jobs/search/?keywords={query}
+LinkedIn (people),https://www.linkedin.com/search/results/people/?keywords={query}
+LinkedIn (companies),https://www.linkedin.com/search/results/people/?keywords={query}
 Facebook (pages),https://www.facebook.com/search/pages/?q={query}
 Facebook (places),https://www.facebook.com/search/str/{query}/keywords_places/
 Facebook (groups),https://www.facebook.com/search/groups/?q={query}
