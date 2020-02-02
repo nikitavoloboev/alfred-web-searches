@@ -967,6 +967,8 @@
 				<integer>49</integer>
 				<key>keymod</key>
 				<integer>0</integer>
+				<key>overridewithargument</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.dispatchkeycombo</string>
@@ -1192,6 +1194,6 @@ Post any issues and feature requests you have there. 💜</string>
 	<key>version</key>
 	<string>2.7.1</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev/alfred-web-searches#readme</string>
+	<string>https://github.com/nikitavoloboev/alfred-web-searches</string>
 </dict>
 </plist>
