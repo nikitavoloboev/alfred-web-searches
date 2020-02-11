@@ -480,3 +480,9 @@ g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
 CoinMarketCap,https://coinmarketcap.com/search/?q={query}
+b: Baidu,https://www.baidu.com/s?wd={query}
+t: Taobao,https://s.taobao.com/search?q={query}
+z: Zhihu,https://www.zhihu.com/search?q={query}
+b: Bilibili,https://search.bilibili.com/all?keyword={query}
+w: Weibo,https://s.weibo.com/weibo?q={query}
+j: Jd,https://search.jd.com/Search?enc=utf-8&keyword={query}
