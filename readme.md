@@ -1,10 +1,10 @@
-# Alfred Web Searches [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
+# Alfred Web Searches [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
 
 > [Alfred](https://www.alfredapp.com/) workflow to search through any website (easily extendable list)
 
-<img src="https://i.imgur.com/LhHUIbk.png" width="500" alt="img">
+<img src="https://i.imgur.com/Fjksq05.png" width="500" alt="img">
 
-This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](CONTRIBUTING.md#readme).
+This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](workflow/websites.csv).
 
 You simply search for the website you want to scope your search too, press enter and make your search.
 
@@ -23,7 +23,7 @@ Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 
 And since the workflow allows for fuzzy searching, you can even make searches like that:
 
-<img src="https://i.imgur.com/VePdZ5b.png" width="500" alt="img">
+<img src="https://i.imgur.com/4JZhhqO.png" width="500" alt="img">
 
 And they will match.
 
@@ -31,14 +31,14 @@ You can also attach a hotkey that will take the selected text and then will let 
 
 ## Install
 
-Download the workflow from [GitHub releases](../../releases/latest).
+Download workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
 
-See [contribution guidelines](CONTRIBUTING.md#readme).
+See [contribution guidelines](contributing.md).
 
 ## Thank you
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![MIT](http://bit.ly/mitbadge)](LICENSE) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![MIT](http://bit.ly/mitbadge)](license) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
