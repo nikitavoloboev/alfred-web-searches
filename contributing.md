@@ -5,13 +5,11 @@ Thank you for taking the time to contribute! ♥️ You can:
 - Submit [bug reports or feature requests](../../issues/new/choose). Contribute to discussions. Fix [open issues](../../issues).
 - Improve docs, the code and more! Any idea is welcome.
 
-## Dependencies
+## Run project
 
 The workflow is written in [Go](https://golang.org/) and uses [AwGo](https://github.com/deanishe/awgo) library for all Alfred related things.
 
 It uses [modd](https://github.com/cortesi/modd) and [Alfred command](https://godoc.org/github.com/jason0x43/go-alfred/alfred) to ease its development.
-
-To run the project:
 
 1. Clone repo
 2. Run `alfred link` (makes symbolic link of [`workflow`](workflow) directory)
