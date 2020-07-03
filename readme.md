@@ -2,7 +2,7 @@
 
 > [Alfred](https://www.alfredapp.com/) workflow to search through any website (easily extendable list)
 
-<img src="https://i.imgur.com/IxhwjuN.png" width="500" alt="img">
+<img src="https://i.imgur.com/eTm0GAe.png" width="500" alt="img">
 
 This workflow similar to [DuckDuckGo Bangs](https://duckduckgo.com/bang?) allows you to fuzzy search through a selection of websites that you can [add and contribute to](workflow/websites.csv).
 
@@ -23,7 +23,7 @@ Each prefix also has a corresponding icon for visual feedback of prefix meaning.
 
 And since the workflow allows for fuzzy searching, you can even make searches like that:
 
-<img src="https://i.imgur.com/eekNFrr.png" width="500" alt="img">
+<img src="https://i.imgur.com/ncAI2ho.png" width="500" alt="img">
 
 And they will match.
 
