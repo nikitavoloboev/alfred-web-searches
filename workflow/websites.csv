@@ -481,3 +481,5 @@ g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
 CoinMarketCap,https://coinmarketcap.com/search/?q={query}
+d: Brightscript,https://developer.roku.com/search?qs={query}
+f: Roku developer forums,https://community.roku.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=category:channel-developers&q={query}
