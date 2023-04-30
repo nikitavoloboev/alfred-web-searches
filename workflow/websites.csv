@@ -483,3 +483,4 @@ g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC
 CoinMarketCap,https://coinmarketcap.com/search/?q={query}
 d: Brightscript,https://developer.roku.com/search?qs={query}
 f: Roku developer forums,https://community.roku.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=category:channel-developers&q={query}
+sf: Snowflake Documentation, https://docs.snowflake.com/search?q={query}
