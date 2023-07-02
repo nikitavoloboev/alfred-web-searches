@@ -50,7 +50,7 @@ It uses [modd](https://github.com/cortesi/modd) and [Alfred command](https://god
 
 ## Discuss / help
 
-Search for [existing issues](../../issues/new/choose) or open new [bug report or issue](../../issues/new/choose).
+Search for [existing issues](../../issues/new/choose) or open [new one](../../issues/new/choose).
 
 ## Thank you
 
