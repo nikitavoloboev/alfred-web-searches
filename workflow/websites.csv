@@ -1,4 +1,5 @@
 aur: ArchPkgs,https://aur.archlinux.org/packages/?K={query}
+yarn: YarnPkg,https://yarnpkg.com/search?q={query}
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 g: GitHub (location), https://github.com/search?q=location%3A{query}
 Google Dataset Search,https://toolbox.google.com/datasetsearch/search?query={query}
