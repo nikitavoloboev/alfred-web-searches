@@ -73,6 +73,7 @@ Last.fm,https://www.last.fm/search?q={query}
 LeetCode,https://leetcode.com/problemset/all/?search={query}
 Reddit,https://www.reddit.com/search?q={query}&sort=relevance&t=all
 g: GitHub (recent),https://GitHub.com/search?utf8=✓&q={query}&type=Repositories&ref=searchresults&o=desc&s=updated
+r: Ableton,https://www.reddit.com/r/Ableton/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Advanced Fitness,https://www.reddit.com/r/AdvancedFitness/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Algorithms,https://www.reddit.com/r/algorithms/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Apple,https://www.reddit.com/r/apple/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -92,6 +93,7 @@ r: Coffecript,https://www.reddit.com/r/coffeescript/search?q={query}&restrict_sr
 r: CS books,https://www.reddit.com/r/csbooks/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: CS career questions,https://www.reddit.com/r/cscareerquestions/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: CS education,https://www.reddit.com/r/CSEducation/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: DACA,https://www.reddit.com/r/daca/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Daily programmer,https://www.reddit.com/r/dailyprogrammer/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Data is beautiful,https://www.reddit.com/r/dataisbeautiful/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Design,https://www.reddit.com/r/Design/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -117,8 +119,6 @@ r: Lectures,https://www.reddit.com/r/lectures/search?q={query}&restrict_sr=on&so
 r: Linux,https://www.reddit.com/r/linux/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Lisp,https://www.reddit.com/r/lisp/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Listen to this,https://www.reddit.com/r/listentothis/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: LSD,https://www.reddit.com/r/LSD/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Lua,https://www.reddit.com/r/lua/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Mac,https://www.reddit.com/r/mac/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Math,https://www.reddit.com/r/math/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Matlab,https://www.reddit.com/r/matlab/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -137,6 +137,7 @@ r: Pics,https://www.reddit.com/r/pics/search?q={query}&restrict_sr=on&sort=relev
 r: Privacy,https://www.reddit.com/r/privacy/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Programming,https://www.reddit.com/r/programming/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Psychonaut,https://www.reddit.com/r/Psychonaut/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Puschcut,https://www.reddit.com/r/Pushcut/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Python,https://www.reddit.com/r/Python/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: R stats,https://www.reddit.com/r/rstats/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/search?q={query}&restrict_sr=on&sort=relevance&t=all
@@ -149,6 +150,7 @@ r: Seduction,https://www.reddit.com/r/seduction/search?q={query}&restrict_sr=on&
 r: Shower thoughts,https://www.reddit.com/r/Showerthoughts/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: SQL,https://www.reddit.com/r/SQL/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Startups,https://www.reddit.com/r/startups/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Shortcuts,https://www.reddit.com/r/shortcuts/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Technology,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Tiny code,https://www.reddit.com/r/tinycode/search?q={query}&restrict_sr=on&sort=relevance&t=all
